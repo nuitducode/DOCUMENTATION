@@ -8,7 +8,7 @@ https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-
 Si des points restent peu clairs ou si ce document ne répond pas à vos questions, n’hésitez pas à contacter l’équipe de la Nuit du c0de à l’adresse contact@nuitducode.net.
 
 ## Duel dans le cosmos
-<img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ic20353e30a32866f/version/1632487882/image.jpg" style="float:left;width:200px;" />
+<img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ic20353e30a32866f/version/1632487882/image.jpg" style="float:left;display:block;width:200px;" />
 Dans cet univers de jeu, il y a 7 lutins à utiliser : 2 astronautes (blanc et orange), 2 lasers (vert et rouge), 1
 explosion, un lutin de texte et 2 de chiffres. Les déplacements de l’astronautes blanc sont déjà codés, vous
 n’avez pas à les modifier. Pour l’astronaute orange, il y a aussi une base pour les déplacements qu’il faudra
