@@ -116,10 +116,42 @@ Documents fournis :
 Les videos de Jean-Yves
 
 
+<table>
+<tr>
+<td>
+
+[![](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
+
+</td>
+<td>
+
+[![](https://img.youtube.com/vi/3PbXyzQQOYk/0.jpg)](https://www.youtube.com/watch?v=3PbXyzQQOYk)
+
+</td>
+<td>
+
+[![](https://img.youtube.com/vi/8oSKtPQNDr8/0.jpg)](https://www.youtube.com/watch?v=8oSKtPQNDr8)
+
+</td>
+</tr>
+<tr>
+<td>
+
+[![](https://img.youtube.com/vi/xRiZD5wsh0k/0.jpg)](https://www.youtube.com/watch?v=xRiZD5wsh0k)
+
+</td>
+<td>video 1
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kyWePsm__nA/0.jpg)](https://www.youtube.com/watch?v=kyWePsm__nA)
 
+</td>
+<td>video 1
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kyWePsm__nA/0.jpg)](https://www.youtube.com/watch?v=kyWePsm__nA)
+
+</td>
+</tr>
+</table>
 
 
 
