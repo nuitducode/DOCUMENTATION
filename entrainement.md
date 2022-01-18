@@ -7,9 +7,9 @@ https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-
 
 Si des points restent peu clairs ou si ce document ne répond pas à vos questions, n’hésitez pas à contacter l’équipe de la Nuit du c0de à l’adresse contact@nuitducode.net.
 
+## FICHES
 
-
-## Duel dans le cosmos
+### Duel dans le cosmos
 
 <table cellpadding="10">
 <tr>
@@ -33,7 +33,7 @@ Documents fournis :
 </tr>
 </table>
 
-## La clé des champs
+### La clé des champs
 
 <table cellpadding="10">
 <tr>
@@ -57,7 +57,7 @@ Documents fournis :
 </table>
 
 
-## Le trésor de Piggy
+### Le trésor de Piggy
 
 <table cellpadding="10">
 <tr>
@@ -88,7 +88,7 @@ Documents fournis :
 </table>
 
 
-## Flappy Piggy
+### Flappy Piggy
 
 <table cellpadding="10">
 <tr>
@@ -110,3 +110,16 @@ Documents fournis :
 </td>
 </tr>
 </table>
+
+## VIDEOS
+
+Les videos de Jean-Yves
+
+
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kyWePsm__nA/0.jpg)](https://www.youtube.com/watch?v=kyWePsm__nA)
+
+
+
+
+
