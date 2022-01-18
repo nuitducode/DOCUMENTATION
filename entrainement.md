@@ -140,7 +140,25 @@ Les videos de Jean-Yves
 [![](https://img.youtube.com/vi/xRiZD5wsh0k/0.jpg)](https://www.youtube.com/watch?v=xRiZD5wsh0k)
 
 </td>
-<td>video 1
+<td>
+
+[![](https://img.youtube.com/vi/O1tDjDGwBtE/0.jpg)](https://www.youtube.com/watch?v=O1tDjDGwBtE)
+
+</td>
+<td>
+
+[![](https://img.youtube.com/vi/nINGvQVP_Og/0.jpg)](https://www.youtube.com/watch?v=nINGvQVP_Og)
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+[![](https://img.youtube.com/vi/P22s9A9U9lM/0.jpg)](https://www.youtube.com/watch?v=P22s9A9U9lM)
+
+</td>
+<td>
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kyWePsm__nA/0.jpg)](https://www.youtube.com/watch?v=kyWePsm__nA)
 
