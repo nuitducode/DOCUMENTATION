@@ -10,7 +10,7 @@ Si des points restent peu clairs ou si ce document ne répond pas à vos questio
 
 
 ## Duel dans le cosmos
-<table cellspacing="5"><tr><td width="200" valign="top">
+<table cellpadding="10"><tr><td width="200" valign="top">
 
 
 [![](https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ic20353e30a32866f/version/1632487882/image.jpg)](https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493)
