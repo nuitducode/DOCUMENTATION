@@ -10,12 +10,12 @@ Si des points restent peu clairs ou si ce document ne répond pas à vos questio
 
 
 ## Duel dans le cosmos
-<table><tr><td width="30%">
+<table cellspacing="5"><tr><td width="200" valign="top">
 
 
 [![](https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ic20353e30a32866f/version/1632487882/image.jpg)](https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493)
 
-</td><td width="70%">
+</td><td>
 Dans cet univers de jeu, il y a 7 lutins à utiliser : 2 astronautes (blanc et orange), 2 lasers (vert et rouge), 1
 explosion, un lutin de texte et 2 de chiffres. Les déplacements de l’astronautes blanc sont déjà codés, vous
 n’avez pas à les modifier. Pour l’astronaute orange, il y a aussi une base pour les déplacements qu’il faudra
