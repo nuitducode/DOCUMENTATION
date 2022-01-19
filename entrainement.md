@@ -19,7 +19,7 @@ Si des points restent peu clairs ou si ce document ne répond pas à vos questio
 
 </td><td>
   
-[![](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/bouton_ouvrir_fiche.svg)](https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493)
+[![](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/0e91f8faceba3ce7b79333d2807989a6f36bfd40/bouton_ouvrir_fiche.svg)](https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493)
   
 Dans cet univers de jeu, il y a 7 lutins à utiliser : 2 astronautes (blanc et orange), 2 lasers (vert et rouge), 1 explosion, un lutin de texte et 2 de chiffres. Les déplacements de l’astronautes blanc sont déjà codés, vous n’avez pas à les modifier. Pour l’astronaute orange, il y a aussi une base pour les déplacements qu’il faudra
 compléter. Le jeu est simple : le joueur (astronaute blanc) doit tirer sur l’astronaute orange sans se faire tirer dessus par celui-ci.
