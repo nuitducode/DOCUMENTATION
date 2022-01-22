@@ -63,7 +63,7 @@ Documents fournis :
 <tr>
 <td width="200" valign="top">
 
-[![](https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/i415d37a1c5ac5a15/version/1632554341/image.jpg)](https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#id=cc-m-header-11829702593)
+[![](https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/i415d37a1c5ac5a15/version/1632554341/image.jpg)](https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702593)
 
 </td><td>
   
