@@ -113,9 +113,6 @@ Documents fournis :
 
 ## VIDEOS
 
-Les videos de Jean-Yves
-
-
 <table>
 <tr>
 <td>
