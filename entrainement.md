@@ -157,15 +157,70 @@ Documents fournis :
 </td>
 <td>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kyWePsm__nA/0.jpg)](https://www.youtube.com/watch?v=kyWePsm__nA)
+[![](https://img.youtube.com/vi/jtVMnEZDDes/0.jpg)](https://www.youtube.com/watch?v=jtVMnEZDDes)
 
 </td>
 <td>video 1
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/kyWePsm__nA/0.jpg)](https://www.youtube.com/watch?v=kyWePsm__nA)
+[![](https://img.youtube.com/vi/v37gPSxlPW4/0.jpg)](https://www.youtube.com/watch?v=v37gPSxlPW4)
 
 </td>
 </tr>
+  
+<tr>
+<td>
+
+[![](https://img.youtube.com/vi/P7ORrWLlGsA/0.jpg)](https://www.youtube.com/watch?v=P7ORrWLlGsA)
+
+</td>
+<td>
+
+[![](https://img.youtube.com/vi/n1NCXKKrtq0/0.jpg)](https://www.youtube.com/watch?v=n1NCXKKrtq0)
+
+</td>
+<td>video 1
+
+[![](https://img.youtube.com/vi/DZYkdUrQegU/0.jpg)](https://www.youtube.com/watch?v=DZYkdUrQegU)
+
+</td>
+</tr>
+  
+<tr>
+<td>
+
+[![](https://img.youtube.com/vi/5wrleesBQCU/0.jpg)](https://www.youtube.com/watch?v=5wrleesBQCU)
+
+</td>
+<td>
+
+[![](https://img.youtube.com/vi/MK4F1E3_nEY/0.jpg)](https://www.youtube.com/watch?v=MK4F1E3_nEY)
+
+</td>
+<td>video 1
+
+[![](https://img.youtube.com/vi/fQZVY39WTg4/0.jpg)](https://www.youtube.com/watch?v=fQZVY39WTg4)
+
+</td>
+</tr>  
+  
+<tr>
+<td>
+
+[![](https://img.youtube.com/vi/8VfQzEOcRd0/0.jpg)](https://www.youtube.com/watch?v=8VfQzEOcRd0)
+
+</td>
+<td>
+
+[![](https://img.youtube.com/vi/-S4utl_quqQ/0.jpg)](https://www.youtube.com/watch?v=-S4utl_quqQ)
+
+</td>
+<td>video 1
+
+[![](https://img.youtube.com/vi/X669S6tAyis/0.jpg)](https://www.youtube.com/watch?v=X669S6tAyis)
+
+</td>
+</tr>   
+  
 </table>
 
 
