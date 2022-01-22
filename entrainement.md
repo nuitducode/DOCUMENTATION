@@ -43,7 +43,7 @@ Documents fournis :
 
 </td><td>
 
-<a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493"><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/bouton_ouvrir_fiche.svg" width="120" /></a>
+<a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829701293"><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/bouton_ouvrir_fiche.svg" width="120" /></a>
 
 Dans cet univers de jeu, il y a 14 lutins. Attention ! Vous n’avez pas de code à écrire pour l’échelle, le sol, ni les 2 plates-formes. Le jeu est simple : l’extraterrestre vert (joueur) doit aller chercher la clef sur la plate-forme pour ouvrir la porte. Il doit éviter les boules de feu envoyées par la bernacle, l’abeille et ne pas toucher aux pointes.
 
@@ -67,7 +67,7 @@ Documents fournis :
 
 </td><td>
   
-<a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493"><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/bouton_ouvrir_fiche.svg" width="120" /></a>
+<a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702593"><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/bouton_ouvrir_fiche.svg" width="120" /></a>
 
 Dans cet univers de jeu, il y a 7 lutins à animer :
 • Piggy, le cochon ailé qui sera dirigé par le joueur.
@@ -98,7 +98,7 @@ Documents fournis :
 
 </td><td>
   
-<a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493"><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/bouton_ouvrir_fiche.svg" width="120" /></a>
+<a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702793"><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/bouton_ouvrir_fiche.svg" width="120" /></a>
   
 Dans cet univers de jeu, il y a 8 lutins à utiliser : Piggy, le cochon ailé qui sera dirigé par le joueur ; des tuyaux (un seul lutin) ; deux lutins « sol » ; un lutin « Play » ; deux lutins « chiffres » pour afficher le score ; un lutin texte « Game over ». Chaque lutin contient les 4 sons à disposition pour ce jeu. Le jeu à créer est simple à jouer, mais assez technique à coder : Piggy doit passer entre les tuyaux sans les percuter.
 
