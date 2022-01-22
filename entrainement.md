@@ -131,6 +131,7 @@ Documents fournis :
 
 </td>
 </tr>
+
 <tr>
 <td>
 
@@ -160,7 +161,7 @@ Documents fournis :
 [![](https://img.youtube.com/vi/jtVMnEZDDes/0.jpg)](https://www.youtube.com/watch?v=jtVMnEZDDes)
 
 </td>
-<td>video 1
+<td>
 
 [![](https://img.youtube.com/vi/v37gPSxlPW4/0.jpg)](https://www.youtube.com/watch?v=v37gPSxlPW4)
 
@@ -178,7 +179,7 @@ Documents fournis :
 [![](https://img.youtube.com/vi/n1NCXKKrtq0/0.jpg)](https://www.youtube.com/watch?v=n1NCXKKrtq0)
 
 </td>
-<td>video 1
+<td>
 
 [![](https://img.youtube.com/vi/DZYkdUrQegU/0.jpg)](https://www.youtube.com/watch?v=DZYkdUrQegU)
 
@@ -196,7 +197,7 @@ Documents fournis :
 [![](https://img.youtube.com/vi/MK4F1E3_nEY/0.jpg)](https://www.youtube.com/watch?v=MK4F1E3_nEY)
 
 </td>
-<td>video 1
+<td>
 
 [![](https://img.youtube.com/vi/fQZVY39WTg4/0.jpg)](https://www.youtube.com/watch?v=fQZVY39WTg4)
 
@@ -214,7 +215,7 @@ Documents fournis :
 [![](https://img.youtube.com/vi/-S4utl_quqQ/0.jpg)](https://www.youtube.com/watch?v=-S4utl_quqQ)
 
 </td>
-<td>video 1
+<td>
 
 [![](https://img.youtube.com/vi/X669S6tAyis/0.jpg)](https://www.youtube.com/watch?v=X669S6tAyis)
 
