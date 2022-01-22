@@ -1,13 +1,13 @@
 # ENTRAÎNEMENT
 
-Pour preparer la Nuit du c0de avec les eleves, voici quelques ressources qui perttent de meet rene plqce des seances de decouverte / approfondissement de Scratch. Ces ressources ont ete crées par Jean-Yves Labouche 
+Pour préparer la Nuit du c0de avec les élèves, voici quelques ressources qui permettent de mettre en place des séances de découverte / approfondissement de Scratch. Ces ressources ont été créées par Jean-Yves Labouche qui a été responsable de l'organisation de la Nuit du c0de pendant plusieurs années. Les ressources (et de très nombreuses autres pour les mathématiques) sont publiées sur son site : https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch/.
+
+Vous trouverez ci-dessous la listes des ressources composées de :
+* 4 exercices d'entraînement complets
+* 18 tutoriels au format vidéo
 
 
-https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch/
-
-Si des points restent peu clairs ou si ce document ne répond pas à vos questions, n’hésitez pas à contacter l’équipe de la Nuit du c0de à l’adresse contact@nuitducode.net.
-
-## FICHES
+## EXERCICES D'ENTRAÎNEMENT
 
 ### Duel dans le cosmos
 
