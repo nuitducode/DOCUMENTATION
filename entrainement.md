@@ -113,7 +113,7 @@ Documents fournis :
 
 ## VIDEOS
 
-<table>
+<table cellpadding="5">
 <tr>
 <td>
 
