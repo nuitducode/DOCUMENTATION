@@ -12,6 +12,7 @@ theme:
     repo: fontawesome/brands/git-alt
   features:
     - navigation.tabs
+    - content.tabs.link    
 
 extra:
   version:
@@ -22,6 +23,19 @@ edit_uri: ""
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences   
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg   
+  - admonition
+  - pymdownx.details   
+  - attr_list
+  - md_in_html
+  - abbr
  
 extra_css:
   - assets/stylesheets/extra.css 
