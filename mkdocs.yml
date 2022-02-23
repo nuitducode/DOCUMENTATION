@@ -1,0 +1,31 @@
+site_name: DOCUMENTATION
+theme:
+  name: material
+  custom_dir: docs/overrides
+  language: fr
+  favicon: assets/images/mon-oral.svg
+  logo: assets/images/mon-oral.svg
+  palette:
+    primary: white
+    accent: green
+  icon:
+    repo: fontawesome/brands/git-alt
+
+extra:
+  version:
+    provider: mike
+repo_url: https://github.com/mon-oral/documentation
+edit_uri: ""
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+ 
+extra_css:
+  - assets/stylesheets/extra.css 
+ 
+extra_javascript:
+  - assets/javascripts/extra.js 
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
