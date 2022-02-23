@@ -3,6 +3,7 @@
 Voir [Commen installer (Windows, Mac Linux)](https://github.com/kitao/pyxel/blob/main/doc/README.fr.md#comment-installer)
 
 Pour Windows:
+
 * Télécharger [Edupyton 38 1.1](https://github.com/edupyter/EDUPYTER38/releases/download/v1.1/EDUPYTER-38-1.1-setup.exe) sur [www.edupyton.net](https://www.edupyter.net/)
 * Installer Edupyton 38 1.1\
 Edupyter est portable et ne nécessite pas de droits administrateur. Edupyter peut être installé dans un dossier sur le disque dur ou sur une clé USB / disque amovible. L'installation ne fait que copier des fichiers et des dossiers dans le dossier d'installation choisi. Le système n'est pas modifié. Pour supprimer Edupyter il suffit de supprimer le dossier dans lequel il a été installé.
