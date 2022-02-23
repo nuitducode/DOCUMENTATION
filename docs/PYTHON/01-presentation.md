@@ -6,6 +6,6 @@ Grâce à ses spécifications simples inspirées par les consoles rétro, comme 
 
 Les spécifications et les API de Pyxel sont inspirées de PICO-8 et TIC-80.
 
-Pyxel est un logiciel libre et open source. Commençons à faire un jeu vidéo rétro avec Pyxel !" 
+Pyxel est un logiciel libre et open source." 
 
 Extrait de [github.com/kitao/pyxel](https://github.com/kitao/pyxel/blob/main/doc/README.fr.md)
