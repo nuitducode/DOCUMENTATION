@@ -4,7 +4,7 @@
 
 ## 1. Première
 
-> Programmation impérative : utilisation obligatoire de variables globales dans `update` et `draw`.
+> Programmation impérative : utilisation obligatoire de variables globales dans `update`.
 
 ``` py
 import pyxel, random
