@@ -3,8 +3,8 @@ theme:
   name: material
   custom_dir: docs/overrides
   language: fr
-  favicon: assets/images/mon-oral.svg
-  logo: assets/images/mon-oral.svg
+  favicon: https://www.nuitducode.net/img/favicon.svg
+  logo: https://www.nuitducode.net/img/favicon.svg
   palette:
     primary: white
     accent: green
