@@ -55,8 +55,6 @@ def update():
 def draw():
     """ création des objets (30 fois par seconde)"""
 
-    global x, y
-
     # vide la fenetre
     pyxel.cls(0)
 
