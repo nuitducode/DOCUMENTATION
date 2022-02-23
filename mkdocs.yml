@@ -14,7 +14,7 @@ theme:
 extra:
   version:
     provider: mike
-repo_url: https://github.com/mon-oral/documentation
+repo_url: https://github.com/nuitducode/DOCUMENTATION
 edit_uri: ""
 
 markdown_extensions:
