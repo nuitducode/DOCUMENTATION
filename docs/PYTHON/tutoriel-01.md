@@ -2,9 +2,7 @@
 
 **But** : déplacer un carré avec les touches de directions
 
-<center>
-<iframe width="300" height="315" src="https://www.youtube.com/embed/dsml0_gn7CE" title="Tutoriel #01" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope;" allowfullscreen></iframe>
-</center>
+<center><img src=https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-01.gif width=200 /></center>
 
 ## 1. Première
 
