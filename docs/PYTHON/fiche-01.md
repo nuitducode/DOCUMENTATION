@@ -2,7 +2,7 @@
 
 ## 1. Première
 
-```python
+``` py
 import pyxel, random
 
 # taille de la fenetre 128x128 pixels
@@ -115,7 +115,7 @@ pyxel.run(update, draw)
 
 ## 2. Terminale
 
-```python
+``` py
 import pyxel,random
 
 class Jeu:

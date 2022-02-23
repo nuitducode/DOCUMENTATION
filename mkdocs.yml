@@ -10,6 +10,8 @@ theme:
     accent: green
   icon:
     repo: fontawesome/brands/git-alt
+  features:
+    - navigation.tabs
 
 extra:
   version:
