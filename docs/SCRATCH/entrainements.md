@@ -82,7 +82,7 @@ Documents fournis :
 <tr>
 <td>
 
-[![](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
+<a href="https://www.youtube.com/watch?v=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a>
 
 </td>
 <td>
