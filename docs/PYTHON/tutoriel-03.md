@@ -1,15 +1,16 @@
-# TUTORIEL #02
+# TUTORIEL #03
 
-**But** : ajouter des tirs
+**But** : ajouter des ennemis
 
-<center><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-02.gif" width=250 /></center>
+<center><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-03.gif" width=250 /></center>
 
 ## 1. Première
 
 > Programmation impérative : utilisation obligatoire de variables globales dans `update`.
 
 ``` py
-import pyxel
+# on rajoute random
+import pyxel, random
 
 # taille de la fenetre 128x128 pixels
 # ne pas modifier
@@ -22,6 +23,9 @@ vaisseau_y = 60
 
 # initialisation des tirs
 tirs_liste = []
+
+# initialisation des ennemis
+ennemis_liste = []
 
 
 def vaisseau_deplacement(x, y):
@@ -61,13 +65,32 @@ def tirs_deplacement(tirs_liste):
     return tirs_liste
 
 
+def ennemis_creation(ennemis_liste):
+    """création aléatoire des ennemis"""
+    
+    # un ennemi par seconde
+    if (pyxel.frame_count % 30 == 0):
+        ennemis_liste.append([random.randint(0, 120), 0])
+    return ennemis_liste
+
+
+def ennemis_deplacement(ennemis_liste):
+    """déplacement des ennemis vers le haut et suppression s'ils sortent du cadre"""
+
+    for ennemi in ennemis_liste:
+        ennemi[1] += 1
+        if  ennemi[1]>128:
+            ennemis_liste.remove(ennemi)
+    return ennemis_liste
+
+
 # =========================================================
 # == UPDATE
 # =========================================================
 def update():
     """mise à jour des variables (30 fois par seconde)"""
 
-    global vaisseau_x, vaisseau_y, tirs_liste
+    global vaisseau_x, vaisseau_y, tirs_liste, ennemis_liste
 
     # mise à jour de la position du vaisseau
     vaisseau_x, vaisseau_y = vaisseau_deplacement(vaisseau_x, vaisseau_y)
@@ -77,6 +100,12 @@ def update():
     
     # mise a jour des positions des tirs
     tirs_liste = tirs_deplacement(tirs_liste)
+    
+    # creation des ennemis
+    ennemis_liste = ennemis_creation(ennemis_liste)
+    
+    # mise a jour des positions des ennemis
+    ennemis_liste = ennemis_deplacement(ennemis_liste)    
 
 
 # =========================================================
@@ -94,6 +123,10 @@ def draw():
     # tirs
     for tir in tirs_liste:
         pyxel.rect(tir[0], tir[1], 1, 4, 10)
+        
+    # ennemis
+    for ennemi in ennemis_liste:
+        pyxel.rect(ennemi[0], ennemi[1], 8, 8, 8)        
 
 pyxel.run(update, draw)
 ```
@@ -103,7 +136,8 @@ pyxel.run(update, draw)
 > Programmation orientée objet
 
 ``` py
-import pyxel
+# on rajoute random
+import pyxel, random
 
 class Jeu:
     def __init__(self):
@@ -120,10 +154,13 @@ class Jeu:
         # initialisation des tirs
         self.tirs_liste = []
         
+        # initialisation des ennemis
+        self.ennemis_liste = []
+        
         pyxel.run(self.update, self.draw)
 
 
-    def vaisseau_deplacement(self):
+    def deplacement(self):
         """déplacement avec les touches de directions"""
          
         if pyxel.btn(pyxel.KEY_RIGHT) and self.vaisseau_x<120:
@@ -144,13 +181,30 @@ class Jeu:
             
             
     def tirs_deplacement(self):
-        """déplacement des tirs vers le haut et suppression s'ils sortent du cadre"""
+        """déplacement des tirs vers le haut et suppression quand ils sortent du cadre"""
         
         for tir in  self.tirs_liste:
             tir[1] -= 1
             if  tir[1]<-8:
                 self.tirs_liste.remove(tir)
 
+
+    def ennemis_creation(self):
+        """création aléatoire des ennemis"""
+        
+        # un ennemi par seconde
+        if (pyxel.frame_count % 30 == 0):
+            self.ennemis_liste.append([random.randint(0, 120), 0])
+
+
+    def ennemis_deplacement(self):
+        """déplacement des ennemis vers le haut et suppression s'ils sortent du cadre"""              
+
+        for ennemi in self.ennemis_liste:
+            ennemi[1] += 1
+            if  ennemi[1]>128:
+                self.ennemis_liste.remove(ennemi)
+          
 
     # =====================================================
     # == UPDATE
@@ -159,13 +213,19 @@ class Jeu:
         """mise à jour des variables (30 fois par seconde)"""
         
         # deplacement du vaisseau
-        self.vaisseau_deplacement()
+        self.deplacement()
 
         # creation des tirs en fonction de la position du vaisseau
         self.tirs_creation()
         
         # mise a jour des positions des tirs
         self.tirs_deplacement()
+        
+        # creation des ennemis
+        self.ennemis_creation()
+        
+        # mise a jour des positions des ennemis
+        self.ennemis_deplacement()            
 
 
     # =====================================================
@@ -182,7 +242,11 @@ class Jeu:
         
         # tirs
         for tir in self.tirs_liste:
-            pyxel.rect(tir[0], tir[1], 1, 4, 10)        
+            pyxel.rect(tir[0], tir[1], 1, 4, 10)
+            
+        # ennemis
+        for ennemi in self.ennemis_liste:
+            pyxel.rect(ennemi[0], ennemi[1], 8, 8, 8)            
 
 Jeu()
 ```

@@ -2,7 +2,7 @@
 
 **But** : déplacer un carré avec les touches de directions
 
-<center><img src=https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-01.gif width=200 /></center>
+<center><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-01.gif" width=250 /></center>
 
 ## 1. Première
 
