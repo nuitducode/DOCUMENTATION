@@ -2,8 +2,6 @@
 
 > 4 exercices d'entraînement complets
 
-<br />
-
 ## 🕹️ Duel dans le cosmos
 
 <center>

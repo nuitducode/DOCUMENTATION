@@ -2,8 +2,6 @@
 
 > 18 tutoriels au format vidéo
 
-<br />
-
 <table cellpadding="5">
 <tr>
 <td>
