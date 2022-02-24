@@ -9,16 +9,18 @@
 > Programmation impérative : utilisation obligatoire de variables globales dans `update`.
 
 ``` py
-import pyxel, random
+import pyxel
 
 # taille de la fenetre 128x128 pixels
 # ne pas modifier
-pyxel.init(128, 128)
+pyxel.init(128, 128, title="Nuit du c0de")
 
-vaisseau_x = 10
-vaisseau_y = 10
+# position initiale du vaisseau
+# (origine des positions : coin haut gauche)
+vaisseau_x = 60
+vaisseau_y = 60
 
-def deplacement(x, y):
+def vaisseau_deplacement(x, y):
     """ déplacement avec les touches de directions """
 
     if pyxel.btn(pyxel.KEY_RIGHT):
@@ -40,22 +42,19 @@ def deplacement(x, y):
 # == UPDATE
 # =========================================================
 def update():
-    """ mise à jour des variables (30 fois par seconde)"""
+    """ mise à jour des variables (30 fois par seconde) """
 
     global vaisseau_x, vaisseau_y
-
-    vaisseau_x, vaisseau_y = deplacement(vaisseau_x, vaisseau_y)
-
-    # ferme la fenetre avec la touche q
-    if pyxel.btnp(pyxel.KEY_Q):
-        pyxel.quit()
+    
+    # mise à jour de la position du vaisseau
+    vaisseau_x, vaisseau_y = vaisseau_deplacement(vaisseau_x, vaisseau_y)
 
 
 # =========================================================
 # == DRAW
 # =========================================================
 def draw():
-    """ création des objets (30 fois par seconde)"""
+    """ création des objets (30 fois par seconde) """
 
     # vide la fenetre
     pyxel.cls(0)
@@ -71,18 +70,19 @@ pyxel.run(update, draw)
 > Programmation orientée objet
 
 ``` py
-import pyxel,random
+import pyxel
 
 class Jeu:
     def __init__(self):
         
         # taille de la fenetre 128x128 pixels
         # ne pas modifier
-        pyxel.init(128,128)
+        pyxel.init(128, 128, title="Nuit du c0de")
         
         # position initiale du vaisseau
-        self.vaisseau_x = 10
-        self.vaisseau_y = 10
+        # (origine des positions : coin haut gauche)
+        self.vaisseau_x = 60
+        self.vaisseau_y = 60
         
         pyxel.run(self.update, self.draw)
 
@@ -108,10 +108,6 @@ class Jeu:
         
         # deplacement du vaisseau
         self.deplacement()
-
-        # ferme la fenetre avec la touche q
-        if pyxel.btn(pyxel.KEY_Q):
-            pyxel.quit()
 
 
     # =====================================================
