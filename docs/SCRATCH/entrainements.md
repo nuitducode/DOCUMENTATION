@@ -38,29 +38,21 @@ Documents fournis :
 * L'univers de jeu (fichier Scratch pour les élèves)
 * La fiche de consigne
 * Une grille d'évaluation
-  
-</td>
-</tr>
-</table>
 
 
 ### Le trésor de Piggy
 
-<table cellpadding="10">
-<tr>
-<td width="200" valign="top">
-
-[![](https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/i415d37a1c5ac5a15/version/1632554341/image.jpg)](https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702593)
-
-</td><td>
+<a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702593"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/i415d37a1c5ac5a15/version/1632554341/image.jpg" /></a>
   
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702593"><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/bouton_ouvrir_fiche.svg" width="120" /></a>
 
 Dans cet univers de jeu, il y a 7 lutins à animer :
-• Piggy, le cochon ailé qui sera dirigé par le joueur.
-• Des obstacles (scie, piège, poing et masse).
-• Une pièce.
-• Un coffre.
+
+* Piggy, le cochon ailé qui sera dirigé par le joueur
+* Des obstacles (scie, piège, poing et masse)
+* Une pièce
+* Un coffre
+
 Il y a également un lutin « texte » et un autre qui contient les sons.
 Le jeu à créer est simple : Piggy doit récupérer la pièce et l’apporter dans le coffre tout en évitant les
 obstacles, tous mortels. Les lutins ont beaucoup de costumes qu’il faudra bien utiliser.
@@ -69,22 +61,11 @@ Documents fournis :
 * L'univers de jeu (fichier Scratch pour les élèves)
 * La fiche de consigne
 * Une grille d'évaluation
-  
-</td>
-</tr>
-</table>
-
 
 ### Flappy Piggy
 
-<table cellpadding="10">
-<tr>
-<td width="200" valign="top">
+<a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702793"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/i0526477885ce5b65/version/1632555248/image.jpg" /></a>
 
-[![](https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/i0526477885ce5b65/version/1632555248/image.jpg)](https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702793)
-
-</td><td>
-  
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702793"><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/bouton_ouvrir_fiche.svg" width="120" /></a>
 
 Dans cet univers de jeu, il y a 8 lutins à utiliser : Piggy, le cochon ailé qui sera dirigé par le joueur ; des tuyaux (un seul lutin) ; deux lutins « sol » ; un lutin « Play » ; deux lutins « chiffres » pour afficher le score ; un lutin texte « Game over ». Chaque lutin contient les 4 sons à disposition pour ce jeu. Le jeu à créer est simple à jouer, mais assez technique à coder : Piggy doit passer entre les tuyaux sans les percuter.
@@ -93,10 +74,7 @@ Documents fournis :
 * L'univers de jeu (fichier Scratch pour les élèves)
 * La fiche de consigne
 * Une grille d'évaluation
-  
-</td>
-</tr>
-</table>
+
 
 ## VIDEOS
 
