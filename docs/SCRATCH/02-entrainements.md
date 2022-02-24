@@ -4,7 +4,7 @@
 
 <br />
 
-## Duel dans le cosmos
+## 🕹️ Duel dans le cosmos
 
 <center>
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ic20353e30a32866f/version/1632487882/image.jpg" width="240" /></a>
@@ -29,7 +29,7 @@ Documents fournis :
 * Une grille d'évaluation
 
 
-## La clé des champs
+## 🕹️ La clé des champs
 
 <center>
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829701293"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ib2cff8e754533b4f/version/1632553507/image.jpg" width="240" /></a>
@@ -46,7 +46,7 @@ Documents fournis :
 * Une grille d'évaluation
 
 
-## Le trésor de Piggy
+## 🕹️ Le trésor de Piggy
 
 <center>
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702593"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/i415d37a1c5ac5a15/version/1632554341/image.jpg" width="240" /></a>
@@ -71,9 +71,9 @@ Documents fournis :
 * La fiche de consigne
 * Une grille d'évaluation
 
-## Flappy Piggy
+## 🕹️ Flappy Piggy
 
-</center>
+<center>
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702793"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/i0526477885ce5b65/version/1632555248/image.jpg" width="240" /></a>
 <br />
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702793"><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/bouton_ouvrir_fiche.svg" width="120" /></a>
