@@ -123,7 +123,7 @@ class Jeu:
         pyxel.run(self.update, self.draw)
 
 
-    def deplacement(self):
+    def vaisseau_deplacement(self):
         """déplacement avec les touches de directions"""
          
         if pyxel.btn(pyxel.KEY_RIGHT) and self.vaisseau_x<120:
@@ -159,7 +159,7 @@ class Jeu:
         """mise à jour des variables (30 fois par seconde)"""
         
         # deplacement du vaisseau
-        self.deplacement()
+        self.vaisseau_deplacement()
 
         # creation des tirs en fonction de la position du vaisseau
         self.tirs_creation()
