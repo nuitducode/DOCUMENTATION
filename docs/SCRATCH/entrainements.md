@@ -12,23 +12,11 @@ Vous trouverez ci-dessous la listes des ressources composées de :
 
 ### Duel dans le cosmos
 
-<table cellpadding="10">
-<tr>
-<td width="200" valign="top">
-
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ic20353e30a32866f/version/1632487882/image.jpg" /></a>
 
-</td><td>
-  
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493"><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/bouton_ouvrir_fiche.svg" width="120" /></a>
-<br />
-Dans cet univers de jeu, il y a 7 lutins à utiliser :
 
-* 2 astronautes (blanc et orange)
-* 2 lasers (vert et rouge)
-* 1 explosion
-* 1 lutin de texte
-* et 2 de chiffres.
+Dans cet univers de jeu, il y a 7 lutins à utiliser : 2 astronautes (blanc et orange), 2 lasers (vert et rouge), 1 explosion, 1 lutin de texte et 2 de chiffres.
 
 Les déplacements de l’astronautes blanc sont déjà codés, vous n’avez pas à les modifier. Pour l’astronaute orange, il y a aussi une base pour les déplacements qu’il faudra compléter. Le jeu est simple : le joueur (astronaute blanc) doit tirer sur l’astronaute orange sans se faire tirer dessus par celui-ci.
 
@@ -36,24 +24,15 @@ Documents fournis :
 * L'univers de jeu (fichier Scratch pour les élèves)
 * La fiche de consigne
 * Une grille d'évaluation
-  
-</td>
-</tr>
-</table>
+
 
 ### La clé des champs
 
-<table cellpadding="10">
-<tr>
-<td width="200" valign="top">
-
-[![](https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ib2cff8e754533b4f/version/1632553507/image.jpg)](https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829701293)
-
-</td><td>
+<a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829701293"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ib2cff8e754533b4f/version/1632553507/image.jpg" /></a>
 
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829701293"><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/bouton_ouvrir_fiche.svg" width="120" /></a>
 
-Dans cet univers de jeu, il y a 14 lutins. Attention ! Vous n’avez pas de code à écrire pour l’échelle, le sol, ni les 2 plates-formes. Le jeu est simple : l’extraterrestre vert (joueur) doit aller chercher la clef sur la plate-forme pour ouvrir la porte. Il doit éviter les boules de feu envoyées par la bernacle, l’abeille et ne pas toucher aux pointes.
+Dans cet univers de jeu, il y a 14 lutins. Attention ! Vous n’avez pas de code à écrire pour l’échelle, le sol, ni les deux plates-formes. Le jeu est simple : l’extraterrestre vert (joueur) doit aller chercher la clef sur la plate-forme pour ouvrir la porte. Il doit éviter les boules de feu envoyées par la bernacle, l’abeille et ne pas toucher aux pointes.
 
 Documents fournis :
 * L'univers de jeu (fichier Scratch pour les élèves)
