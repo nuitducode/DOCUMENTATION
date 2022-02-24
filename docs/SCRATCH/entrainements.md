@@ -110,7 +110,7 @@ Documents fournis :
 </td>
 <td>
 
-<a href="https://www.youtube.com/watch?v=O1tDjDGwBtE"><img src="https://img.youtube.com/vi/8oSKtPQO1tDjDGwBtENDr8/0.jpg" /></a>
+<a href="https://www.youtube.com/watch?v=O1tDjDGwBtE"><img src="https://img.youtube.com/vi/O1tDjDGwBtE/0.jpg" /></a>
 
 </td>
 <td>
