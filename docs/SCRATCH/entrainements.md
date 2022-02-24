@@ -3,6 +3,7 @@
 Pour préparer la Nuit du c0de avec les élèves, voici plusieurs ressources qui permettent de mettre en place des séances de découverte / approfondissement de Scratch. Ces ressources (et de très nombreuses autres pour les mathématiques) ont été créées par Jean-Yves Labouche qui a été responsable de l'organisation de la Nuit du c0de pendant plusieurs années. Elles sont publiées sur son [site](https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch/).
 
 Vous trouverez ci-dessous la listes des ressources composées de :
+
 * 4 exercices d'entraînement complets
 * 18 tutoriels au format vidéo
 
@@ -15,7 +16,7 @@ Vous trouverez ci-dessous la listes des ressources composées de :
 <tr>
 <td width="200" valign="top">
 
-[![](https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ic20353e30a32866f/version/1632487882/image.jpg)](https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493)
+<a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493"><img src="image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ic20353e30a32866f/version/1632487882/image.jpg" /></a>
 
 </td><td>
   
