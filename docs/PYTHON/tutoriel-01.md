@@ -21,7 +21,7 @@ vaisseau_x = 60
 vaisseau_y = 60
 
 def vaisseau_deplacement(x, y):
-    """ déplacement avec les touches de directions """
+    """déplacement avec les touches de directions"""
 
     if pyxel.btn(pyxel.KEY_RIGHT):
         if (x < 120) :
@@ -42,7 +42,7 @@ def vaisseau_deplacement(x, y):
 # == UPDATE
 # =========================================================
 def update():
-    """ mise à jour des variables (30 fois par seconde) """
+    """mise à jour des variables (30 fois par seconde)"""
 
     global vaisseau_x, vaisseau_y
     
@@ -54,7 +54,7 @@ def update():
 # == DRAW
 # =========================================================
 def draw():
-    """ création des objets (30 fois par seconde) """
+    """création des objets (30 fois par seconde)"""
 
     # vide la fenetre
     pyxel.cls(0)
@@ -88,7 +88,7 @@ class Jeu:
 
 
     def deplacement(self):
-        """ déplacement avec les touches de directions """
+        """déplacement avec les touches de directions"""
          
         if pyxel.btn(pyxel.KEY_RIGHT) and self.vaisseau_x<120:
             self.vaisseau_x += 1
@@ -104,7 +104,7 @@ class Jeu:
     # == UPDATE
     # =====================================================
     def update(self):
-        """ mise à jour des variables (30 fois par seconde)"""
+        """mise à jour des variables (30 fois par seconde)"""
         
         # deplacement du vaisseau
         self.deplacement()
@@ -114,7 +114,7 @@ class Jeu:
     # == DRAW
     # =====================================================
     def draw(self):
-        """ création et positionnement des objets (30 fois par seconde)"""
+        """création et positionnement des objets (30 fois par seconde)"""
         
         # vide la fenetre
         pyxel.cls(0)

@@ -20,11 +20,12 @@ pyxel.init(128, 128, title="Nuit du c0de")
 vaisseau_x = 60
 vaisseau_y = 60
 
+# initialisation des tirs
 tirs_liste = []
 
 
 def vaisseau_deplacement(x, y):
-    """ déplacement avec les touches de directions """
+    """déplacement avec les touches de directions"""
 
     if pyxel.btn(pyxel.KEY_RIGHT):
         if (x < 120) :
@@ -42,7 +43,7 @@ def vaisseau_deplacement(x, y):
 
 
 def tirs_creation(x, y, tirs_liste):
-    """ creation d'un tir avec la barre d'espace """
+    """création d'un tir avec la barre d'espace"""
 
     # btnr pour eviter les tirs multiples
     if pyxel.btnr(pyxel.KEY_SPACE):
@@ -51,7 +52,7 @@ def tirs_creation(x, y, tirs_liste):
 
 
 def tirs_deplacement(tirs_liste):
-    """ deplacement des tirs vers le haut et suppression des tirs qui sortent du cadre """
+    """déplacement des tirs vers le haut et suppression quand ils sortent du cadre"""
 
     for tir in tirs_liste:
         tir[1] -= 1
@@ -64,7 +65,7 @@ def tirs_deplacement(tirs_liste):
 # == UPDATE
 # =========================================================
 def update():
-    """ mise à jour des variables (30 fois par seconde)"""
+    """mise à jour des variables (30 fois par seconde)"""
 
     global vaisseau_x, vaisseau_y, tirs_liste
 
@@ -82,7 +83,7 @@ def update():
 # == DRAW
 # =========================================================
 def draw():
-    """ création des objets (30 fois par seconde)"""
+    """création des objets (30 fois par seconde)"""
 
     # vide la fenetre
     pyxel.cls(0)
@@ -116,13 +117,14 @@ class Jeu:
         self.vaisseau_x = 60
         self.vaisseau_y = 60
         
+        # initialisation des tirs
         self.tirs_liste = []
         
         pyxel.run(self.update, self.draw)
 
 
     def deplacement(self):
-        """ déplacement avec les touches de directions """
+        """déplacement avec les touches de directions"""
          
         if pyxel.btn(pyxel.KEY_RIGHT) and self.vaisseau_x<120:
             self.vaisseau_x += 1
@@ -135,14 +137,14 @@ class Jeu:
            
            
     def tirs_creation(self):
-        """ creation d'un tir avec la barre d'espace """
+        """création d'un tir avec la barre d'espace"""
         
         if pyxel.btnr(pyxel.KEY_SPACE):
             self.tirs_liste.append([self.vaisseau_x+4, self.vaisseau_y-4])
             
             
     def tirs_deplacement(self):
-        """ deplacement des tirs vers le haut et suppression des tirs qui sortent du cadre """
+        """déplacement des tirs vers le haut et suppression quand ils sortent du cadre"""
         
         for tir in  self.tirs_liste:
             tir[1] -= 1
@@ -154,7 +156,7 @@ class Jeu:
     # == UPDATE
     # =====================================================
     def update(self):
-        """ mise à jour des variables (30 fois par seconde)"""
+        """mise à jour des variables (30 fois par seconde)"""
         
         # deplacement du vaisseau
         self.deplacement()
@@ -170,7 +172,7 @@ class Jeu:
     # == DRAW
     # =====================================================
     def draw(self):
-        """ création et positionnement des objets (30 fois par seconde)"""
+        """création et positionnement des objets (30 fois par seconde)"""
         
         # vide la fenetre
         pyxel.cls(0)
