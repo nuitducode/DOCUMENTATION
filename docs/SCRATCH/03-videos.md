@@ -1,4 +1,4 @@
-# VIDEOS
+# TUTORIELS VIDÉO
 
 > 18 tutoriels au format vidéo
 
