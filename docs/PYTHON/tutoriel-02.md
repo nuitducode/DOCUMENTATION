@@ -52,7 +52,7 @@ def tirs_creation(x, y, tirs_liste):
 
 
 def tirs_deplacement(tirs_liste):
-    """déplacement des tirs vers le haut et suppression quand ils sortent du cadre"""
+    """déplacement des tirs vers le haut et suppression s'ils sortent du cadre"""
 
     for tir in tirs_liste:
         tir[1] -= 1
@@ -144,7 +144,7 @@ class Jeu:
             
             
     def tirs_deplacement(self):
-        """déplacement des tirs vers le haut et suppression quand ils sortent du cadre"""
+        """déplacement des tirs vers le haut et suppression s'ils sortent du cadre"""
         
         for tir in  self.tirs_liste:
             tir[1] -= 1
