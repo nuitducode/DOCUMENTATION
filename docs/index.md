@@ -1,5 +1,12 @@
 # Sommaire
 
+## SCRATCH
+1. [Introduction](SCRATCH/introduction/)
+2. [Introduction](SCRATCH/entrainements/)
+3. [Introduction](SCRATCH/videos/)
+
+<br />
+
 ## PYTHON
 1. [Présentation](PYTHON/01-presentation/)
 2. [Installation](PYTHON/02-installation/)

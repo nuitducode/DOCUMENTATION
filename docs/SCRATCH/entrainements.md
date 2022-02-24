@@ -1,16 +1,10 @@
-# ENTRAÎNEMENTS
+# EXERCICES D'ENTRAÎNEMENT
 
-Pour préparer la Nuit du c0de avec les élèves, voici plusieurs ressources qui permettent de mettre en place des séances de découverte / approfondissement de Scratch. Ces ressources (et de très nombreuses autres pour les mathématiques) ont été créées par Jean-Yves Labouche qui a été responsable de l'organisation de la Nuit du c0de pendant plusieurs années. Elles sont publiées sur son [site](https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch/).
+> 4 exercices d'entraînement complets
 
-Vous trouverez ci-dessous la listes des ressources composées de :
+<br />
 
-* 4 exercices d'entraînement complets
-* 18 tutoriels au format vidéo
-
-
-## EXERCICES D'ENTRAÎNEMENT
-
-### Duel dans le cosmos
+## Duel dans le cosmos
 
 <center><a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ic20353e30a32866f/version/1632487882/image.jpg" width="120" /></a>
 <br />
@@ -33,7 +27,7 @@ Documents fournis :
 * Une grille d'évaluation
 
 
-### La clé des champs
+## La clé des champs
 
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829701293"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ib2cff8e754533b4f/version/1632553507/image.jpg" /></a>
 
@@ -48,7 +42,7 @@ Documents fournis :
 * Une grille d'évaluation
 
 
-### Le trésor de Piggy
+## Le trésor de Piggy
 
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702593"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/i415d37a1c5ac5a15/version/1632554341/image.jpg" /></a>
   
@@ -71,7 +65,7 @@ Documents fournis :
 * La fiche de consigne
 * Une grille d'évaluation
 
-### Flappy Piggy
+## Flappy Piggy
 
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11829702793"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/i0526477885ce5b65/version/1632555248/image.jpg" /></a>
 
@@ -86,119 +80,7 @@ Documents fournis :
 * Une grille d'évaluation
 
 
-## VIDEOS
 
-<table cellpadding="5">
-<tr>
-<td>
-
-<a href="https://www.youtube.com/watch?v=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a>
-
-</td>
-<td>
-
-<a href="https://www.youtube.com/watch?v=3PbXyzQQOYk"><img src="https://img.youtube.com/vi/3PbXyzQQOYk/0.jpg" /></a>
-
-
-</td>
-<td>
-
-<a href="https://www.youtube.com/watch?v=8oSKtPQNDr8"><img src="https://img.youtube.com/vi/8oSKtPQNDr8/0.jpg" /></a>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<a href="https://www.youtube.com/watch?v=xRiZD5wsh0k"><img src="https://img.youtube.com/vi/xRiZD5wsh0k/0.jpg" /></a>
-
-</td>
-<td>
-
-<a href="https://www.youtube.com/watch?v=O1tDjDGwBtE"><img src="https://img.youtube.com/vi/O1tDjDGwBtE/0.jpg" /></a>
-
-</td>
-<td>
-
-<a href="https://www.youtube.com/watch?v=nINGvQVP_Og"><img src="https://img.youtube.com/vi/nINGvQVP_Og/0.jpg" /></a>
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-<a href="https://www.youtube.com/watch?v=P22s9A9U9lM"><img src="https://img.youtube.com/vi/P22s9A9U9lM/0.jpg" /></a>
-
-</td>
-<td>
-
-<a href="https://www.youtube.com/watch?v=jtVMnEZDDes"><img src="https://img.youtube.com/vi/jtVMnEZDDes/0.jpg" /></a>
-
-</td>
-<td>
-
-<a href="https://www.youtube.com/watch?v=v37gPSxlPW4"><img src="https://img.youtube.com/vi/v37gPSxlPW4/0.jpg" /></a>
-
-</td>
-</tr>
-  
-<tr>
-<td>
-
-<a href="https://www.youtube.com/watch?v=P7ORrWLlGsA"><img src="https://img.youtube.com/vi/P7ORrWLlGsA/0.jpg" /></a>
-
-</td>
-<td>
-
-<a href="https://www.youtube.com/watch?v=n1NCXKKrtq0"><img src="https://img.youtube.com/vi/n1NCXKKrtq0/0.jpg" /></a>
-
-</td>
-<td>
-
-<a href="https://www.youtube.com/watch?v=DZYkdUrQegU"><img src="https://img.youtube.com/vi/DZYkdUrQegU/0.jpg" /></a>
-
-</td>
-</tr>
-  
-<tr>
-<td>
-
-<a href="https://www.youtube.com/watch?v=5wrleesBQCU"><img src="https://img.youtube.com/vi/5wrleesBQCU/0.jpg" /></a>
-
-</td>
-<td>
-
-<a href="https://www.youtube.com/watch?v=MK4F1E3_nEY"><img src="https://img.youtube.com/vi/MK4F1E3_nEY/0.jpg" /></a>
-
-</td>
-<td>
-
-<a href="https://www.youtube.com/watch?v=fQZVY39WTg4"><img src="https://img.youtube.com/vi/fQZVY39WTg4/0.jpg" /></a>
-
-</td>
-</tr>  
-  
-<tr>
-<td>
-
-<a href="https://www.youtube.com/watch?v=8VfQzEOcRd0"><img src="https://img.youtube.com/vi/8VfQzEOcRd0/0.jpg" /></a>
-
-</td>
-<td>
-
-<a href="https://www.youtube.com/watch?v=-S4utl_quqQ"><img src="https://img.youtube.com/vi/-S4utl_quqQ/0.jpg" /></a>
-
-</td>
-<td>
-
-<a href="https://www.youtube.com/watch?v=X669S6tAyis"><img src="https://img.youtube.com/vi/X669S6tAyis/0.jpg" /></a>
-
-</td>
-</tr>   
-  
-</table>
 
 
 
