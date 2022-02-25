@@ -3,8 +3,8 @@
 **But** : ajouter les images
 
 <center>
-<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-06.gif" width=250 />
-<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/editeur.png" height=250 />
+<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-06.gif" width="250" />
+<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/editeur.png" width="320" />
 </center>
 
 ## 1. Première
