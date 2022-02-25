@@ -6,12 +6,3 @@ Vous trouverez ci-dessous la listes des ressources composées de :
 
 * 4 [exercices d'entraînement complets](SCRATCH/02-entrainements/)
 * 18 [tutoriels vidéo](SCRATCH/03-videos/)
-
-
-<center>
-<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-01.gif" width=250 />
-<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-02.gif" width=250 />
-<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-03.gif" width=250 />
-<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-04.gif" width=250 />
-<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-05.gif" width=250 />
-</center>
