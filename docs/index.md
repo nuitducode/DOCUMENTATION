@@ -15,4 +15,4 @@
 5. [Tutoriel #03](PYTHON/05-tutoriel-03/)
 6. [Tutoriel #04](PYTHON/06-tutoriel-04/)
 7. [Tutoriel #05](PYTHON/07-tutoriel-05/)
-
+8. [Tutoriel #05](PYTHON/07-tutoriel-06/)

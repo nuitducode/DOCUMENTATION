@@ -17,4 +17,5 @@ Extrait de [github.com/kitao/pyxel](https://github.com/kitao/pyxel/blob/main/doc
 <img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-03.gif" width=128 />
 <img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-04.gif" width=128 />
 <img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-05.gif" width=128 />
+<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-06.gif" width=128 />
 </center>
