@@ -13,7 +13,7 @@ Pour ouvrir l'éditeur d'image : ouvrir la console (avec Thonny : "Outils" > "Ou
 pyxel edit [PYXEL_RESOURCE_FILE]
 ```
 
-"Si le fichier de ressource Pyxel (.pyxres) existe déjà, le fichier est chargé, sinon, un nouveau fichier avec le nom indiqué est créé. Si le fichier de ressource n’est pas spécifié, le nom est my_resource.pyxres." voir [documentation](https://github.com/kitao/pyxel/blob/main/doc/README.fr.md#comment-cr%C3%A9er-une-ressource]).
+"Si le fichier de ressource Pyxel (.pyxres) existe déjà, le fichier est chargé, sinon, un nouveau fichier avec le nom indiqué est créé. Si le fichier de ressource n’est pas spécifié, le nom est my_resource.pyxres." voir [documentation](https://github.com/kitao/pyxel/blob/main/doc/README.fr.md#comment-cr%C3%A9er-une-ressource])
 
 ## 1. Première
 
