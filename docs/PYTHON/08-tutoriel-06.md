@@ -7,7 +7,7 @@
 <img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/editeur.png" width="320" />
 </center>
 
-Pour ouvrir l'éditeur d'image : ouvrir la console (avec Thonny : "Outils" > "Ouvrir la console du système...") et saisir :
+Pour ouvrir l'éditeur d'image : ouvrir la console (avec [Edupyter](https://www.edupyter.net/) depuis Thonny : "Outils" > "Ouvrir la console du système...", ou depuis le menu d'Edupyter : "Console") et saisir :
 
 ```
 pyxel edit [PYXEL_RESOURCE_FILE]
