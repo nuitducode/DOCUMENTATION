@@ -7,6 +7,14 @@
 <img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/editeur.png" width="320" />
 </center>
 
+Pour ouvrir l'éditeur d'image : ouvrir la console (avec Thonny : "Outils" > "Ouvrir la console du système...") et saisir :
+
+```
+pyxel edit [PYXEL_RESOURCE_FILE]
+```
+
+"Si le fichier de ressource Pyxel (.pyxres) existe déjà, le fichier est chargé, sinon, un nouveau fichier avec le nom indiqué est créé. Si le fichier de ressource n’est pas spécifié, le nom est my_resource.pyxres." voir [documentation](https://github.com/kitao/pyxel/blob/main/doc/README.fr.md#comment-cr%C3%A9er-une-ressource]).
+
 ## 1. Première
 
 > Programmation impérative : utilisation obligatoire de variables globales dans `update`.
