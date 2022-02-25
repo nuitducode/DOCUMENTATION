@@ -13,4 +13,6 @@
 3. [Tutoriel #01](PYTHON/tutoriel-01/)
 4. [Tutoriel #02](PYTHON/tutoriel-02/)
 5. [Tutoriel #03](PYTHON/tutoriel-03/)
+6. [Tutoriel #04](PYTHON/tutoriel-04/)
+7. [Tutoriel #05](PYTHON/tutoriel-05/)
 
