@@ -145,7 +145,7 @@ def draw():
     pyxel.cls(0)
     
     # si le vaisseau possede des vies le jeu continue
-    if vies != 0:    
+    if vies > 0:    
 
         # vaisseau (carre 8x8)
         pyxel.rect(vaisseau_x, vaisseau_y, 8, 8, 1)
@@ -302,7 +302,7 @@ class Jeu:
 
         
         # si le vaisseau possede des vies le jeu continue
-        if self.vies != 0:
+        if self.vies > 0:
             
             # vaisseau (carre 8x8)
             pyxel.rect(self.vaisseau_x, self.vaisseau_y, 8, 8, 1)

@@ -168,7 +168,7 @@ def draw():
     pyxel.cls(0)
     
     # si le vaisseau possede des vies le jeu continue
-    if vies != 0:
+    if vies > 0:
         
         # affichage des vies            
         pyxel.text(5,5, 'VIES:'+ str(vies), 7)
@@ -355,7 +355,7 @@ class Jeu:
 
         
         # si le vaisseau possede des vies le jeu continue
-        if self.vies != 0:
+        if self.vies > 0:
             
             # affichage des vies            
             pyxel.text(5,5, 'VIES:'+ str(self.vies), 7)
