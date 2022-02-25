@@ -1,8 +1,8 @@
 # TUTORIEL #04
 
-**But** : ajouter les collisions
+**But** : ajouter les explosions lors des collisions
 
-<center><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-04.gif" width=250 /></center>
+<center><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-05.gif" width=250 /></center>
 
 ## 1. Première
 
@@ -22,13 +22,16 @@ vaisseau_x = 60
 vaisseau_y = 60
 
 # vies
-vies = 1
+vies = 4
 
 # initialisation des tirs
 tirs_liste = []
 
 # initialisation des ennemis
 ennemis_liste = []
+
+# initialisation des explosions
+explosions_liste = []  
 
 
 def vaisseau_deplacement(x, y):
@@ -93,7 +96,9 @@ def vaisseau_suppression(vies):
     for ennemi in ennemis_liste:
         if ennemi[0] <= vaisseau_x+8 and ennemi[1] <= vaisseau_y+8 and ennemi[0]+8 >= vaisseau_x and ennemi[1]+8 >= vaisseau_y:
             ennemis_liste.remove(ennemi)
-            vies = 0
+            vies -= 1
+            # on ajoute l'explosion
+            explosions_creation(vaisseau_x, vaisseau_y)
     return vies
 
 
@@ -105,6 +110,21 @@ def ennemis_suppression():
             if ennemi[0] <= tir[0]+1 and ennemi[0]+8 >= tir[0] and ennemi[1]+8 >= tir[1]:
                 ennemis_liste.remove(ennemi)
                 tirs_liste.remove(tir)
+                # on ajoute l'explosion
+                explosions_creation(ennemi[0], ennemi[1])
+                
+                
+def explosions_creation(x, y):
+    """explosions aux points de collision entre deux objets"""
+    explosions_liste.append([x, y, 0])
+
+
+def explosions_animation():
+    """animation des explosions"""
+    for explosion in explosions_liste:
+        explosion[2] +=1
+        if explosion[2] == 12:
+            explosions_liste.remove(explosion)                
 
 # =========================================================
 # == UPDATE
@@ -112,7 +132,7 @@ def ennemis_suppression():
 def update():
     """mise à jour des variables (30 fois par seconde)"""
 
-    global vaisseau_x, vaisseau_y, tirs_liste, ennemis_liste, vies
+    global vaisseau_x, vaisseau_y, tirs_liste, ennemis_liste, vies, explosions_liste
 
     # mise à jour de la position du vaisseau
     vaisseau_x, vaisseau_y = vaisseau_deplacement(vaisseau_x, vaisseau_y)
@@ -134,6 +154,9 @@ def update():
     
     # suppression du vaisseau et ennemi si contact
     vies = vaisseau_suppression(vies)
+    
+    # evolution de l'animation des explosions
+    explosions_animation()    
 
 # =========================================================
 # == DRAW
@@ -145,7 +168,10 @@ def draw():
     pyxel.cls(0)
     
     # si le vaisseau possede des vies le jeu continue
-    if vies != 0:    
+    if vies != 0:
+        
+        # affichage des vies            
+        pyxel.text(5,5, 'VIES:'+ str(vies), 7)
 
         # vaisseau (carre 8x8)
         pyxel.rect(vaisseau_x, vaisseau_y, 8, 8, 1)
@@ -157,6 +183,10 @@ def draw():
         # ennemis
         for ennemi in ennemis_liste:
             pyxel.rect(ennemi[0], ennemi[1], 8, 8, 8)
+            
+        # explosions (cercles de plus en plus grands)
+        for explosion in explosions_liste:
+            pyxel.circb(explosion[0]+4, explosion[1]+4, 2*(explosion[2]//4), 8+explosion[2]%3)            
             
     # sinon: GAME OVER
     else:
@@ -187,13 +217,16 @@ class Jeu:
         self.vaisseau_y = 60
         
         # vies
-        self.vies = 1
+        self.vies = 4
         
         # initialisation des tirs
         self.tirs_liste = []
         
         # initialisation des ennemis
         self.ennemis_liste = []
+        
+        # initialisation des explosions
+        self.explosions_liste = []        
                 
         pyxel.run(self.update, self.draw)
 
@@ -250,7 +283,9 @@ class Jeu:
         for ennemi in self.ennemis_liste:
             if ennemi[0] <= self.vaisseau_x+8 and ennemi[1] <= self.vaisseau_y+8 and ennemi[0]+8 >= self.vaisseau_x and ennemi[1]+8 >= self.vaisseau_y:
                 self.ennemis_liste.remove(ennemi)
-                self.vies = 0                    
+                self.vies -= 1
+                # on ajoute l'explosion
+                self.explosions_creation(self.vaisseau_x, self.vaisseau_y)
  
  
     def ennemis_suppression(self):
@@ -261,6 +296,21 @@ class Jeu:
                 if ennemi[0] <= tir[0]+1 and ennemi[0]+8 >= tir[0] and ennemi[1]+8 >= tir[1]:
                     self.ennemis_liste.remove(ennemi)
                     self.tirs_liste.remove(tir)
+                    # on ajoute l'explosion
+                    self.explosions_creation(ennemi[0], ennemi[1])
+
+
+    def explosions_creation(self, x, y):
+        """explosions aux points de collision entre deux objets"""
+        self.explosions_liste.append([x, y, 0])
+
+
+    def explosions_animation(self):
+        """animation des explosions"""
+        for explosion in self.explosions_liste:
+            explosion[2] +=1
+            if explosion[2] == 12:
+                self.explosions_liste.remove(explosion)
 
 
     # =====================================================
@@ -289,6 +339,9 @@ class Jeu:
         
         # suppression du vaisseau et ennemi si contact
         self.vaisseau_suppression()
+        
+        # evolution de l'animation des explosions
+        self.explosions_animation()
 
 
     # =====================================================
@@ -304,6 +357,9 @@ class Jeu:
         # si le vaisseau possede des vies le jeu continue
         if self.vies != 0:
             
+            # affichage des vies            
+            pyxel.text(5,5, 'VIES:'+ str(self.vies), 7)
+            
             # vaisseau (carre 8x8)
             pyxel.rect(self.vaisseau_x, self.vaisseau_y, 8, 8, 1)
         
@@ -314,6 +370,11 @@ class Jeu:
             # ennemis
             for ennemi in self.ennemis_liste:
                 pyxel.rect(ennemi[0], ennemi[1], 8, 8, 8)
+                
+            # explosions (cercles de plus en plus grands)
+            for explosion in self.explosions_liste:
+                pyxel.circb(explosion[0]+4, explosion[1]+4, 2*(explosion[2]//4), 8+explosion[2]%3)
+            
         
         # sinon: GAME OVER
         else:
