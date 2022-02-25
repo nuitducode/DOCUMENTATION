@@ -9,3 +9,11 @@ Les spécifications et les API de Pyxel sont inspirées de PICO-8 et TIC-80.
 Pyxel est un logiciel libre et open source." 
 
 Extrait de [github.com/kitao/pyxel](https://github.com/kitao/pyxel/blob/main/doc/README.fr.md)
+
+<center>
+<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-01.gif" width=250 />
+<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-02.gif" width=250 />
+<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-03.gif" width=250 />
+<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-04.gif" width=250 />
+<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-05.gif" width=250 />
+</center>
