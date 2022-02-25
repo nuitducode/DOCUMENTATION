@@ -10,7 +10,7 @@ Pyxel est un logiciel libre et open source."
 
 Extrait de [github.com/kitao/pyxel](https://github.com/kitao/pyxel/blob/main/doc/README.fr.md)
 
-<br /><br />
+<br />
 <center>
 <img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-01.gif" width=128 />
 <img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-02.gif" width=128 />
