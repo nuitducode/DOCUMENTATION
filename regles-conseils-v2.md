@@ -1,6 +1,6 @@
 # RÈGLES et CONSEILS
 
-Durant l’épreuve de la Nuit du c0de, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour cela, vous devrez utiliser l’un des 4 Gamepacks (ou univers de jeu) mis à votre disposition. Ces gamepacks ne contiennent aucun script, mais possèdent de nombreux lutins, des scènes et des sons.
+Durant l’épreuve de la Nuit du c0de, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour cela, vous devrez utiliser un des univers de jeu mis à votre disposition. Ces univers de jeu ne contiennent aucun script mais possèdent de nombreux lutins, des scènes et des sons.
 
 ## LES RÈGLES DU JEU
 * Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
