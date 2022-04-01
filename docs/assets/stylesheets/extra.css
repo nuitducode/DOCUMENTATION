@@ -9,11 +9,6 @@
     background-color: #f8fafc;
 }
 
-code {
- padding: 20px;
- border-radius: 5px;
-}
-
 /* annonce */
 .md-announce {
     background-color: #ffffff;
@@ -30,6 +25,7 @@ code {
     font-size: .7rem;
     margin: 1rem auto;
 }
+
 /* / annonce */
 
 .md-header[data-md-state=shadow] {
@@ -48,10 +44,10 @@ code {
 
 .md-typeset code {
     background-color: var(--md-code-bg-color);
-    border-radius: 0.1rem;
+    border-radius: 5px;
+    padding: 20px;
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
-    padding: 0 0.2941176471em;
     font-size: 80%;
     color: #f66d9b;
     word-break: break-word;
