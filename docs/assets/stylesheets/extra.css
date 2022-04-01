@@ -44,7 +44,6 @@
 .md-typeset code {
     background-color: var(--md-code-bg-color);
     border-radius: 5px;
-    padding: 20px;
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
     font-size: 80%;
