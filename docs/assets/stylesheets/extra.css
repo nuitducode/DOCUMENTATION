@@ -9,6 +9,11 @@
     background-color: #f8fafc;
 }
 
+code {
+ padding: 20px;
+ border-radius: 5px;
+}
+
 /* annonce */
 .md-announce {
     background-color: #ffffff;
