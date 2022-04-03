@@ -1,4 +1,4 @@
-# EXERCICES D'ENTRAÎNEMENT
+# EXERCICES D'ENTRAÎNEMENT OU DE SÉLECTION
 
 > 4 exercices d'entraînement complets
 
