@@ -60,6 +60,12 @@
     vertical-align: top;
 }
 
+.md-banner__inner {
+    font-size: .7rem;
+    margin: 0rem auto;
+    padding: 0 0.8rem;
+}
+
 /* annonce */
 .md-announce {
     background-color: #ffffff;
