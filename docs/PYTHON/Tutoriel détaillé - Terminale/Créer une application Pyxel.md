@@ -91,7 +91,9 @@ Pour le cas de la collision d’un tir avec un ennemi, la détection est simple 
 ![alt text](images/collision_tir.png)
 
 Pour détecter une collision entre un ennemi et un vaisseau, il faut considérer deux cas de figure (en ne considérant pour l’instant que l’axe des x) :
+
 ![alt text](images/collisions.png)
+
 A partir de ces figures, on en déduit deux conditions : il faut le bord gauche du vaisseau soit inférieur à xe + 8, et le bord droit supérieur à xe.
 
 On applique le même raisonnement sur l’axe des y.
