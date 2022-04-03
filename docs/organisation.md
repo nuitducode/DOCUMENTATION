@@ -2,7 +2,7 @@
 
 Ce document s’adresse aux équipes enseignantes dont les établissements participeront à la Nuit du c0de 2021. Le Lycée français de Taipei, organisateur de l’évènement, se charge de l’élaboration et de la diffusion de tous les documents nécessaires à l’organisation du concours. Mais chaque établissement doit s’organiser pour pouvoir faire passer ce concours à ses élèves ce qui nécessite un minimum de logistique.
 
-Si des points restent peu clairs ou si ce document ne répond pas à vos questions, n’hésitez pas à contacter l’équipe de la Nuit du c0de à l’adresse contact@nuitducode.net.
+Si des points restent peu clairs ou si ce document ne répond pas à vos questions, n’hésitez pas à contacter l’équipe de la Nuit du c0de à l’adresse contact@nuitducode.net. 
 
 ## PRÉPARER LES ÉLÈVES
 La Nuit du c0de est avant tout une fête et un jeu. Et pour que les élèves puissent pleinement en profiter, il est préférable qu’ils soient préparés à la nature de l’épreuve. L’équipe de la Nuit du c0de mettra à votre disposition des gamepacks (univers de jeu) simplifiés : il nous semble important que les élèves participants aient l’occasion de s’entrainer sur de tels sujets, quelles que soient les modalités (en classe, en atelier périscolaire, à la maison, en temps libre ou limité, avec des contraintes précises ou en laissant les élèves libres de créer le jeu qu’ils souhaitent…).
