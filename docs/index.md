@@ -1,5 +1,9 @@
 # 🗃️ SOMMAIRE
 
+## 🧩 ORGANISATION
+
+## 📑 RÈGLES ET CONSEILS
+
 ## 🐱 SCRATCH
 1. [Introduction](SCRATCH/01-introduction/)
 2. [Tutoriels vidéo](SCRATCH/02-videos/)
