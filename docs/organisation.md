@@ -32,8 +32,8 @@ D’autres éléments peuvent être pris en compte :
 * Associer des écoles locales : pour les établissements français de l’étranger, inviter des écoles locales peut donner une autre dimension à l’épreuve. Dans ce cas, les écoles invitées ne pourront pas participer au classement international, mais seulement au classement que vous établirez dans votre établissement.
 * Toute autre initiative pour rendre cet événement attractif et convivial est fortement encouragée.
 
-## UN EXEMPLE D’ORGANISATION : LE LYCÉE FRANÇAIS DE TAIPEI POUR L'ÉDITION 2021
-Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux éléments de notre organisation (prévisionnelle) pour 2021 :
+## UN EXEMPLE D’ORGANISATION : LE LYCÉE FRANÇAIS INTERNATIONAL DE TOKYO L'ÉDITION 2022
+Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux éléments de notre organisation (prévisionnelle) pour 2022 :
 
 * L’épreuve se déroulera le samedi 21 mai de 10h à 19h
 * Nous accueillerons le Lycée Français International de Kyoto.
