@@ -15,14 +15,15 @@ Position du vaisseau par la création des coordonnées du vaisseau au départ.
 Pour l'instant il n'y a pas de vaisseau, juste deux variables vaisseau_x et vaisseau_y
 initialisées par les valeurs 60.
 
-``` python
+``` py
 vaisseau_x = 60
 vaisseau_y = 60
 ```
 
 Cette fonction a pour arguments les valeurs des variables x et y et renvoie les valeurs des variables x et y
 modifiées suivant certaines touches du clavier.
-``` python
+
+``` py
 def vaisseau_deplacement(x, y):
     """déplacement avec les touches de directions"""
 
@@ -44,7 +45,8 @@ def vaisseau_deplacement(x, y):
 ### Fonction update()
 
 Cette fonction update() est appelé 30 fois par seconde. 
-``` python
+
+``` py
 def update():
     """mise à jour des variables (30 fois par seconde)"""
 
@@ -56,9 +58,9 @@ def update():
 
 Que fait cette instruction (affectation) ?
 
-``` python   
+``` py
  vaisseau_x, vaisseau_y = vaisseau_deplacement(vaisseau_x, vaisseau_y)
- ```
+```
  
 L'appel de la fonction vaisseau_deplacement(vaisseau_x, vaisseau_y) avec pour arguments les valeurs des variables 
 vaisseau_x et vaisseau_y et renvoie les valeurs modifiées suivant certaines touches du clavier. 
@@ -69,14 +71,15 @@ Les valeurs des variables vaisseau_x et vaisseau_y sont modifiées 30 fois par s
 Enfin le dessin !
  
 Pour l'instant il n'y a pas encore de vaisseau. On a créé deux variables vaisseau_x et vaisseau_y qui sont
-modifiées par l'appel de la fonction update() 30 fois par seconde permettant de réaliser cette instruction 
-``` python   
- vaisseau_x, vaisseau_y = vaisseau_deplacement(vaisseau_x, vaisseau_y)
- ```
+modifiées par l'appel de la fonction update() 30 fois par seconde permettant de réaliser cette instruction.
+
+``` py
+vaisseau_x, vaisseau_y = vaisseau_deplacement(vaisseau_x, vaisseau_y)
+```
  
 Cette fonction draw() est appelé 30 fois par seconde.
 
-``` python 
+``` py
 def draw():
     """création des objets (30 fois par seconde)"""
 
@@ -92,15 +95,17 @@ de dessiner un rectangle ayant comme coordonnées coin gauche les valeurs des va
 de largeur 8, de hauteur 8 et de couleur 1.
 
 A quoi sert cette instruction ? 
-``` python pyxel.cls(0) ```
+
+`python pyxel.cls(0) `
 
 La commenter et essayer ?
 La modifier en ``` python pyxel.cls(3) ``` et essayer ?
 La modifier en ``` python pyxel.cls(1) ``` et essayer ?
 
 30 fois par seconde deux actions sont réalisées :
-- la fenêtre graphique est remplie d'une couleur
-- on dessine une rectangle
+
+* la fenêtre graphique est remplie d'une couleur
+* on dessine une rectangle
 
 Cela donne l'illusion d'un mouvement comme au cinéma.
 
@@ -108,27 +113,23 @@ Cela donne l'illusion d'un mouvement comme au cinéma.
 ## Tutoriel #02
 
 Halo autour du tir
-``` python
 
+``` py
 pyxel.rectb(tir[0]-1, tir[1]-1,3,6,3)
-
 ```
 
 tir sous forme cercle avec halo
 
-``` python
-
+``` py
 pyxel.circ(tir[0], tir[1], 2, 3)
 pyxel.circb(tir[0], tir[1],3,9)
-
 ```
 
 tir sous forme cercle avec halo clignotant
-``` python
 
+``` py
 import random
 pyxel.circb(tir[0], tir[1],3,random.randint(1,10))
-
 ```
 
 ## Tutoriel #03
@@ -138,8 +139,7 @@ Utilisation de listes pour enregistrer les coordonnées sous la forme de liste.
 Ajout de valeurs (coordonnées) par rapport au vaisseau par appui sur une touche.
 Ajout de valeurs (coordonnées) aléatoire pour l'abscisse suivant une durée.
 
-``` python
-
+``` py
 def tirs_creation(x, y, tirs_liste):
     """création d'un tir avec la barre d'espace"""
 
@@ -159,7 +159,7 @@ def ennemis_creation(ennemis_liste):
 
 Mise à jour des valeurs des différentes listes suivant des conditions.
 
-``` python
+``` py
 def tirs_deplacement(tirs_liste):
     """déplacement des tirs vers le haut et suppression s'ils sortent du cadre"""
 
@@ -182,7 +182,7 @@ def ennemis_deplacement(ennemis_liste):
 ### Fonction update()
 La fonction update() est appelé 30 fois par seconde permettant la mise à jour des différentes variables.
 
-``` python
+``` py
 def update():
     """mise à jour des variables (30 fois par seconde)"""
 
@@ -207,7 +207,8 @@ def update():
 ### Fonction draw()
 Enfin le dessin !
 La fonction draw() est appelé 30 fois par seconde.
-``` python
+
+``` py
 def draw():
     """création des objets (30 fois par seconde)"""
 
