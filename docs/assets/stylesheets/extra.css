@@ -28,6 +28,21 @@
     display:none;
 }
 
+@media screen and (min-width: 60em)
+.md-search__input {
+    color: inherit;
+    font-size: .6rem;
+}
+.md-search__input {
+    background: transparent;
+    font-size: .6rem;
+    height: 100%;
+    position: relative;
+    text-overflow: ellipsis;
+    width: 100%;
+    z-index: 2;
+}
+
 /* annonce */
 .md-announce {
     background-color: #ffffff;
