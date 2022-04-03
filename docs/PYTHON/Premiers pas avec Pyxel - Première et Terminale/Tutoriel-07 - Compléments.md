@@ -176,7 +176,7 @@ def ennemis_deplacement(ennemis_liste):
     return ennemis_liste
 ```
 
-### fonction update()
+### Fonction update()
 La fonction update() est appelé 30 fois par seconde permettant la mise à jour des différentes variables.
 
 ``` python
@@ -201,7 +201,7 @@ def update():
     ennemis_liste = ennemis_deplacement(ennemis_liste) 
 ```
 
-## fonction draw()
+### Fonction draw()
 Enfin le dessin !
 La fonction draw() est appelé 30 fois par seconde.
 ``` python
