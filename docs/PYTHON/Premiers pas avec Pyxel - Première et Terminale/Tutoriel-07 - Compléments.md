@@ -39,6 +39,7 @@ def vaisseau_deplacement(x, y):
             y = y - 1
     return x, y
 ```
+
 ### Fonction update()
 
 Cette fonction update() est appelé 30 fois par seconde. 
@@ -101,7 +102,8 @@ La modifier en ``` python pyxel.cls(1) ``` et essayer ?
 - on dessine une rectangle
 
 Cela donne l'illusion d'un mouvement comme au cinéma.
- 
+
+
 ## Tutoriel #02
 
 Halo autour du tir
