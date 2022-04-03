@@ -1,13 +1,13 @@
 # COMPLÉMENTS
 
-3 Parties 
-- déclaration des variables et des fonctions
-- fonction update()
-- fonction draw()
+Trois Parties: 
+* déclaration des variables et des fonctions
+* fonction update()
+* fonction draw()
 
 Exemple d'utilisation pour le déplacement du vaisseau.
 
-## déclaration des variables et des fonctions 
+## Déclaration des variables et des fonctions 
 Position du vaisseau par la création des coordonnées du vaisseau au départ.
 Pour l'instant il n'y a pas de vaisseau, juste deux variables vaisseau_x et vaisseau_y
 initialisées par les valeurs 60.
@@ -37,7 +37,7 @@ def vaisseau_deplacement(x, y):
             y = y - 1
     return x, y
 ```
-## fonction update()
+## Fonction update()
 
 Cette fonction update() est appelé 30 fois par seconde. 
 ``` python
@@ -61,7 +61,7 @@ vaisseau_x et vaisseau_y et renvoie les valeurs modifiées suivant certaines tou
 Ces valeurs renvoyées sont affectées aux variables vaisseau_x et vaisseau_y.
 Les valeurs des variables vaisseau_x et vaisseau_y sont modifiées 30 fois par seconde suivant certaines touches du clavier.
 
-## fonction draw()
+## Fonction draw()
 Enfin le dessin !
  
 Pour l'instant il n'y a pas encore de vaisseau. On a créé deux variables vaisseau_x et vaisseau_y qui sont
