@@ -1,7 +1,6 @@
 # Créer une application Pyxel
 
-## Tutoriel #01
-**But :** déplacer un carré avec les touches de directions
+## 1. Déplacer un carré avec les touches de directions
 
 ![alt text](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-01.gif)
 
@@ -43,8 +42,8 @@ pyxel.rect(self.vaisseau_x, self.vaisseau_y, 8, 8, 1)
 Les attributs mouse_x et mouse_y du module pyxel permettent de connaitre la position actuelle de la souris.
 **Modifier** le script pour contrôler le carré avec la souris
 
-## Tutoriel #02
-**But :** ajouter des tirs
+## 2. Ajouter des tirs
+
 
 ![alt text](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-02.gif)
 
@@ -68,8 +67,7 @@ for tir in  self.tirs_liste:
 **Lancer** le script [tutoriel2.py](scripts/tutoriel2.py).
 
 
-## Tutoriel #03
-**But :** ajouter des ennemis
+## 3. Ajouter des ennemis
 
 ![alt text](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-03.gif)
 
@@ -84,8 +82,7 @@ if (pyxel.frame_count % 30 == 0):
 ```
 **Lancer** le script [tutoriel3.py](scripts/tutoriel3.py).
 
-## Tutoriel #04
-**But :** ajouter les collisions
+## 4. Ajouter les collisions
 
 ![alt text](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-04.gif)
 
@@ -112,8 +109,7 @@ else:
 
 **Lancer** le script [tutoriel4.py](scripts/tutoriel4.py)
 
-## Tutoriel #05
-**But :** ajouter les explosions lors des collisions
+## 5. Ajouter les explosions lors des collisions
 
 ![alt text](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-05.gif)
 
@@ -123,8 +119,7 @@ Cependant, en plus des coordonnées, on ajoute un troisième paramètre. C’est
 
 **Lancer** le script [tutoriel5.py](scripts/tutoriel5.py).
 
-## Tutoriel #06
-**But :** ajouter des images
+## 6. Ajouter des images
 
 ![alt text](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-06.gif)
 
@@ -152,8 +147,7 @@ Il est également possible de spécifier une couleur transparente, qui ne sera d
 
 **Lancer** le script [tutoriel6.py](scripts/tutoriel6.py).
 
-## Tutoriel #07
-**But :** Utiliser la POO
+## 7. Utiliser la POO
 
 Il est également possible de créer des instances de classes pour décrire les différents éléments du jeu.
 En soi, le fonctionnement est identique ; par contre, cela permet de regrouper dans un même objet les caractéristiques et les comportements de l’objet.
@@ -178,8 +172,7 @@ for tir in  self.tirs_liste:
 ```
 **Lancer** le script [tutoriel7.py](scripts/tutoriel7.py).
 
-## Tutoriel #08
-**But :** Animer les sprites
+## 8. Animer les sprites
 
 ![alt text](images/sprite.gif)
 
@@ -199,8 +192,8 @@ pyxel.blt(self.x, self.y, 0, 0, 8 + 8*coef, 8, 8)
 ```
 **Lancer** le script [tutoriel8.py](scripts/tutoriel8.py).
 
-## Tutoriel #09
-**But :** Ajouter du son
+## 9. Ajouter du son
+
 Il est possible de rajouter des sons et des musiques au jeu.
 Ces derniers peuvent être créés à partir de l’éditeur de ressources.
 
@@ -227,8 +220,7 @@ pyxel.play(0, 1)
 
 **Lancer** le script [tutoriel9.py](scripts/tutoriel9.py).
 
-## Tutoriel #10
-**But :** Ajouter et faire défiler un décor
+## 10. Ajouter et faire défiler un décor
 
 ![alt text](images/decor.gif)
 
@@ -248,8 +240,7 @@ pyxel.bltm(0, 0, 0, 0, self.scroll_y,  128, 128, TRANSPARENT_COLOR)
 
 **Lancer** le script [tutoriel10.py](scripts/tutoriel10.py).
 
-## Tutoriel #11
-**But :** Interagir avec le décor
+## 11. Interagir avec le décor
 
 ![alt text](images/asteroid.gif)
 
@@ -294,8 +285,7 @@ Une fois détectée, on modifie la tuile pour ne pas qu’elle soit prise en com
 
 **Créer** la fonction detect_bonus() qui détecte le passage du vaisseau sur les bonus de gain de vie présents dans le décor.
 
-## Tutoriel #12
-**But :** Placer des ennemis dans le décor
+## 12. Placer des ennemis dans le décor
 
 ![alt text](images/monstres.gif)
 
@@ -319,3 +309,7 @@ if tuile == TUILE_MONSTRE:
     self.ennemis_liste.append([x*8,y*8-y1])
 ```
 **Lancer** le script [tutoriel12.py](scripts/tutoriel12.py).
+
+---
+
+Auteur : [Peio47](https://gitlab.com/Peio47/terminale/-/tree/main/nuit%20du%20code)

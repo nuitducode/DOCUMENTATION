@@ -1,4 +1,4 @@
-# TUTORIEL #01
+# TUTORIEL #01 - Déplacer un carré avec les touches de directions
 
 **But** : déplacer un carré avec les touches de directions
 
@@ -124,3 +124,7 @@ class Jeu:
 
 Jeu()
 ```
+
+---
+
+Auteur : Laurent Abbal [GitHub](https://github.com/laurentabbal) | [Twitter](https://twitter.com/laurentabbal)
