@@ -1,6 +1,6 @@
 # RÈGLES et CONSEILS
 
-Durant l’épreuve de la Nuit du c0de, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour cela, vous devrez utiliser l’un des 4 Gamepacks (ou univers de jeu) mis à votre disposition. Ces gamepacks ne contiennent aucun script, mais possèdent de nombreux lutins, des scènes et des sons.
+Durant l’épreuve de la Nuit du c0de, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour cela, vous devrez utiliser un des univers de jeu mis à votre disposition. Ces univers de jeu ne contiennent aucun script mais possèdent de nombreux lutins, des scènes et des sons.
 
 ## LES RÈGLES DU JEU
 * Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
@@ -23,24 +23,3 @@ Pensez à sauvegarder ! Et surtout, effectuez régulièrement des copies incrém
 Pensez à donner un descriptif de votre projet sur la page du projet (ou dans une intro du jeu) : il serait dommage que le jury n’arrive pas à jouer à votre jeu, car il ne savait pas qu’il fallait diriger l’extraterrestre avec la souris…
 N’oubliez pas de faire des pauses, d’aller voir ce que font les autres, de boire et de manger !
 Et puis surtout, rappelez-vous : c’est un jeu ! Amusez-vous !
-
-## IMPORTANT
-À la fin de l’épreuve, il faut que votre jeu soit facilement trouvable et identifiable.
-
-Pour cela :
-* **Sauvegardez votre jeu** en lui donnant le nom facilement identifiable (avec vos prénoms, par exemple).
-* **Partagez votre jeu avec votre professeur** en suivant les consignes qu’il vous aura transmises.
-
-## CRITÈRES D’ÉVALUATION DE VOTRE JEU
-Tous les jeux créés dans votre établissement seront testés et évalués. Les premiers de chaque établissement (catégorie collège et lycée) participeront à un classement international.
-
-Pour cette première évaluation, les critères sont :
-* La jouabilité (gameplay en anglais) — **Les jeux non jouables ne seront pas évalués.**
-* L’originalité et la complexité du scénario.
-* La qualité et la complexité du code.
-* Graphismes et sons.
-
-## POUR LES CHAMPIONS
-Les premiers de chaque établissement devront réaliser une courte vidéo (de type gaming) pour présenter leur jeu à un jury qui établira un classement international. Les meilleures équipes seront récompensées. Un autre document expliquera tout cela en détail.
-
-Très bonne Nuit du c0de à tous ! N’hésitez pas à nous contacter pour nous poser vos questions : contact@nuitducode.net.
