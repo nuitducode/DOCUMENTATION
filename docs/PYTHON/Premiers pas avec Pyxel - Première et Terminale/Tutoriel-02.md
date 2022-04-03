@@ -2,7 +2,7 @@
 
 **But** : ajouter des tirs
 
-<center><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-02.gif" width=250 /></center>
+<center><img src="images/pyxel-tutoriel-02.gif" width=250 /></center>
 
 ## 1. Première
 
