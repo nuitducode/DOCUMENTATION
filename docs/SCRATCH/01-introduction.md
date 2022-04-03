@@ -5,5 +5,5 @@ Pour préparer la Nuit du c0de avec les élèves, voici plusieurs ressources qui
 Vous trouverez ci-dessous la listes des ressources composées de:
 
 * 18 [tutoriels vidéo](/DOCUMENTATION/SCRATCH/02-videos/)
-* 4 [exercices d'entraînement complets](/DOCUMENTATION/SCRATCH/03-entrainements/)
+* 4 [exercices d'entraînement ou de sélection](/DOCUMENTATION/SCRATCH/03-entrainements/)
 
