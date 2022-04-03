@@ -90,17 +90,15 @@ def draw():
     pyxel.rect(vaisseau_x, vaisseau_y, 8, 8, 1)
  ```
 
-Cette instruction ``` python pyxel.rect(vaisseau_x, vaisseau_y, 8, 8, 1)``` permet 
-de dessiner un rectangle ayant comme coordonnées coin gauche les valeurs des variables vaisseau_x et vaisseau_y,
-de largeur 8, de hauteur 8 et de couleur 1.
+Cette instruction `python pyxel.rect(vaisseau_x, vaisseau_y, 8, 8, 1)` permet de dessiner un rectangle ayant comme coordonnées coin gauche les valeurs des variables `vaisseau_x` et `vaisseau_y`, de largeur 8, de hauteur 8 et de couleur 1.
 
 A quoi sert cette instruction ? 
 
 `python pyxel.cls(0) `
 
 La commenter et essayer ?
-La modifier en ``` python pyxel.cls(3) ``` et essayer ?
-La modifier en ``` python pyxel.cls(1) ``` et essayer ?
+La modifier en `python pyxel.cls(3)` et essayer ?
+La modifier en `python pyxel.cls(1)` et essayer ?
 
 30 fois par seconde deux actions sont réalisées :
 
@@ -118,14 +116,14 @@ Halo autour du tir
 pyxel.rectb(tir[0]-1, tir[1]-1,3,6,3)
 ```
 
-tir sous forme cercle avec halo
+Tir sous forme cercle avec halo
 
 ``` py
 pyxel.circ(tir[0], tir[1], 2, 3)
 pyxel.circb(tir[0], tir[1],3,9)
 ```
 
-tir sous forme cercle avec halo clignotant
+Tir sous forme cercle avec halo clignotant
 
 ``` py
 import random
@@ -134,10 +132,10 @@ pyxel.circb(tir[0], tir[1],3,random.randint(1,10))
 
 ## Tutoriel #03
 
-Mettre en parallèle la création des tirs et des ennemis.
-Utilisation de listes pour enregistrer les coordonnées sous la forme de liste.
-Ajout de valeurs (coordonnées) par rapport au vaisseau par appui sur une touche.
-Ajout de valeurs (coordonnées) aléatoire pour l'abscisse suivant une durée.
+* Mettre en parallèle la création des tirs et des ennemis.
+* Utilisation de listes pour enregistrer les coordonnées sous la forme de liste.
+* Ajout de valeurs (coordonnées) par rapport au vaisseau par appui sur une touche.
+* Ajout de valeurs (coordonnées) aléatoire pour l'abscisse suivant une durée.
 
 ``` py
 def tirs_creation(x, y, tirs_liste):
