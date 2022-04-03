@@ -2,7 +2,7 @@
 
 **But** : ajouter les explosions lors des collisions
 
-<center><img src="images/pyxel-tutoriel-05.gif" width=250 /></center>
+<center><img src="../images/pyxel-tutoriel-05.gif" width=250 /></center>
 
 ## 1. Première
 
