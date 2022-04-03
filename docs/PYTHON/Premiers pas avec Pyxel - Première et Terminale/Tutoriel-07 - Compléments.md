@@ -11,17 +11,14 @@ Trois Parties:
 Exemple d'utilisation pour le déplacement du vaisseau.
 
 ### Déclaration des variables et des fonctions 
-Position du vaisseau par la création des coordonnées du vaisseau au départ.
-Pour l'instant il n'y a pas de vaisseau, juste deux variables vaisseau_x et vaisseau_y
-initialisées par les valeurs 60.
+Position du vaisseau par la création des coordonnées du vaisseau au départ. Pour l'instant il n'y a pas de vaisseau, juste deux variables `vaisseau_x` et `vaisseau_y` initialisées par les valeurs 60.
 
 ``` py
 vaisseau_x = 60
 vaisseau_y = 60
 ```
 
-Cette fonction a pour arguments les valeurs des variables x et y et renvoie les valeurs des variables x et y
-modifiées suivant certaines touches du clavier.
+Cette fonction a pour arguments les valeurs des variables `x` et `y` et renvoie les valeurs des variables `x` et `y` modifiées suivant certaines touches du clavier.
 
 ``` py
 def vaisseau_deplacement(x, y):
@@ -44,7 +41,7 @@ def vaisseau_deplacement(x, y):
 
 ### Fonction update()
 
-Cette fonction update() est appelé 30 fois par seconde. 
+Cette fonction `update()` est appelé 30 fois par seconde. 
 
 ``` py
 def update():
@@ -62,16 +59,14 @@ Que fait cette instruction (affectation) ?
  vaisseau_x, vaisseau_y = vaisseau_deplacement(vaisseau_x, vaisseau_y)
 ```
  
-L'appel de la fonction vaisseau_deplacement(vaisseau_x, vaisseau_y) avec pour arguments les valeurs des variables 
-vaisseau_x et vaisseau_y et renvoie les valeurs modifiées suivant certaines touches du clavier. 
-Ces valeurs renvoyées sont affectées aux variables vaisseau_x et vaisseau_y.
-Les valeurs des variables vaisseau_x et vaisseau_y sont modifiées 30 fois par seconde suivant certaines touches du clavier.
+* L'appel de la fonction `vaisseau_deplacement(vaisseau_x, vaisseau_y)` avec pour arguments les valeurs des variables `vaisseau_x` et `vaisseau_y` et renvoie les valeurs modifiées suivant certaines touches du clavier. 
+* Ces valeurs renvoyées sont affectées aux variables `vaisseau_x` et `vaisseau_y`.
+* Les valeurs des variables `vaisseau_x` et `vaisseau_y` sont modifiées 30 fois par seconde suivant certaines touches du clavier.
 
 ### Fonction draw()
 Enfin le dessin !
  
-Pour l'instant il n'y a pas encore de vaisseau. On a créé deux variables vaisseau_x et vaisseau_y qui sont
-modifiées par l'appel de la fonction update() 30 fois par seconde permettant de réaliser cette instruction.
+Pour l'instant il n'y a pas encore de vaisseau. On a créé deux variables `vaisseau_x` et `vaisseau_y` qui sont modifiées par l'appel de la fonction `update()` 30 fois par seconde permettant de réaliser cette instruction.
 
 ``` py
 vaisseau_x, vaisseau_y = vaisseau_deplacement(vaisseau_x, vaisseau_y)
@@ -90,15 +85,13 @@ def draw():
     pyxel.rect(vaisseau_x, vaisseau_y, 8, 8, 1)
  ```
 
-Cette instruction `python pyxel.rect(vaisseau_x, vaisseau_y, 8, 8, 1)` permet de dessiner un rectangle ayant comme coordonnées coin gauche les valeurs des variables `vaisseau_x` et `vaisseau_y`, de largeur 8, de hauteur 8 et de couleur 1.
+L'instruction `pyxel.rect(vaisseau_x, vaisseau_y, 8, 8, 1)` permet de dessiner un rectangle ayant comme coordonnées coin gauche les valeurs des variables `vaisseau_x` et `vaisseau_y`, de largeur 8, de hauteur 8 et de couleur 1.
 
-A quoi sert cette instruction ? 
+A quoi sert l'instruction `python pyxel.cls(0) ` ? 
 
-`python pyxel.cls(0) `
-
-La commenter et essayer ?
-La modifier en `python pyxel.cls(3)` et essayer ?
-La modifier en `python pyxel.cls(1)` et essayer ?
+* La commenter et essayer ?
+* La modifier en `python pyxel.cls(3)` et essayer ?
+* La modifier en `python pyxel.cls(1)` et essayer ?
 
 30 fois par seconde deux actions sont réalisées :
 
@@ -178,7 +171,7 @@ def ennemis_deplacement(ennemis_liste):
 ```
 
 ### Fonction update()
-La fonction update() est appelé 30 fois par seconde permettant la mise à jour des différentes variables.
+La fonction `update()` est appelé 30 fois par seconde permettant la mise à jour des différentes variables.
 
 ``` py
 def update():
@@ -204,7 +197,7 @@ def update():
 
 ### Fonction draw()
 Enfin le dessin !
-La fonction draw() est appelé 30 fois par seconde.
+La fonction `draw()` est appelé 30 fois par seconde.
 
 ``` py
 def draw():
