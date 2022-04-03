@@ -83,7 +83,7 @@ def draw():
 
     # vaisseau (carre 8x8)
     pyxel.rect(vaisseau_x, vaisseau_y, 8, 8, 1)
- ```
+```
 
 L'instruction `pyxel.rect(vaisseau_x, vaisseau_y, 8, 8, 1)` permet de dessiner un rectangle ayant comme coordonnées coin gauche les valeurs des variables `vaisseau_x` et `vaisseau_y`, de largeur 8, de hauteur 8 et de couleur 1.
 
