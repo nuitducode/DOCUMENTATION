@@ -325,4 +325,4 @@ Jeu()
 
 ---
 
-Auteur : Laurent Abbal [GitHub](https://github.com/laurentabbal) | [Twitter](https://twitter.com/laurentabbal)
+Auteur : Laurent Abbal - [GitHub](https://github.com/laurentabbal) | [Twitter](https://twitter.com/laurentabbal)
