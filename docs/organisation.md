@@ -34,6 +34,7 @@ D’autres éléments peuvent être pris en compte :
 
 ## UN EXEMPLE D’ORGANISATION : LE LYCÉE FRANÇAIS DE TAIPEI POUR L'ÉDITION 2021
 Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux éléments de notre organisation (prévisionnelle) pour 2021 :
+
 * L’épreuve se déroulera le samedi 21 mai de 10h à 19h
 * Nous accueillerons le Lycée Français International de Kyoto.
 * De 10h à 11h, nous espérons proposer les présentations de deux intervenants.
