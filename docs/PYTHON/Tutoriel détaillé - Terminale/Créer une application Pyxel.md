@@ -2,7 +2,7 @@
 
 ## 1. Déplacer un carré avec les touches de directions
 
-![alt text](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-01.gif)
+![alt text](images/pyxel-tutoriel-01.gif)
 
 Après avoir importé le module Pyxel dans votre script Python, on crée une classe Jeu, pour regrouper l’ensemble des attributs et méthodes nécessaires. Utiliser une classe a l’avantage de remplacer des variables globales par des attributs.
 
@@ -45,7 +45,7 @@ Les attributs mouse_x et mouse_y du module pyxel permettent de connaitre la posi
 ## 2. Ajouter des tirs
 
 
-![alt text](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-02.gif)
+![alt text](images/pyxel-tutoriel-02.gif)
 
 Un tir est caractérisé par ses coordonnées.
 Créer un tir signifie ajouter un couple de coordonnées dans la liste des tirs.
@@ -69,7 +69,7 @@ for tir in  self.tirs_liste:
 
 ## 3. Ajouter des ennemis
 
-![alt text](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-03.gif)
+![alt text](images/pyxel-tutoriel-03.gif)
 
 Les images sont affichées à l’écran à raison de 30 images par secondes.
 L’attribut frame_count du module pyxel comptabilise le nombre d’images affichées depuis le début du jeu.
@@ -84,7 +84,7 @@ if (pyxel.frame_count % 30 == 0):
 
 ## 4. Ajouter les collisions
 
-![alt text](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-04.gif)
+![alt text](images/pyxel-tutoriel-04.gif)
 
 Pour le cas de la collision d’un tir avec un ennemi, la détection est simple : la coordonnée en y doit être inférieure à ye – 8, et la coordonnée en x doit être comprise entre xe et xe + 8.
 
@@ -111,7 +111,7 @@ else:
 
 ## 5. Ajouter les explosions lors des collisions
 
-![alt text](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-05.gif)
+![alt text](images/pyxel-tutoriel-05.gif)
 
 Pour les explosions, on procède comme pour les tirs.
 
@@ -121,7 +121,7 @@ Cependant, en plus des coordonnées, on ajoute un troisième paramètre. C’est
 
 ## 6. Ajouter des images
 
-![alt text](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/pyxel-tutoriel-06.gif)
+![alt text](images/pyxel-tutoriel-06.gif)
 
 Une **tuile** (tile en anglais) est un élément graphique d'un jeu vidéo, constitué de petites images (en général) carrées disposées sur une grille.
 
