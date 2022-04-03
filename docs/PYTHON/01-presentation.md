@@ -1,4 +1,4 @@
-# PRÉSENTATION
+# INTRODUCTION
 
 "**Pyxel** est un moteur de jeu vidéo rétro pour Python.
 
