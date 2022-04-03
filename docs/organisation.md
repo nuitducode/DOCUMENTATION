@@ -14,14 +14,16 @@ Les élèves devront également, le jour de l’événement, être capables de p
 ## SÉLECTIONNER LES ÉLÈVES
 Vous pourrez avoir besoin de réaliser ces sélections notamment si le nombre d’élèves qui souhaitent participer dépasse la capacité d’accueil de votre établissement (en matière de connexion à Internet ou de nombre d’ordinateurs / tablettes disponibles). Des ressources sont présentes sur le site pour organsaier ces selections. Ces ressources vous permettront, si vous le souhaitez, de tester le niveau de vos élèves et, éventuellement les sélectionner. Il est conseillé de faire ces évaluations en équipes.
 
-## L’ÉPREUVE DE LA NUIT DU C0DE
+## LE JOUR J
 L’épreuve dure 6 heures. C’est long et nécessite une organisation adaptée dans votre établissement : journée banalisée, organisation durant le week-end ou autre (il n’est pas nécessaire que cela se passe la nuit !). Il faut le prévoir longtemps en avance et plusieurs éléments sont à prendre en compte :
+
 * Le calendrier : l’épreuve doit être organisée entre le 30 avril et le 11 juin.
 * Le nombre de connexions et de terminaux (ordinateurs/tablettes) disponibles : il est crucial de vérifier votre capacité d’accueil. Les élèves peuvent apporter leur propre terminal et le jeu peut se faire soit en ligne (dans ce cas les élèves devront avoir un compte pour se connecter) soit en déconnecté (installation de Scratch 3 nécessaire sur les terminaux utilisés).
 * Prévoir à manger et à boire : l’épreuve est longue et nos jeunes codeurs ne tiendront pas 6 heures sans s’alimenter ! De plus, la Nuit du c0de se veut un évènement convivial. Pendant toute la durée de l’épreuve, on encourage les équipes à aller observer le travail des autres, à échanger, s’entre-aider... Prévoir un coin snack et buvette est important et fait partie de cette ambiance que nous voulons festive.
-* Prévoir le test et l’évaluation de tous les jeux créés. Chaque établissement doit sélectionner ses équipes championnes (une équipe en catégorie collège et une en catégorie lycée) et il est important d’associer les élèves dans cette sélection. Cela peut se faire tout de suite après l’épreuve, lors d’un autre moment banalisé, à la maison… Cela dépend du nombre d’équipes participantes dans votre établissement : si elles sont peu nombreuses, chaque équipe peut présenter son jeu aux autres et ensuite un vote peut être organisé. Si vous avez beaucoup d’équipes, un vote en ligne avec un Google Form est une possibilité. Cette sélection devra se faire avant le vendredi 21 mai 2021.
+* Prévoir le test et l’évaluation de tous les jeux créés. Chaque établissement doit sélectionner ses équipes championnes et il est important d’associer les élèves dans cette sélection. Cela peut se faire tout de suite après l’épreuve, lors d’un autre moment banalisé, à la maison... Cela dépend du nombre d’équipes participantes dans votre établissement. L'évaluation des jeux se fera via le site.
 
 D’autres éléments peuvent être pris en compte :
+
 * Chaque établissement peut récompenser ses meilleures équipes. Cela rendra l’évènement plus attractif même si les récompenses restent symboliques.
 * Des sponsors : vous pouvez peut-être trouver un ou des sponsors pour vous aider à financer la nourriture mise à disposition des élèves et les éventuels cadeaux pour vos meilleures équipes.
 * Demander une participation culinaire aux familles : ça peut être un bon moyen de proposer de la nourriture pendant l’épreuve.
