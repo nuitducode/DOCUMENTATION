@@ -1,4 +1,4 @@
-# tutoriel 1
+# COMPLÉMENTS
 
 3 Parties 
 - déclaration des variables et des fonctions
@@ -220,3 +220,7 @@ def draw():
     for ennemi in ennemis_liste:
         pyxel.rect(ennemi[0], ennemi[1], 8, 8, 8) 
 ```
+
+---
+
+Auteur : Charles Poulmaire - [Twitter](https://twitter.com/PoulmaireC)
