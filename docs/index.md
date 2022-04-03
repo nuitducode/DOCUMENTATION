@@ -2,8 +2,8 @@
 
 ## SCRATCH
 1. [Introduction](SCRATCH/01-introduction/)
-2. [Tutoriels vidéo](SCRATCH/03-videos/)
-3. [Exercices d'entraînement](SCRATCH/02-entrainements/)
+2. [Tutoriels vidéo](SCRATCH/02-videos/)
+3. [Exercices d'entraînement](SCRATCH/03-entrainements/)
 
 
 <br />
