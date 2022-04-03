@@ -54,6 +54,12 @@
     touch-action: auto;
 }
 
+.md-typeset table:not([class]) td {
+    border-top: 0rem solid var(--md-typeset-table-color);
+    padding: 0.9375em 1.25em;
+    vertical-align: top;
+}
+
 /* annonce */
 .md-announce {
     background-color: #ffffff;
