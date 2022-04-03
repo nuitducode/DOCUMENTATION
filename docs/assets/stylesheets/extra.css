@@ -8,6 +8,22 @@
     background-color: #f8fafc;
 }
 
+.md-footer__title {
+    flex-grow: 1;
+    font-size: .6rem;
+    line-height: 2.4rem;
+    max-width: calc(100% - 2.4rem);
+    padding: 0 1rem;
+    position: relative;
+}
+
+.md-icon svg {
+    fill: currentcolor;
+    display: block;
+    height: 1rem;
+    width: 1rem;
+}
+
 /* annonce */
 .md-announce {
     background-color: #ffffff;
