@@ -43,6 +43,17 @@
     z-index: 2;
 }
 
+.md-typeset table:not([class]) {
+    background-color: none
+    border: 0.rem solid var(--md-typeset-table-color);
+    border-radius: 0.1rem;
+    display: inline-block;
+    font-size: .64rem;
+    max-width: 100%;
+    overflow: auto;
+    touch-action: auto;
+}
+
 /* annonce */
 .md-announce {
     background-color: #ffffff;
