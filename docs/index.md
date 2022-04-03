@@ -1,8 +1,8 @@
 # 🗃️ SOMMAIRE
 
-## 🧩 ORGANISATION
+## 🧩 [ORGANISATION](organisation/)
 
-## 📑 RÈGLES ET CONSEILS
+## 📑 [RÈGLES ET CONSEILS](regles-conseils/)
 
 ## 🐱 SCRATCH
 1. [Introduction](SCRATCH/01-introduction/)
