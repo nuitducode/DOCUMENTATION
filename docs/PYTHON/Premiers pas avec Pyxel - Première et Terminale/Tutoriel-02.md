@@ -1,4 +1,4 @@
-# TUTORIEL #02
+# TUTORIEL #02 - Ajouter des tirs
 
 **But** : ajouter des tirs
 
