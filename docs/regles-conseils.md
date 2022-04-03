@@ -18,8 +18,13 @@ Durant l’épreuve de la Nuit du c0de, vous disposerez de 6 heures pour créer 
 
 ## QUELQUES CONSEILS
 Avant de vous lancer tête baissée dans le code, prenez le temps d’imaginer votre jeu. Passez en revue tous les lutins, tous leurs costumes (qui sont parfois nombreux) et tous les sons. Prévoyez de réaliser rapidement une version simple, mais jouable de votre jeu. Puis, si vous en avez le temps, rajoutez au fur et à mesure des éléments de complexité : plus de sons, niveau de difficulté, scores, etc.
-Vous travaillez à deux : organisez-vous pour être les plus efficaces possible.
+
+Vous travaillez à deux ou trois : organisez-vous pour être les plus efficaces possible.
+
 Pensez à sauvegarder ! Et surtout, effectuez régulièrement des copies incrémentées (version 1, 2, 3…) de votre jeu à chaque amélioration majeure (qui marche). Scratch ne permet pas d’annuler des modifications…
+
 Pensez à donner un descriptif de votre projet sur la page du projet (ou dans une intro du jeu) : il serait dommage que le jury n’arrive pas à jouer à votre jeu, car il ne savait pas qu’il fallait diriger l’extraterrestre avec la souris…
+
 N’oubliez pas de faire des pauses, d’aller voir ce que font les autres, de boire et de manger !
+
 Et puis surtout, rappelez-vous : c’est un jeu ! Amusez-vous !
