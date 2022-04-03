@@ -10,9 +10,5 @@
 ## PYTHON
 1. [Présentation](PYTHON/01-presentation/)
 2. [Installation](PYTHON/02-installation/)
-3. [Tutoriel #01](PYTHON/03-tutoriel-01/)
-4. [Tutoriel #02](PYTHON/04-tutoriel-02/)
-5. [Tutoriel #03](PYTHON/05-tutoriel-03/)
-6. [Tutoriel #04](PYTHON/06-tutoriel-04/)
-7. [Tutoriel #05](PYTHON/07-tutoriel-05/)
-8. [Tutoriel #05](PYTHON/07-tutoriel-06/)
+3. [Premiers pas avec Pyxel - Première et Terminale](PYTHON/Premiers pas avec Pyxel - Première et Terminale/)
+4. [Tutoriel détaillé - Terminale](PYTHON/Tutoriel détaillé - Terminale/)
