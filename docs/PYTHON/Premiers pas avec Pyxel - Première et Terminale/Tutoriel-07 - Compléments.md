@@ -1,6 +1,6 @@
 # COMPLÉMENTS
 
-## TUTORIELS #01
+## Tutoriel #01
 
 Trois Parties: 
 * déclaration des variables et des fonctions
