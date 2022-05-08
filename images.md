@@ -1,6 +1,6 @@
 # LOGOS
 
-Pour créer des autocollants, des t-shirts, des tasses...
+Pour la communication ou pour créer des autocollants, des t-shirts, des tasses...
 * NDC : [png](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_ndc.png) - [svg](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_ndc.svg)
 * Scratch : [png](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch.png) - [svg](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch.svg)
 * Python : [png](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_python.png) - [svg](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_python.svg)
