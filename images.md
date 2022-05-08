@@ -7,14 +7,10 @@ Pour la communication ou pour créer des autocollants, des t-shirts, des tasses.
 * Scratch & Python : [png](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch-python.png) - [svg](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch-python.svg)
 
 <center>
-<table cellpadding="5">
-<tr>
-<td><img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_ndc.png" width="100" /></td>
-<td><img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch.png" width="100" /></td>
-<td><img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_python.png" width="100" /></td>
-<td><img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch-python.png" width="200" /></td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_ndc.png" width="200" />
+<img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch.png" width="200" />
+<img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_python.png" width="200" />
+<img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch-python.png" width="400" />
 </center>
 
 
