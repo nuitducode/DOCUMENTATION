@@ -21,5 +21,4 @@ Plusieurs versions sont proposées:
 
 En plaçant l'image en fond de page, vous pouvez utiliser le logiciel de traitement de texte ou le logiciel de traitement d'images de votre choix pour compléter facilement les informations (date, lieux...).
 
-<img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/affiches/Affiche_Nuit_du_c0de_2022-portrait-1750x2500.png" width="175" />
-<img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/affiches/Affiche_Nuit_du_c0de_2022-paysage-2500x1750.png" width="250" />
+<img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/affiches/Affiche_Nuit_du_c0de_2022-portrait-1750x2500.png" width="175" /> <img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/affiches/Affiche_Nuit_du_c0de_2022-paysage-2500x1750.png" width="250" />
