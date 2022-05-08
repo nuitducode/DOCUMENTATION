@@ -1,0 +1,1194 @@
+
+<!doctype html>
+<html lang="fr" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      <link rel="icon" href="https://www.nuitducode.net/img/favicon.svg">
+      <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.2.13">
+    
+    
+      
+        <title>Créer une application Pyxel - DOCUMENTATION & RESSOURCES</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/main.e411adfe.min.css">
+      
+        
+        <link rel="stylesheet" href="../../../assets/stylesheets/palette.cc9b2e1e.min.css">
+        
+          
+          
+          <meta name="theme-color" content="#ffffff">
+        
+      
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../../assets/stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../../..",location),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="white" data-md-color-accent="green">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#creer-une-application-pyxel" class="md-skip">
+          Aller au contenu
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+        <aside class="md-banner">
+          <div class="md-banner__inner md-grid md-typeset">
+            
+  <!-- Add your announcement here, including arbitrary HTML -->
+
+          </div>
+        </aside>
+      
+    </div>
+    
+      <div data-md-component="outdated" hidden>
+        <aside class="md-banner md-banner--warning">
+          
+        </aside>
+      </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="En-tête">
+    <a href="../../.." title="DOCUMENTATION &amp; RESSOURCES" class="md-header__button md-logo" aria-label="DOCUMENTATION & RESSOURCES" data-md-component="logo">
+      
+  <img src="https://www.nuitducode.net/img/favicon.svg" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            DOCUMENTATION & RESSOURCES
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Créer une application Pyxel
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+      <label class="md-header__button md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+      </label>
+      <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Rechercher" placeholder="Rechercher" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" aria-label="Effacer" tabindex="-1">
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initialisation de la recherche
+          </div>
+          <ol class="md-search-result__list"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+    
+    
+      <div class="md-header__source">
+        <a href="https://github.com/nuitducode/DOCUMENTATION" title="Aller au dépôt" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+      </div>
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="Onglets" data-md-component="tabs">
+  <div class="md-tabs__inner md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../.." class="md-tabs__link">
+      🗃️ SOMMAIRE
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../../organisation/" class="md-tabs__link">
+      ORGANISATION
+    </a>
+  </li>
+
+      
+        
+  
+  
+
+
+  <li class="md-tabs__item">
+    <a href="../../../regles-conseils/" class="md-tabs__link">
+      RÈGLES et CONSEILS
+    </a>
+  </li>
+
+      
+        
+  
+  
+    
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../01-presentation/" class="md-tabs__link md-tabs__link--active">
+        PYTHON
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+
+
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../../../SCRATCH/01-introduction/" class="md-tabs__link">
+        SCRATCH
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../../.." title="DOCUMENTATION &amp; RESSOURCES" class="md-nav__button md-logo" aria-label="DOCUMENTATION & RESSOURCES" data-md-component="logo">
+      
+  <img src="https://www.nuitducode.net/img/favicon.svg" alt="logo">
+
+    </a>
+    DOCUMENTATION & RESSOURCES
+  </label>
+  
+    <div class="md-nav__source">
+      <a href="https://github.com/nuitducode/DOCUMENTATION" title="Aller au dépôt" class="md-source" data-md-component="source">
+  <div class="md-source__icon md-icon">
+    
+    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512"><!--! Font Awesome Free 6.1.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M439.55 236.05 244 40.45a28.87 28.87 0 0 0-40.81 0l-40.66 40.63 51.52 51.52c27.06-9.14 52.68 16.77 43.39 43.68l49.66 49.66c34.23-11.8 61.18 31 35.47 56.69-26.49 26.49-70.21-2.87-56-37.34L240.22 199v121.85c25.3 12.54 22.26 41.85 9.08 55a34.34 34.34 0 0 1-48.55 0c-17.57-17.6-11.07-46.91 11.25-56v-123c-20.8-8.51-24.6-30.74-18.64-45L142.57 101 8.45 235.14a28.86 28.86 0 0 0 0 40.81l195.61 195.6a28.86 28.86 0 0 0 40.8 0l194.69-194.69a28.86 28.86 0 0 0 0-40.81z"/></svg>
+  </div>
+  <div class="md-source__repository">
+    GitHub
+  </div>
+</a>
+    </div>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../.." class="md-nav__link">
+        🗃️ SOMMAIRE
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../organisation/" class="md-nav__link">
+        ORGANISATION
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../regles-conseils/" class="md-nav__link">
+        RÈGLES et CONSEILS
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4" type="checkbox" id="__nav_4" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4">
+          PYTHON
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="PYTHON" data-md-level="1">
+        <label class="md-nav__title" for="__nav_4">
+          <span class="md-nav__icon md-icon"></span>
+          PYTHON
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../01-presentation/" class="md-nav__link">
+        INTRODUCTION
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../02-installation/" class="md-nav__link">
+        INSTALLATION
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_3" type="checkbox" id="__nav_4_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_3">
+          Premiers pas avec Pyxel   Première et Terminale
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Premiers pas avec Pyxel   Première et Terminale" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_3">
+          <span class="md-nav__icon md-icon"></span>
+          Premiers pas avec Pyxel   Première et Terminale
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/Tutoriel-01/" class="md-nav__link">
+        TUTORIEL #01 - Déplacer un carré avec les touches de directions
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/Tutoriel-02/" class="md-nav__link">
+        TUTORIEL #02 - Ajouter des tirs
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/Tutoriel-03/" class="md-nav__link">
+        TUTORIEL #03 - Ajouter des ennemis
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/Tutoriel-04/" class="md-nav__link">
+        TUTORIEL #04 - Ajouter les collisions
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/Tutoriel-05/" class="md-nav__link">
+        TUTORIEL #05 - Ajouter les explosions lors des collisions
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/Tutoriel-06/" class="md-nav__link">
+        TUTORIEL #06 - Ajouter les images
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/Tutoriel-07%20-%20Compl%C3%A9ments/" class="md-nav__link">
+        COMPLÉMENTS
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_4_4" type="checkbox" id="__nav_4_4" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_4_4">
+          Tutoriel détaillé   Terminale
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Tutoriel détaillé   Terminale" data-md-level="2">
+        <label class="md-nav__title" for="__nav_4_4">
+          <span class="md-nav__icon md-icon"></span>
+          Tutoriel détaillé   Terminale
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Créer une application Pyxel
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Créer une application Pyxel
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-deplacer-un-carre-avec-les-touches-de-directions" class="md-nav__link">
+    1. Déplacer un carré avec les touches de directions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-ajouter-des-tirs" class="md-nav__link">
+    2. Ajouter des tirs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-ajouter-des-ennemis" class="md-nav__link">
+    3. Ajouter des ennemis
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-ajouter-les-collisions" class="md-nav__link">
+    4. Ajouter les collisions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-ajouter-les-explosions-lors-des-collisions" class="md-nav__link">
+    5. Ajouter les explosions lors des collisions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-ajouter-des-images" class="md-nav__link">
+    6. Ajouter des images
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-utiliser-la-poo" class="md-nav__link">
+    7. Utiliser la POO
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-animer-les-sprites" class="md-nav__link">
+    8. Animer les sprites
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#9-ajouter-du-son" class="md-nav__link">
+    9. Ajouter du son
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10-ajouter-et-faire-defiler-un-decor" class="md-nav__link">
+    10. Ajouter et faire défiler un décor
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#11-interagir-avec-le-decor" class="md-nav__link">
+    11. Interagir avec le décor
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#12-placer-des-ennemis-dans-le-decor" class="md-nav__link">
+    12. Placer des ennemis dans le décor
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_5" type="checkbox" id="__nav_5" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_5">
+          SCRATCH
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="SCRATCH" data-md-level="1">
+        <label class="md-nav__title" for="__nav_5">
+          <span class="md-nav__icon md-icon"></span>
+          SCRATCH
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../SCRATCH/01-introduction/" class="md-nav__link">
+        INTRODUCTION
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../SCRATCH/02-videos/" class="md-nav__link">
+        TUTORIELS VIDÉO
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../../SCRATCH/03-entrainements/" class="md-nav__link">
+        EXERCICES D'ENTRAÎNEMENT OU DE SÉLECTION
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table des matières">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table des matières
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#1-deplacer-un-carre-avec-les-touches-de-directions" class="md-nav__link">
+    1. Déplacer un carré avec les touches de directions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#2-ajouter-des-tirs" class="md-nav__link">
+    2. Ajouter des tirs
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#3-ajouter-des-ennemis" class="md-nav__link">
+    3. Ajouter des ennemis
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#4-ajouter-les-collisions" class="md-nav__link">
+    4. Ajouter les collisions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#5-ajouter-les-explosions-lors-des-collisions" class="md-nav__link">
+    5. Ajouter les explosions lors des collisions
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#6-ajouter-des-images" class="md-nav__link">
+    6. Ajouter des images
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#7-utiliser-la-poo" class="md-nav__link">
+    7. Utiliser la POO
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#8-animer-les-sprites" class="md-nav__link">
+    8. Animer les sprites
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#9-ajouter-du-son" class="md-nav__link">
+    9. Ajouter du son
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#10-ajouter-et-faire-defiler-un-decor" class="md-nav__link">
+    10. Ajouter et faire défiler un décor
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#11-interagir-avec-le-decor" class="md-nav__link">
+    11. Interagir avec le décor
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#12-placer-des-ennemis-dans-le-decor" class="md-nav__link">
+    12. Placer des ennemis dans le décor
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          <div class="md-content" data-md-component="content">
+            <article class="md-content__inner md-typeset">
+              
+                
+
+
+<h1 id="creer-une-application-pyxel">Créer une application Pyxel</h1>
+<h2 id="1-deplacer-un-carre-avec-les-touches-de-directions">1. Déplacer un carré avec les touches de directions</h2>
+<p><img alt="alt text" src="../images/pyxel-tutoriel-01.gif" /></p>
+<p>Après avoir importé le module Pyxel dans votre script Python, on crée une classe Jeu, pour regrouper l’ensemble des attributs et méthodes nécessaires. Utiliser une classe a l’avantage de remplacer des variables globales par des attributs.</p>
+<p>Cette classe doit contenir les méthodes <code>draw()</code> et <code>update()</code>.
+La méthode <code>draw()</code> crée et positionne les objets, alors que la méthode <code>update()</code> met à jour les variables.
+A l’intérieur du constructeur de la classe, on spécifie d’abord la taille de la fenêtre avec la fonction <code>init()</code> :</p>
+<div class="highlight"><pre><span></span><code><a id="__codelineno-0-1" name="__codelineno-0-1" href="#__codelineno-0-1"></a><span class="c1"># taille de la fenetre 128x128 pixels</span>
+<a id="__codelineno-0-2" name="__codelineno-0-2" href="#__codelineno-0-2"></a><span class="c1"># ne pas modifier</span>
+<a id="__codelineno-0-3" name="__codelineno-0-3" href="#__codelineno-0-3"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">init</span><span class="p">(</span><span class="mi">128</span><span class="p">,</span> <span class="mi">128</span><span class="p">,</span> <span class="n">title</span><span class="o">=</span><span class="s2">&quot;Nuit du c0de&quot;</span><span class="p">)</span>
+</code></pre></div>
+<p>On lance l’application Pyxel avec la fonction run qui crée deux processus basés sur les méthodes <code>draw()</code> et <code>update()</code> :
+<div class="highlight"><pre><span></span><code><a id="__codelineno-1-1" name="__codelineno-1-1" href="#__codelineno-1-1"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">run</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">update</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">draw</span><span class="p">)</span>
+</code></pre></div>
+Cette instruction doit être la dernière du constructeur.
+La création d’une instance de la classe permet de lancer le jeu.
+Pour déplacer un objet, on vérifie modifie ses coordonnées dans la méthode update().
+Ici on les modifie à l’aide du clavier, en vérifiant si une touche est pressée (dans cet exemple, la touche droite et le touche gauche) :
+<div class="highlight"><pre><span></span><code><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="k">if</span> <span class="n">pyxel</span><span class="o">.</span><span class="n">btn</span><span class="p">(</span><span class="n">pyxel</span><span class="o">.</span><span class="n">KEY_RIGHT</span><span class="p">)</span> <span class="ow">and</span> <span class="bp">self</span><span class="o">.</span><span class="n">vaisseau_x</span><span class="o">&lt;</span><span class="mi">120</span><span class="p">:</span>
+<a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a>    <span class="bp">self</span><span class="o">.</span><span class="n">vaisseau_x</span> <span class="o">+=</span> <span class="mi">1</span>
+<a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a><span class="k">if</span> <span class="n">pyxel</span><span class="o">.</span><span class="n">btn</span><span class="p">(</span><span class="n">pyxel</span><span class="o">.</span><span class="n">KEY_LEFT</span><span class="p">)</span> <span class="ow">and</span> <span class="bp">self</span><span class="o">.</span><span class="n">vaisseau_x</span><span class="o">&gt;</span><span class="mi">0</span><span class="p">:</span>
+<a id="__codelineno-2-4" name="__codelineno-2-4" href="#__codelineno-2-4"></a>    <span class="bp">self</span><span class="o">.</span><span class="n">vaisseau_x</span> <span class="o">+=</span> <span class="o">-</span><span class="mi">1</span>
+</code></pre></div>
+Il ne reste plus qu’à afficher le carré avec ses nouvelles coordonnées grâce à cette instruction dans la méthode <code>draw()</code> :
+<div class="highlight"><pre><span></span><code><a id="__codelineno-3-1" name="__codelineno-3-1" href="#__codelineno-3-1"></a> <span class="c1"># vaisseau (carre 8x8)</span>
+<a id="__codelineno-3-2" name="__codelineno-3-2" href="#__codelineno-3-2"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">rect</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">vaisseau_x</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">vaisseau_y</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+</code></pre></div></p>
+<p><strong>Lancer</strong> le script <a href="../scripts/tutoriel1.py">tutoriel1.py</a>.
+<strong>Modifier</strong> le script pour le déplacer selon l’axe des y.</p>
+<p>Les attributs mouse_x et mouse_y du module pyxel permettent de connaitre la position actuelle de la souris.
+<strong>Modifier</strong> le script pour contrôler le carré avec la souris</p>
+<h2 id="2-ajouter-des-tirs">2. Ajouter des tirs</h2>
+<p><img alt="alt text" src="../images/pyxel-tutoriel-02.gif" /></p>
+<p>Un tir est caractérisé par ses coordonnées.
+Créer un tir signifie ajouter un couple de coordonnées dans la liste des tirs.
+<div class="highlight"><pre><span></span><code><a id="__codelineno-4-1" name="__codelineno-4-1" href="#__codelineno-4-1"></a><span class="k">if</span> <span class="n">pyxel</span><span class="o">.</span><span class="n">btnr</span><span class="p">(</span><span class="n">pyxel</span><span class="o">.</span><span class="n">KEY_SPACE</span><span class="p">):</span>
+<a id="__codelineno-4-2" name="__codelineno-4-2" href="#__codelineno-4-2"></a>    <span class="bp">self</span><span class="o">.</span><span class="n">tirs_liste</span><span class="o">.</span><span class="n">append</span><span class="p">([</span><span class="bp">self</span><span class="o">.</span><span class="n">vaisseau_x</span><span class="o">+</span><span class="mi">4</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">vaisseau_y</span><span class="o">-</span><span class="mi">4</span><span class="p">])</span>
+</code></pre></div></p>
+<p>Les coordonnées du tir sont déterminées à partir de celles du vaisseau, sachant que ces coordonnées correspondent au coin en haut à gauche.
+<img alt="alt text" src="../images/tir_coor.png" /></p>
+<p>On déplace ensuite d’un pixel le tir jusqu’à ce qu’il sorte de l’écran. Il suffit alors de le retirer de la liste des tirs pour le supprimer.
+<div class="highlight"><pre><span></span><code><a id="__codelineno-5-1" name="__codelineno-5-1" href="#__codelineno-5-1"></a><span class="k">for</span> <span class="n">tir</span> <span class="ow">in</span>  <span class="bp">self</span><span class="o">.</span><span class="n">tirs_liste</span><span class="p">:</span>
+<a id="__codelineno-5-2" name="__codelineno-5-2" href="#__codelineno-5-2"></a>    <span class="n">tir</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span> <span class="o">-=</span> <span class="mi">1</span>
+<a id="__codelineno-5-3" name="__codelineno-5-3" href="#__codelineno-5-3"></a>    <span class="k">if</span>  <span class="n">tir</span><span class="p">[</span><span class="mi">1</span><span class="p">]</span><span class="o">&lt;-</span><span class="mi">8</span><span class="p">:</span>
+<a id="__codelineno-5-4" name="__codelineno-5-4" href="#__codelineno-5-4"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">tirs_liste</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="n">tir</span><span class="p">)</span>
+</code></pre></div>
+<strong>Lancer</strong> le script <a href="../scripts/tutoriel2.py">tutoriel2.py</a>.</p>
+<h2 id="3-ajouter-des-ennemis">3. Ajouter des ennemis</h2>
+<p><img alt="alt text" src="../images/pyxel-tutoriel-03.gif" /></p>
+<p>Les images sont affichées à l’écran à raison de 30 images par secondes.
+L’attribut frame_count du module pyxel comptabilise le nombre d’images affichées depuis le début du jeu.
+Ainsi, pour créer un ennemi toute les secondes, on vérifie que le nombres d’images est un multiple de 30.
+La création des ennemis repose sur le même principe que celui des tirs, mais on utilise la fonction <code>randint()</code> du module random pour les créer de façon aléatoire selon l’axe des x.
+<div class="highlight"><pre><span></span><code><a id="__codelineno-6-1" name="__codelineno-6-1" href="#__codelineno-6-1"></a><span class="c1"># un ennemi par seconde</span>
+<a id="__codelineno-6-2" name="__codelineno-6-2" href="#__codelineno-6-2"></a><span class="k">if</span> <span class="p">(</span><span class="n">pyxel</span><span class="o">.</span><span class="n">frame_count</span> <span class="o">%</span> <span class="mi">30</span> <span class="o">==</span> <span class="mi">0</span><span class="p">):</span>
+<a id="__codelineno-6-3" name="__codelineno-6-3" href="#__codelineno-6-3"></a>    <span class="bp">self</span><span class="o">.</span><span class="n">ennemis_liste</span><span class="o">.</span><span class="n">append</span><span class="p">([</span><span class="n">random</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">120</span><span class="p">),</span> <span class="mi">0</span><span class="p">])</span>
+</code></pre></div>
+<strong>Lancer</strong> le script <a href="../scripts/tutoriel3.py">tutoriel3.py</a>.</p>
+<h2 id="4-ajouter-les-collisions">4. Ajouter les collisions</h2>
+<p><img alt="alt text" src="../images/pyxel-tutoriel-04.gif" /></p>
+<p>Pour le cas de la collision d’un tir avec un ennemi, la détection est simple : la coordonnée en y doit être inférieure à ye – 8, et la coordonnée en x doit être comprise entre xe et xe + 8.</p>
+<p><img alt="alt text" src="../images/collision_tir.png" /></p>
+<p>Pour détecter une collision entre un ennemi et un vaisseau, il faut considérer deux cas de figure (en ne considérant pour l’instant que l’axe des x) :</p>
+<p><img alt="alt text" src="../images/collisions.png" /></p>
+<p>A partir de ces figures, on en déduit deux conditions : il faut le bord gauche du vaisseau soit inférieur à xe + 8, et le bord droit supérieur à xe.</p>
+<p>On applique le même raisonnement sur l’axe des y.</p>
+<p>Grâce aux collisions il est possible de mettre une condition d’échec avec un écran de fin de jeu. La méthode <code>text()</code> permet d’afficher un texte aux coordonnées spécifiées (on peut également préciser le nombre de vie pendant la partie).
+<div class="highlight"><pre><span></span><code><a id="__codelineno-7-1" name="__codelineno-7-1" href="#__codelineno-7-1"></a><span class="c1"># si le vaisseau possede des vies le jeu continue</span>
+<a id="__codelineno-7-2" name="__codelineno-7-2" href="#__codelineno-7-2"></a><span class="k">if</span> <span class="bp">self</span><span class="o">.</span><span class="n">vaisseau</span><span class="o">.</span><span class="n">vies</span> <span class="o">&gt;</span> <span class="mi">0</span><span class="p">:</span>
+<a id="__codelineno-7-3" name="__codelineno-7-3" href="#__codelineno-7-3"></a>    <span class="o">...</span>
+<a id="__codelineno-7-4" name="__codelineno-7-4" href="#__codelineno-7-4"></a><span class="c1"># sinon: GAME OVER</span>
+<a id="__codelineno-7-5" name="__codelineno-7-5" href="#__codelineno-7-5"></a><span class="k">else</span><span class="p">:</span>
+<a id="__codelineno-7-6" name="__codelineno-7-6" href="#__codelineno-7-6"></a>    <span class="n">pyxel</span><span class="o">.</span><span class="n">text</span><span class="p">(</span><span class="mi">50</span><span class="p">,</span><span class="mi">64</span><span class="p">,</span> <span class="s1">&#39;GAME OVER&#39;</span><span class="p">,</span> <span class="mi">7</span><span class="p">)</span>
+</code></pre></div></p>
+<p><strong>Lancer</strong> le script <a href="../scripts/tutoriel4.py">tutoriel4.py</a></p>
+<h2 id="5-ajouter-les-explosions-lors-des-collisions">5. Ajouter les explosions lors des collisions</h2>
+<p><img alt="alt text" src="../images/pyxel-tutoriel-05.gif" /></p>
+<p>Pour les explosions, on procède comme pour les tirs.</p>
+<p>Cependant, en plus des coordonnées, on ajoute un troisième paramètre. C’est ce paramètre qui permettra de créer des cercles dont le rayon et la couleur évolue.</p>
+<p><strong>Lancer</strong> le script <a href="../scripts/tutoriel5.py">tutoriel5.py</a>.</p>
+<h2 id="6-ajouter-des-images">6. Ajouter des images</h2>
+<p><img alt="alt text" src="../images/pyxel-tutoriel-06.gif" /></p>
+<p>Une <strong>tuile</strong> (tile en anglais) est un élément graphique d'un jeu vidéo, constitué de petites images (en général) carrées disposées sur une grille.</p>
+<p>Une tuile peut représenter un sprite ou un élément de décor, avec lequel on peut interagir ou non.
+L'ensemble complet des tuiles disponibles pour une utilisation dans une zone de jeu est appelé un jeu de tuiles (ou tileset en anglais).</p>
+<p>L’éditeur Pyxel peut créer des images et des sons utilisables dans des applications Pyxel. (voir la documentation Pyxel)</p>
+<p>Lors de l'initialisation du jeu, il est nécessaire de charger en mémoire le <a href="../scripts/images.pyxres">fichier ressource</a>.
+<div class="highlight"><pre><span></span><code><a id="__codelineno-8-1" name="__codelineno-8-1" href="#__codelineno-8-1"></a><span class="c1"># chargement des images</span>
+<a id="__codelineno-8-2" name="__codelineno-8-2" href="#__codelineno-8-2"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="s2">&quot;images.pyxres&quot;</span><span class="p">)</span>
+</code></pre></div></p>
+<p>On peut ensuite placer l’image à l’écran, à la place du carré initial :
+<div class="highlight"><pre><span></span><code><a id="__codelineno-9-1" name="__codelineno-9-1" href="#__codelineno-9-1"></a><span class="c1"># vaisseau (carre 8x8)</span>
+<a id="__codelineno-9-2" name="__codelineno-9-2" href="#__codelineno-9-2"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">blt</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">x</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">y</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">8</span><span class="p">)</span>
+</code></pre></div>
+Si les dimensions de l’image sont indiquées comme négatives, la copie de l’image sera inversée horizontalement et/ou verticalement.</p>
+<p>Il est également possible de spécifier une couleur transparente, qui ne sera donc pas dessiner à l’écran. On a choisi ici la couleur noire (code : 0), initialisé dans la constante <code>TRANSPARENT_COLOR</code>.</p>
+<p><strong>Lancer</strong> le script <a href="../scripts/tutoriel6.py">tutoriel6.py</a>.</p>
+<h2 id="7-utiliser-la-poo">7. Utiliser la POO</h2>
+<p>Il est également possible de créer des instances de classes pour décrire les différents éléments du jeu.
+En soi, le fonctionnement est identique ; par contre, cela permet de regrouper dans un même objet les caractéristiques et les comportements de l’objet.</p>
+<p>Par exemple, un objet <code>Tir</code> va regrouper ses coordonnées, ainsi que la manière de le dessiner, de la déplacer et la gestion des collisions avec les ennemis.</p>
+<p><img alt="alt text" src="../images/tir.png" /></p>
+<p>On peut remarquer qu’un troisième attribut a été rajouté : il s’agit de l’attribut <code>alive</code>, initialisé à <code>True</code>, qui permet de déterminer si l’objet doit continuer à être afficher ou s’il doit être supprimer.
+<div class="highlight"><pre><span></span><code><a id="__codelineno-10-1" name="__codelineno-10-1" href="#__codelineno-10-1"></a><span class="k">def</span> <span class="nf">deplacement</span><span class="p">(</span><span class="bp">self</span><span class="p">):</span>
+<a id="__codelineno-10-2" name="__codelineno-10-2" href="#__codelineno-10-2"></a>    <span class="bp">self</span><span class="o">.</span><span class="n">y</span> <span class="o">-=</span> <span class="mi">1</span>
+<a id="__codelineno-10-3" name="__codelineno-10-3" href="#__codelineno-10-3"></a>    <span class="k">if</span>  <span class="bp">self</span><span class="o">.</span><span class="n">y</span> <span class="o">&lt;</span> <span class="o">-</span><span class="mi">8</span><span class="p">:</span>
+<a id="__codelineno-10-4" name="__codelineno-10-4" href="#__codelineno-10-4"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">alive</span> <span class="o">=</span> <span class="kc">False</span>
+</code></pre></div>
+Les objets qui ne sont plus « vivants » sont alors supprimés des listes à dessiner.
+<div class="highlight"><pre><span></span><code><a id="__codelineno-11-1" name="__codelineno-11-1" href="#__codelineno-11-1"></a><span class="k">for</span> <span class="n">tir</span> <span class="ow">in</span>  <span class="bp">self</span><span class="o">.</span><span class="n">tirs_liste</span><span class="p">:</span>
+<a id="__codelineno-11-2" name="__codelineno-11-2" href="#__codelineno-11-2"></a>    <span class="n">tir</span><span class="o">.</span><span class="n">deplacement</span><span class="p">()</span>
+<a id="__codelineno-11-3" name="__codelineno-11-3" href="#__codelineno-11-3"></a>    <span class="k">if</span>  <span class="ow">not</span> <span class="n">tir</span><span class="o">.</span><span class="n">alive</span> <span class="p">:</span>
+<a id="__codelineno-11-4" name="__codelineno-11-4" href="#__codelineno-11-4"></a>        <span class="bp">self</span><span class="o">.</span><span class="n">tirs_liste</span><span class="o">.</span><span class="n">remove</span><span class="p">(</span><span class="n">tir</span><span class="p">)</span>
+</code></pre></div>
+<strong>Lancer</strong> le script <a href="../scripts/tutoriel7.py">tutoriel7.py</a>.</p>
+<h2 id="8-animer-les-sprites">8. Animer les sprites</h2>
+<p><img alt="alt text" src="../images/sprite.gif" /></p>
+<p>Pour animer les sprites, on va utiliser plusieurs images du pavé pour un seul sprite.</p>
+<p><img alt="alt text" src="../images/monstre.png" /></p>
+<p>L’enchainement des images donne l’impression de mouvement.
+Dans le script tutoriel8.py, on utilise l’attribut <code>pyxel.frame_count</code> pour modifier l’image toutes les 1/10ème de seconde.
+On utilise la variable <code>coef</code> pour choisir l’image.</p>
+<p><div class="highlight"><pre><span></span><code><a id="__codelineno-12-1" name="__codelineno-12-1" href="#__codelineno-12-1"></a><span class="c1">#Change l&#39;aspect tous les 1/10 de secondes</span>
+<a id="__codelineno-12-2" name="__codelineno-12-2" href="#__codelineno-12-2"></a><span class="c1">#coef peut vaaloir 0,1 ou 2</span>
+<a id="__codelineno-12-3" name="__codelineno-12-3" href="#__codelineno-12-3"></a><span class="n">coef</span> <span class="o">=</span> <span class="n">pyxel</span><span class="o">.</span><span class="n">frame_count</span> <span class="o">//</span><span class="mi">3</span><span class="o">%</span> <span class="mi">3</span>
+<a id="__codelineno-12-4" name="__codelineno-12-4" href="#__codelineno-12-4"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">blt</span><span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">x</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">y</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">8</span> <span class="o">+</span> <span class="mi">8</span><span class="o">*</span><span class="n">coef</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">8</span><span class="p">)</span> 
+</code></pre></div>
+<strong>Lancer</strong> le script <a href="../scripts/tutoriel8.py">tutoriel8.py</a>.</p>
+<h2 id="9-ajouter-du-son">9. Ajouter du son</h2>
+<p>Il est possible de rajouter des sons et des musiques au jeu.
+Ces derniers peuvent être créés à partir de l’éditeur de ressources.</p>
+<p><img alt="alt text" src="https://github.com/kitao/pyxel/raw/main/doc/images/sound_editor.gif" />
+<img alt="alt text" src="https://github.com/kitao/pyxel/raw/main/doc/images/music_editor.gif" /></p>
+<p>On peut charger les fichiers ressources grâce à la méthode load(). Le fichier peut être chargé en entier, ou partiellement. Dans ce cas on spécifie quelles parties chargées.</p>
+<p>La méthode <code>playm()</code> permet de lancer une musique en continu.
+<div class="highlight"><pre><span></span><code><a id="__codelineno-13-1" name="__codelineno-13-1" href="#__codelineno-13-1"></a><span class="c1"># chargement des images et des sons</span>
+<a id="__codelineno-13-2" name="__codelineno-13-2" href="#__codelineno-13-2"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="s2">&quot;images.pyxres&quot;</span><span class="p">,</span> <span class="kc">True</span><span class="p">,</span> <span class="kc">True</span><span class="p">,</span> <span class="kc">False</span><span class="p">,</span> <span class="kc">False</span><span class="p">)</span>
+<a id="__codelineno-13-3" name="__codelineno-13-3" href="#__codelineno-13-3"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="s2">&quot;sons.pyxres&quot;</span><span class="p">,</span> <span class="kc">False</span><span class="p">,</span> <span class="kc">False</span><span class="p">,</span> <span class="kc">True</span><span class="p">,</span> <span class="kc">True</span><span class="p">)</span>
+<a id="__codelineno-13-4" name="__codelineno-13-4" href="#__codelineno-13-4"></a>
+<a id="__codelineno-13-5" name="__codelineno-13-5" href="#__codelineno-13-5"></a><span class="c1">#Lancement de la musique</span>
+<a id="__codelineno-13-6" name="__codelineno-13-6" href="#__codelineno-13-6"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">playm</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="n">loop</span><span class="o">=</span><span class="kc">True</span><span class="p">)</span>
+</code></pre></div></p>
+<p>On peut également émettre des bruitages (ici, le son numéro 1) :
+<div class="highlight"><pre><span></span><code><a id="__codelineno-14-1" name="__codelineno-14-1" href="#__codelineno-14-1"></a> <span class="c1">#lancement d&#39;un bruitage</span>
+<a id="__codelineno-14-2" name="__codelineno-14-2" href="#__codelineno-14-2"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">play</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">1</span><span class="p">)</span>
+</code></pre></div></p>
+<p><strong>Lancer</strong> le script <a href="../scripts/tutoriel9.py">tutoriel9.py</a>.</p>
+<h2 id="10-ajouter-et-faire-defiler-un-decor">10. Ajouter et faire défiler un décor</h2>
+<p><img alt="alt text" src="images/decor.gif" /></p>
+<p>Une <strong>tilemap</strong> (littéralement une "carte de tuile") est une grille utilisée pour créer la disposition/le fond graphique d'un jeu.
+L'écran est ainsi représenté par une grille composée de nombreuses cases, sur lesquelles sont appliquées une image par case.
+Il est alors possible de créer un fond au jeu, composé des éléments du jeu de tuiles</p>
+<p>On peut également superposer les décor afin de créer une impression de profondeur. En début de la méthode <code>draw()</code>, on chargera d’abord le fond, puis le décor de premier plan.</p>
+<p>Ce décor peut être statique, mais il est également possible de réaliser un défilement. Ce défilement peut être automatique (par exemple à raison de 1 px/s) ou lié aux déplacements du personnage.
+<div class="highlight"><pre><span></span><code><a id="__codelineno-15-1" name="__codelineno-15-1" href="#__codelineno-15-1"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">camera</span><span class="p">()</span>
+<a id="__codelineno-15-2" name="__codelineno-15-2" href="#__codelineno-15-2"></a>
+<a id="__codelineno-15-3" name="__codelineno-15-3" href="#__codelineno-15-3"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">bltm</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">192</span><span class="p">,</span> <span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">scroll_y</span> <span class="o">//</span> <span class="mi">4</span><span class="p">)</span> <span class="o">%</span> <span class="mi">128</span><span class="p">,</span> <span class="mi">128</span><span class="p">,</span> <span class="mi">128</span><span class="p">)</span>
+<a id="__codelineno-15-4" name="__codelineno-15-4" href="#__codelineno-15-4"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">bltm</span><span class="p">(</span><span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="mi">0</span><span class="p">,</span> <span class="bp">self</span><span class="o">.</span><span class="n">scroll_y</span><span class="p">,</span>  <span class="mi">128</span><span class="p">,</span> <span class="mi">128</span><span class="p">,</span> <span class="n">TRANSPARENT_COLOR</span><span class="p">)</span>
+</code></pre></div></p>
+<p><strong>Lancer</strong> le script <a href="../scripts/tutoriel10.py">tutoriel10.py</a>.</p>
+<h2 id="11-interagir-avec-le-decor">11. Interagir avec le décor</h2>
+<p><img alt="alt text" src="../images/asteroid.gif" /></p>
+<p>A l’intérieur du jeu de tuiles, chaque tuile est repérée par des coordonnées.</p>
+<p><img alt="alt text" src="../images/tileset.png" /></p>
+<p>Ici, la fusée se trouve aux coordonnées (0, 0) et le monstre à (0, 1).</p>
+<p>La carte peut être considérée comme une grille où chaque case contient une tuile (elle-même identifiée par ses coordonnées dans le jeu de tuile). Ainsi chaque case de la carte mesure 8 pixels par 8.</p>
+<p>Il est donc possible de détecter des collisions entre le vaisseau et un astéroïde du décor.
+Dans un premier temps on convertit les coordonnées à l’écran avec les coordonnées de la carte, en prenant en comptant un éventuel défilement.
+<div class="highlight"><pre><span></span><code><a id="__codelineno-16-1" name="__codelineno-16-1" href="#__codelineno-16-1"></a><span class="c1">#conversion entre les coordonnées du à l&#39;écran</span>
+<a id="__codelineno-16-2" name="__codelineno-16-2" href="#__codelineno-16-2"></a><span class="c1"># et les coordonnées de la carte</span>
+<a id="__codelineno-16-3" name="__codelineno-16-3" href="#__codelineno-16-3"></a><span class="n">x1</span> <span class="o">=</span> <span class="bp">self</span><span class="o">.</span><span class="n">x</span> <span class="o">//</span> <span class="mi">8</span>
+<a id="__codelineno-16-4" name="__codelineno-16-4" href="#__codelineno-16-4"></a><span class="n">y1</span> <span class="o">=</span> <span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">y</span> <span class="o">+</span> <span class="n">scroll</span><span class="p">)</span> <span class="o">//</span> <span class="mi">8</span>
+</code></pre></div>
+Il faut ensuite prendre en compte que le vaisseau peut être à cheval sur plusieurs tuiles.
+<div class="highlight"><pre><span></span><code><a id="__codelineno-17-1" name="__codelineno-17-1" href="#__codelineno-17-1"></a><span class="c1"># Le vaisseau peut potentiellement être à cheval sur 4 tuiles</span>
+<a id="__codelineno-17-2" name="__codelineno-17-2" href="#__codelineno-17-2"></a><span class="n">x2</span> <span class="o">=</span> <span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">x</span> <span class="o">+</span> <span class="mi">8</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)</span> <span class="o">//</span> <span class="mi">8</span>
+<a id="__codelineno-17-3" name="__codelineno-17-3" href="#__codelineno-17-3"></a><span class="n">y2</span> <span class="o">=</span> <span class="p">(</span><span class="bp">self</span><span class="o">.</span><span class="n">y</span> <span class="o">+</span> <span class="n">scroll</span> <span class="o">+</span> <span class="mi">8</span> <span class="o">-</span> <span class="mi">1</span><span class="p">)</span> <span class="o">//</span> <span class="mi">8</span>
+</code></pre></div>
+On peut ensuite détecter sur quelle tuile on se trouve grâce à la méthode <code>pget()</code> de l’objet <code>tilemap</code>. La constante <code>TUILE_ASTEROID</code> est initialisée aux coordonnées de la tuile recherchée, à savoir (2, 1).
+<div class="highlight"><pre><span></span><code><a id="__codelineno-18-1" name="__codelineno-18-1" href="#__codelineno-18-1"></a><span class="c1">#on parcours 1 à 4 tuiles</span>
+<a id="__codelineno-18-2" name="__codelineno-18-2" href="#__codelineno-18-2"></a><span class="k">for</span> <span class="n">yi</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">y1</span><span class="p">,</span> <span class="n">y2</span> <span class="o">+</span> <span class="mi">1</span><span class="p">):</span>
+<a id="__codelineno-18-3" name="__codelineno-18-3" href="#__codelineno-18-3"></a>    <span class="k">for</span> <span class="n">xi</span> <span class="ow">in</span> <span class="nb">range</span><span class="p">(</span><span class="n">x1</span><span class="p">,</span> <span class="n">x2</span> <span class="o">+</span> <span class="mi">1</span><span class="p">):</span>
+<a id="__codelineno-18-4" name="__codelineno-18-4" href="#__codelineno-18-4"></a>        <span class="n">tuile</span> <span class="o">=</span> <span class="n">pyxel</span><span class="o">.</span><span class="n">tilemap</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span><span class="o">.</span><span class="n">pget</span><span class="p">(</span><span class="n">xi</span><span class="p">,</span> <span class="n">yi</span><span class="p">)</span>
+<a id="__codelineno-18-5" name="__codelineno-18-5" href="#__codelineno-18-5"></a>
+<a id="__codelineno-18-6" name="__codelineno-18-6" href="#__codelineno-18-6"></a>        <span class="k">if</span> <span class="n">tuile</span> <span class="o">==</span> <span class="n">TUILE_ASTEROID</span><span class="p">:</span>
+<a id="__codelineno-18-7" name="__codelineno-18-7" href="#__codelineno-18-7"></a>            <span class="bp">self</span><span class="o">.</span><span class="n">vies</span> <span class="o">-=</span> <span class="mi">1</span>
+<a id="__codelineno-18-8" name="__codelineno-18-8" href="#__codelineno-18-8"></a>            <span class="c1">#on efface la tuile pour ne pas qu&#39;elle soit prise en compte deux fois</span>
+<a id="__codelineno-18-9" name="__codelineno-18-9" href="#__codelineno-18-9"></a>            <span class="n">pyxel</span><span class="o">.</span><span class="n">tilemap</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span><span class="o">.</span><span class="n">pset</span><span class="p">(</span><span class="n">xi</span><span class="p">,</span> <span class="n">yi</span><span class="p">,</span> <span class="n">TUILE_ESPACE</span><span class="p">)</span>
+</code></pre></div></p>
+<p>Une fois détectée, on modifie la tuile pour ne pas qu’elle soit prise en compte plusieurs fois grâce à la méthode <code>pset()</code> de l’objet <code>tilemap</code>. A noter que cette modification n’est pas définitive et n’intervient que pour la carte chargée en mémoire.</p>
+<p><strong>Lancer</strong> le script <a href="../scripts/tutoriel11.py">tutoriel11.py</a>.</p>
+<p><strong>Créer</strong> la fonction detect_bonus() qui détecte le passage du vaisseau sur les bonus de gain de vie présents dans le décor.</p>
+<h2 id="12-placer-des-ennemis-dans-le-decor">12. Placer des ennemis dans le décor</h2>
+<p><img alt="alt text" src="../images/monstres.gif" /></p>
+<p>Au lieu que les ennemis apparaissent de manière aléatoire, on peut vouloir qu’ils apparaissent à des endroits précis du décor.</p>
+<p>Pour cela, il faut dédier une tuile à ce placement, puis on place des copies de cette tuile aux endroits de la carte où l’on souhaite voir surgir les ennemis.</p>
+<p><img alt="alt text" src="../images/tuiles_mstr.png" /></p>
+<p>A l’initialisation du jeu, il est nécessaire de rendre ces tuiles transparentes afin qu’elles ne soient pas affichées, par contre elles pourront toujours être identifiées par la méthode <code>pget()</code> de l’objet <code>tilemap</code>.
+<div class="highlight"><pre><span></span><code><a id="__codelineno-19-1" name="__codelineno-19-1" href="#__codelineno-19-1"></a><span class="c1"># chargement des images</span>
+<a id="__codelineno-19-2" name="__codelineno-19-2" href="#__codelineno-19-2"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">load</span><span class="p">(</span><span class="s2">&quot;images.pyxres&quot;</span><span class="p">)</span>
+<a id="__codelineno-19-3" name="__codelineno-19-3" href="#__codelineno-19-3"></a><span class="n">pyxel</span><span class="o">.</span><span class="n">image</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span><span class="o">.</span><span class="n">rect</span><span class="p">(</span><span class="mi">16</span><span class="p">,</span> <span class="mi">16</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="mi">8</span><span class="p">,</span> <span class="n">TRANSPARENT_COLOR</span><span class="p">)</span>
+</code></pre></div>
+Lors du défilement, on parcourt la carte (tout du moins la partie nouvellement affichée) et on crée un ennemi aux coordonnées de chaque tuile que l’on trouve.
+<div class="highlight"><pre><span></span><code><a id="__codelineno-20-1" name="__codelineno-20-1" href="#__codelineno-20-1"></a><span class="n">tuile</span> <span class="o">=</span> <span class="n">pyxel</span><span class="o">.</span><span class="n">tilemap</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span><span class="o">.</span><span class="n">pget</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">)</span>
+<a id="__codelineno-20-2" name="__codelineno-20-2" href="#__codelineno-20-2"></a><span class="k">if</span> <span class="n">tuile</span> <span class="o">==</span> <span class="n">TUILE_MONSTRE</span><span class="p">:</span>
+<a id="__codelineno-20-3" name="__codelineno-20-3" href="#__codelineno-20-3"></a>    <span class="n">pyxel</span><span class="o">.</span><span class="n">tilemap</span><span class="p">(</span><span class="mi">0</span><span class="p">)</span><span class="o">.</span><span class="n">pset</span><span class="p">(</span><span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">,</span> <span class="n">TUILE_ESPACE</span><span class="p">)</span>
+<a id="__codelineno-20-4" name="__codelineno-20-4" href="#__codelineno-20-4"></a>    <span class="bp">self</span><span class="o">.</span><span class="n">ennemis_liste</span><span class="o">.</span><span class="n">append</span><span class="p">([</span><span class="n">x</span><span class="o">*</span><span class="mi">8</span><span class="p">,</span><span class="n">y</span><span class="o">*</span><span class="mi">8</span><span class="o">-</span><span class="n">y1</span><span class="p">])</span>
+</code></pre></div>
+<strong>Lancer</strong> le script <a href="../scripts/tutoriel12.py">tutoriel12.py</a>.</p>
+<hr />
+<p>Auteur : <a href="https://gitlab.com/Peio47/terminale/-/tree/main/nuit%20du%20code">Peio47</a></p>
+
+              
+            </article>
+          </div>
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    <nav class="md-footer__inner md-grid" aria-label="Pied de page">
+      
+        
+        <a href="../../Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/Tutoriel-07%20-%20Compl%C3%A9ments/" class="md-footer__link md-footer__link--prev" aria-label="Précédent: COMPLÉMENTS" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Précédent
+              </span>
+              COMPLÉMENTS
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../../../SCRATCH/01-introduction/" class="md-footer__link md-footer__link--next" aria-label="Suivant: INTRODUCTION" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Suivant
+              </span>
+              INTRODUCTION
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    <script id="__config" type="application/json">{"base": "../../..", "features": ["navigation.tabs", "content.tabs.link"], "search": "../../../assets/javascripts/workers/search.2a1c317c.min.js", "translations": {"clipboard.copied": "Copi\u00e9 dans le presse-papier", "clipboard.copy": "Copier dans le presse-papier", "search.config.lang": "fr", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Rechercher", "search.result.more.one": "1 de plus sur cette page", "search.result.more.other": "# de plus sur cette page", "search.result.none": "Aucun document trouv\u00e9", "search.result.one": "1 document trouv\u00e9", "search.result.other": "# documents trouv\u00e9s", "search.result.placeholder": "Taper pour d\u00e9marrer la recherche", "search.result.term.missing": "Non trouv\u00e9", "select.version.title": "S\u00e9lectionner la version"}, "version": {"provider": "mike"}}</script>
+    
+    
+      <script src="../../../assets/javascripts/bundle.ed9748b7.min.js"></script>
+      
+        <script src="../../../assets/javascripts/extra.js"></script>
+      
+        <script src="../../../javascripts/mathjax.js"></script>
+      
+        <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+      
+        <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+      
+    
+  </body>
+</html>
