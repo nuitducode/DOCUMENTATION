@@ -6,7 +6,7 @@ Pour la communication ou pour créer des autocollants, des t-shirts, des tasses.
 * Python : [png](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_python.png) - [svg](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_python.svg)
 * Scratch & Python : [png](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch-python.png) - [svg](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch-python.svg)
 
-<img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_ndc.png" width="200" /> <img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch.png" width="200" /> <img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_python.png" width="200" /> <img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch-python.png" width="400" />
+<img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_ndc.png" width="150" /> <img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch.png" width="150" /> <img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_python.png" width="150" /> <img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch-python.png" width="300" />
 
 
 # AFFICHES
@@ -21,17 +21,5 @@ Plusieurs versions sont proposées:
 
 En plaçant l'image en fond de page, vous pouvez utiliser le logiciel de traitement de texte ou le logiciel de traitement d'images de votre choix pour compléter facilement les informations (date, lieux...).
 
-<table cellpadding="5">
-<tr>
-<td>
-
-![](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/affiches/Affiche_Nuit_du_c0de_2022-portrait-1750x2500.png)
-  
-</td>
-<td>
-
-![](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/affiches/Affiche_Nuit_du_c0de_2022-paysage-2500x1750.png)
-
-</td>
-</tr>
-</table>
+<im src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/affiches/Affiche_Nuit_du_c0de_2022-portrait-1750x2500.png" width="175" />
+<im src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/affiches/Affiche_Nuit_du_c0de_2022-paysage-2500x1750.png" width="250" />
