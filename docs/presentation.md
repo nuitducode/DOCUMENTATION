@@ -1,7 +1,7 @@
-# PRÉSENTATION
+# 1. PRÉSENTATION
 
 ## PRÉSENTATION GÉNÉRALE
-La nuit du c0de est un événement de programmation Scratch et Python organisé par le Lycée Français International de Tokyo (qui prend le relais du Lycée Français de Taipei). Il s'adresse à tous les lycées français du monde. L'épreuve 2022 se déroulera au sein même des établissements participants. Il n'y a donc aucun déplacement à prévoir.
+La nuit du c0de est un événement de programmation Scratch et Python organisé par le Lycée Français International de Tokyo. Il s'adresse à tous les lycées français du monde.
 
 Il s'agit pour les élèves participants (équipes de 2 ou 3 élèves réparties en trois catégories : cycle 3, cycle 4 et lycée) de programmer entièrement un jeu avec le logiciel Scratch ou en Python à partir d'un univers de jeu fourni. L'univers de jeu (le gamepack) contient tous les lutins, sons et arrière-plans nécessaires pour créer le jeu. L'épreuve dure 6 heures et les principaux critères d'évaluation sont la jouabilité, la créativité et l'originalité. Durant ces 6 heures, les élèves mettront à l'épreuve leur capacité à travailler en groupe, leurs compétences en algorithmique et en mathématiques ainsi que leur créativité (les univers de jeu sont très variés et laissent une grande place à la créativité).
 
