@@ -1,5 +1,7 @@
 # PRÉSENTATION
 
+*La **nuit du c0de** : créer un jeu avec Scratch ou Python en 6 heures!*
+
 ## PRÉSENTATION GÉNÉRALE
 
 La **nuit du c0de** est un marathon de programmation Scratch et Python organisé par le Lycée Français International de Tokyo. Il s'adresse à tous les établissements scolaires français (cours moyen / collège / lycée) de l'étranger et de France.
@@ -31,7 +33,7 @@ Pour toute question et demande de précisions, vous pouvez prendre contact avec 
 ### Septembre 2022 - Avril 2023 : inscriptions
 Si le projet vous intéresse, vous pouvez vous inscrire sur le site [nuitducode.net](https://www.nuitducode.net). L'inscription de votre établissement est gratuite et est nécessaire pour pouvoir assurer la logistique et le suivi de l'épreuve.
 
-### Novembre 2022 - Janvier 2023 : Premier documents fournis
+### Novembre 2022 - Janvier 2023 : Premiers documents fournis
 Les établissements inscrits auront accès :
 
 * aux règles du jeu détaillées pour les élèves.
