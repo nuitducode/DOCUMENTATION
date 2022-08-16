@@ -165,9 +165,11 @@ p {
 }
 
 .md-nav__link {
-    border-left:4px solid black;
+    line-height: 1rem;
+    border-left:4px solid #f8fafc;
+    padding-left:5px;
 }
 
-.md-nav__link:hover {
-    border-left:4px solid green;
+.md-nav__link--active {
+    border-left:4px solid #4051b5;
 }
