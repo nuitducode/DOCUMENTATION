@@ -13,8 +13,6 @@ theme:
   features:
     - navigation.tabs
     - content.tabs.link    
-hide:
-    - footer
 extra:
   version:
     provider: mike
