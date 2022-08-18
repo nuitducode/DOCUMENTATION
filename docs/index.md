@@ -6,19 +6,13 @@
 
 ## 📑 [PRÉSENTATION](01-presentation/)
 
-<br />
-
 ## 🧩 [ORGANISATION](02-organisation/)
 
-<br />
 
 ## 🐱 TUTORIELS SCRATCH
 1. [Introduction](SCRATCH/01-introduction/)
 2. [Tutoriels vidéo](SCRATCH/02-videos/)
 3. [Exercices d'entraînement](SCRATCH/03-entrainements/)
-
-
-<br />
 
 ## 🐍 TUTORIELS PYXEL / PYTHON
 1. [Présentation](PYTHON/01-presentation/)
