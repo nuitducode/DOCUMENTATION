@@ -6,8 +6,8 @@ theme:
   favicon: https://www.nuitducode.net/img/favicon.svg
   logo: https://www.nuitducode.net/img/favicon.svg
   palette:
-    primary: purple
-    accent: purple
+    primary: blue
+    accent: blue
   icon:
     repo: fontawesome/brands/git-alt
   features:
