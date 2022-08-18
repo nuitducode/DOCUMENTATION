@@ -1,33 +1,38 @@
 # PRÉSENTATION
 
-*La **nuit du c0de** : créer un jeu avec Scratch ou Python en 6 heures!*
+*La **Nuit du c0de** : créer un jeu avec Scratch ou Python en 6 heures!*
 
 ## PRÉSENTATION GÉNÉRALE
 
-La **nuit du c0de** est un marathon de programmation Scratch et Python organisé par le Lycée Français International de Tokyo. Il s'adresse à tous les établissements scolaires français (cours moyen / collège / lycée) de l'étranger et de France.
+La **Nuit du c0de** est un marathon de programmation Scratch et Python organisé par le Lycée Français International de Tokyo. Il s'adresse à tous les établissements scolaires français (cours moyen / collège / lycée) de l'étranger et de France.
 
-Par équipes de deux ou trois réparties en plusieurs catégories (cycle 3, cycle 4 et lycée), les élèves ont six heures (ou moins pour les élèves de cycle 3) pour programmer entièrement un jeu avec Scratch ou Python à partir d'un univers de jeu fourni. Plusieurs univers de jeu sont proposés et les équipes en choisisent un. Un univers de jeu contient tous les éléments, sons et arrière-plans nécessaires pour créer le jeu. Les principaux critères d'évaluation sont la jouabilité, la créativité et l'originalité. Durant l'événement, les élèves mettront à l'épreuve leur capacité à travailler en groupe, leurs compétences en algorithmique et en mathématiques ainsi que leur créativité (les univers de jeu sont très variés et laissent une grande place à la créativité).
+Par équipes de deux ou trois réparties en plusieurs catégories (cycle 3, cycle 4 et lycée), les élèves ont six heures (ou moins pour les élèves de cycle 3) pour programmer entièrement un jeu avec Scratch ou Python à partir d'un univers de jeu fourni.
+
+Chaque année, plusieurs univers de jeu sont proposés. Ces univers de jeux sont mis à dispositions des organisateurs 48h avant la date choisie par l'établissement pour ograniser la **Nuit du c0de**. Les élèves découvrent ces univers de jeu au début de la **Nuit du c0de** et les équipes doivent en choisir un. Un univers de jeu contient tous les éléments, sons et arrière-plans nécessaires pour créer le jeu.
+
+Durant l'événement, les élèves mettront à l'épreuve leur capacité à travailler en groupe, leurs compétences en algorithmique et en mathématiques ainsi que leur créativité (les univers de jeu sont très variés et laissent une grande place à l'imagination et à la construction de scénarios ). Pendant la **Nuit du c0de**, les éleves peuvent demander de l'aide aux professeurs qui les encadrent, échanger entre équipes, partager leurs connaissances...
+
+La **Nuit du c0de** est avant tout un événement festif.
+
+Les principaux critères d'évaluation sont la <u>jouabilité</u>, la <u>créativité</u> et l'<u>originalité</u>. 
 
 Chaque établissement peut inscrire autant d'élèves qu'il le souhaite, il n'y a pas de limite sur le nombre de participants. Les inscriptions sont gratuites.
 
 Pour se faire une idée :
 
+* [Univers de jeu](https://scratch.mit.edu/mystuff/#galleries) des années précédentes
 * Les [vidéos](https://www.nuitducode.net/editions-en-video) des éditions précédentes.
-* Un studio Scratch regroupant les [4 univers de jeu](https://scratch.mit.edu/studios/6502142/) (gamepacks) proposés lors de l'édition 2019 (ils contiennent donc tous les lutins et sons à utiliser mais aucun script).
-* Un studio Scratch regroupant les [jeux primés](https://scratch.mit.edu/studios/9987949/) lors de l'édition 2019.
-
-La Nuit du c0de est avant tout un événement convivial et les élèves apprendront beaucoup en y participant, quel que soit leur niveau.
 
 La participation d'un établissement peut être l'occasion de la création d'un atelier de programmation pour les élèves. Les activités de programmation au collège, en mathématiques ou en technologie, peuvent aussi être orientées « jeu » (gestion des déplacements, utilisation de variables pour compter les points...).
 
-Pour toute question et demande de précisions, vous pouvez prendre contact avec l'équipe organisatrice à l'adresse contact@nuitducode.net.
+Pour toute question et demande de précisions, vous pouvez prendre contact avec l'équipe organisatrice à l'adresse <u>contact@nuitducode.net</u>.
 
 ## LES GRANDES LIGNES
 * Chaque établissement inscrit autant d'élèves qu'il le souhaite. Il n'y a pas de frais d'inscription.
 * Des sujets d'entraînements seront fournis à chaque établissement participant.
-* Chaque établissement organise sa Nuit du c0de avec ses élèves.
+* Chaque établissement organise sa **Nuit du c0de** avec ses élèves.
 * Au terme de l'épreuve, chaque établissement élit ses équipes championnes qui le représenteront dans chaque catégorie.
-* Un classement mondial sera établi.
+* Une sélection mondiale est ensuite établie.
 
 ## CALENDRIER
 ### Septembre 2022 - Avril 2023 : inscriptions
