@@ -7,7 +7,7 @@
 <center>
 <a href="https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493"><img src="https://image.jimcdn.com/app/cms/image/transf/none/path/s48d2c67906fe2297/image/ic20353e30a32866f/version/1632487882/image.jpg" width="300" /></a>
 <br />
-[ouvrir]([https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493){ .md-button .md-button--primary }
+[ouvrir]([https://www.monclasseurdemaths.fr/profs/algorithmique-scratch/coder-un-jeu-avec-scratch#cc-m-header-11828055493){ .md-button .md-button--purple }
 </center>
 
 Dans cet univers de jeu, il y a 7 lutins à utiliser: 
