@@ -6,9 +6,11 @@
 
 ## 📑 [PRÉSENTATION](01-presentation/)
 
+<br />
+
 ## 🧩 [ORGANISATION](02-organisation/)
 
-
+<br />
 
 ## 🐱 TUTORIELS SCRATCH
 1. [Introduction](SCRATCH/01-introduction/)
