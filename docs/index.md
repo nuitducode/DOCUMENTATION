@@ -1,6 +1,6 @@
 # 🗃️
 
-:fontawesome-solid-arrow-left: Retour sur le [site](https://www.nuitducode.net/) de la Nuit du c0de.
+:fontawesome-solid-arrow-left: retour sur le [site](https://www.nuitducode.net/) de la Nuit du c0de.
 
 <br />
 
