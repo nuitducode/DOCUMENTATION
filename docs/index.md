@@ -4,9 +4,11 @@
 
 <br /><br />
 
-## 🧩 [ORGANISATION](organisation/)
+## 📑 [PRÉSENTATION](01-presentation/)
 
-## 📑 [RÈGLES ET CONSEILS](regles-conseils/)
+## 🧩 [ORGANISATION](02-organisation/)
+
+
 
 ## 🐱 TUTORIELS SCRATCH
 1. [Introduction](SCRATCH/01-introduction/)
