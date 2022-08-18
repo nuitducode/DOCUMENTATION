@@ -12,16 +12,17 @@ Chaque année, plusieurs univers de jeu sont proposés. Ces univers de jeux sont
 
 Pour préparer les élèves durant l'année, des fiches, des tutoriels, des vidéos et des sujets d'entraînement sont fournis. La préparation peut se faire en présence d'enseignants mais elle peut aussi se faire de façon autonome. Les élèves n'ont pas besoin d'avoir des connaissances particulières en Scratch et Python en début d'année pour participer à la **Nuit du c0de**. Quelques séances de préparation et un peu de travail en autonomie suffisent.  
 
-Durant l'événement, les élèves mettront à l'épreuve leur capacité à travailler en groupe, leurs compétences en algorithmique et en mathématiques ainsi que leur créativité (les univers de jeu sont très variés et laissent une grande place à l'imagination et à la construction de scénarios). Pendant la **Nuit du c0de**, les éleves peuvent demander de l'aide aux professeurs qui les encadrent, échanger entre équipes, partager leurs connaissances...
+Durant l'événement, les élèves mettront à l'épreuve leur capacité à travailler en groupe, leurs compétences en algorithmique et en mathématiques ainsi que leur créativité (les univers de jeu sont très variés et laissent une grande place à l'imagination et à la construction de scénarios). Pendant la **Nuit du c0de**, les éleves peuvent demander de l'aide aux professeurs qui les encadrent, échanger entre équipes, partager leurs connaissances... Les principaux critères d'évaluation sont la <u>jouabilité</u>, la <u>créativité</u> et l'<u>originalité</u>. 
 
-La **Nuit du c0de** est avant tout un événement festif et convivial. Les principaux critères d'évaluation sont la <u>jouabilité</u>, la <u>créativité</u> et l'<u>originalité</u>. 
+Le budget nécessaire pour organiser la **Nuit du c0de** au sein d'un établissement peut être quasi nul. Il suffit de quelques ordinteurs connectés à internet, une ou plusieurs salles et des encadrants. La nourriture et les boissons peuvent être pris en charge par les familles. Mais il est aussi possible, si le budget le permet, de prévoir des pizzas, des gateaux, des "goodies" (autocollants et badges par exemple), des récompences...
 
+La **Nuit du c0de** est avant tout un événement festif et convivial.
 Chaque établissement peut inscrire autant d'élèves qu'il le souhaite, il n'y a pas de limite sur le nombre de participants. Les inscriptions sont gratuites.
 
 Pour se faire une idée :
 
 * [Univers de jeu](https://scratch.mit.edu/mystuff/#galleries) des années précédentes
-* Les [vidéos](https://www.nuitducode.net/editions-en-video) des éditions précédentes.
+* [Vidéos](https://www.nuitducode.net/editions-en-video) des éditions précédentes
 
 La participation d'un établissement peut être l'occasion de la création d'un atelier de programmation pour les élèves. Les activités de programmation au collège, en mathématiques ou en technologie, peuvent aussi être orientées « jeu » (gestion des déplacements, utilisation de variables pour compter les points...). De même, pour Python, la préparation à la **Nuit du code** peut être intégrée aux cours de NSI (boucles, listes, varaibles, fonctions, programmation orientée objet... ). Les tutoriels proposés pour préparer le **Nuit du code** peuvent être modifiés et servir de supports de cours.
 
@@ -31,17 +32,13 @@ Pour toute question et demande de précisions, vous pouvez prendre contact avec 
 * Chaque établissement inscrit autant d'élèves qu'il le souhaite. Il n'y a pas de frais d'inscription.
 * Des tutoriels et des  sujets d'entraînements seront fournis à chaque établissement participant.
 * Chaque établissement organise sa **Nuit du c0de** avec ses élèves.
+* 
 * Au terme de l'épreuve, chaque établissement élit ses équipes championnes qui le représenteront dans chaque catégorie.
 * Une sélection mondiale est ensuite établie.
 
 ## CALENDRIER
 ### Septembre 2022 - Avril 2023 : Inscriptions
-Si le projet vous intéresse, vous pouvez vous inscrire sur le site [nuitducode.net](https://www.nuitducode.net). L'inscription de votre établissement est gratuite et est nécessaire pour pouvoir assurer la mise en place et le suivi de l'événement. Vous aurez ainsi accès : 
-* aux règles du jeu détaillées pour les élèves.
-* aux modalités détaillées de l'organisation de l'épreuve pour les enseignants.
-* à une série de « sujets » d'entraînement pour préparer les élèves (ces sujets sont des « mini-gamepacks », créés à partir des épreuves des années précédentes).
-* des affiches.
-* ...
+Si le projet vous intéresse, vous pouvez vous inscrire sur le site [nuitducode.net](https://www.nuitducode.net). Vous aurez alors accès à tous les documents, ressources, tutoriels, supports...  qui vous permettront de préparer et mettre en place la **Nuit du c0de**. Tout est fait pour que la charge de travail des personnes qui organiseront la **Nuit du c0de** dans un établissement soit la plus légère possible.
 
 ### Janvier – Mai 2023 : Entraînements / Formation / Sélections
 Les établissements inscrits auront accès à plusieurs univers de jeu avec une grille d'évaluation précise pour chacun. Ils pourront être utilisés soit comme épreuves de sélection (si des sélections sont nécessaires, notamment si le nombre d'élèves souhaitant participer est supérieur à la capacité d'accueil de l'établissement pour l'épreuve) soit pour des entraînements ou de la formation. Ou les deux.
