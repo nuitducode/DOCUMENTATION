@@ -1,7 +1,6 @@
 ---
 hide:
   - footer
-  - navigation
 ---
 
 # PRÉSENTATION
