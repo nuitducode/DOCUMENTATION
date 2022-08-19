@@ -153,7 +153,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .md-typeset a {
     /*color: var(--md-typeset-a-color);*/
-    color:green;
+    color:#27ae60;
     word-break: break-word;
 }
 
