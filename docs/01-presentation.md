@@ -5,7 +5,7 @@ hide:
 
 # PRÉSENTATION
 
-*La **Nuit du c0de** : créer un jeu avec Scratch ou Python en 6 heures!*
+*La <b>Nuit du c0de</b> : créer un jeu avec Scratch ou Python en 6 heures!*
 
 ## PRÉSENTATION GÉNÉRALE
 
