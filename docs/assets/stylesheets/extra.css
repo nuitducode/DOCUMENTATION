@@ -157,6 +157,13 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     word-break: break-word;
 }
 
+.md-typeset .md-button--primary {
+    /*background-color: var(--md-primary-fg-color);*/
+    border-color: var(--md-primary-fg-color);
+    background-color: #27ae60;
+    color: var(--md-primary-bg-color);
+}
+
 .md-typeset blockquote {
     color:#2c3e50;
 }
