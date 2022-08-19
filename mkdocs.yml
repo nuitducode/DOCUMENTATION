@@ -11,7 +11,7 @@ theme:
   icon:
     repo: fontawesome/brands/git-alt
   font:
-    text: Numito    
+    text: Nunito    
   features:
     - navigation.tabs
     - content.tabs.link    
