@@ -9,7 +9,7 @@ hide:
 
 ## PRÉSENTATION GÉNÉRALE
 
-La `Nuit du c0de` est un marathon de programmation Scratch et Python organisé par le Lycée Français International de Tokyo. Il s'adresse à tous les établissements scolaires français (cours moyen / collège / lycée) de l'étranger et de France.
+La <span class="ndc">Nuit du c0de</span> est un marathon de programmation Scratch et Python organisé par le Lycée Français International de Tokyo. Il s'adresse à tous les établissements scolaires français (cours moyen / collège / lycée) de l'étranger et de France.
 
 Par équipes de deux ou trois réparties en plusieurs catégories (cycle 3, cycle 4 et lycée), les élèves ont six heures (ou moins pour les élèves de cycle 3) pour programmer entièrement un jeu avec Scratch ou Python à partir d'un univers de jeu fourni.
 
