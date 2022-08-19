@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .md-typeset {
     -webkit-print-color-adjust: exact;
     color-adjust: exact;
-    font-size: .7rem;
+    font-size: .6rem;
     line-height: 1.4;
 }
 
@@ -187,16 +187,4 @@ nav__list>.md-nav__item--active .md-nav--secondary {
 
 .md-nav__item .md-nav__link--active {
     color: black !important;
-}
-
-.md-tabs__link {
-    -webkit-backface-visibility: hidden;
-    backface-visibility: hidden;
-    display: block;
-    font-size: .6rem;
-    margin-top: 0.8rem;
-    opacity: .6;
-    outline-color: var(--md-accent-fg-color);
-    outline-offset: 0.2rem;
-    transition: transform .4s cubic-bezier(.1,.7,.1,1),opacity .25s;
 }
