@@ -1,6 +1,6 @@
 # EXERCICES D'ENTRAÎNEMENT OU DE SÉLECTION
 
-> 4 exercices d'entraînement complets
+> 4 exercices complets
 
 ## 🕹️ Duel dans le cosmos
 
