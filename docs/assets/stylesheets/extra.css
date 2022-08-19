@@ -146,7 +146,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 .md-typeset {
     -webkit-print-color-adjust: exact;
     color-adjust: exact;
-    font-size: .6rem;
+    font-size: .7rem;
     line-height: 1.4;
 }
 
@@ -165,7 +165,7 @@ p {
 }
 
 .md-nav {
-    font-size: .5rem;
+    font-size: .6rem;
     line-height: 1.2;
 }
 
