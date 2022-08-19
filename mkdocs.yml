@@ -7,7 +7,7 @@ theme:
   logo: https://www.nuitducode.net/img/favicon.svg
   palette:
     primary: white
-    accent: blue
+    accent: light blue
   icon:
     repo: fontawesome/brands/git-alt
   font:
