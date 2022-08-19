@@ -5,8 +5,6 @@ hide:
 
 # 🗃️ SOMMAIRE
 
-<br />
-
 * 📑 [PRÉSENTATION](01-presentation/)
 
 * 🧩 [ORGANISATION](02-organisation/)
