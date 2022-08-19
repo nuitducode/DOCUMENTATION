@@ -11,7 +11,7 @@ theme:
   icon:
     repo: fontawesome/brands/git-alt
   font:
-    text: Roboto Mono    
+    text: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace  
   features:
     - navigation.tabs
     - content.tabs.link    
