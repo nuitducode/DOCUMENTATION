@@ -15,6 +15,7 @@ theme:
   features:
     - navigation.tabs
     - content.tabs.link    
+    - toc.integrate
 
 extra:
   version:
