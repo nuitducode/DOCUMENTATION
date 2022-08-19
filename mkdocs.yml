@@ -15,8 +15,7 @@ theme:
   features:
     - navigation.tabs
     - content.tabs.link    
-    - toc.integrate
-    - navigation.sections
+
 extra:
   version:
     provider: mike
