@@ -24,10 +24,6 @@ extra:
 repo_url: https://github.com/nuitducode/DOCUMENTATION
 edit_uri: ""
 
-plugins:
-  - git-revision-date-localized:
-      type: date
-
 markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
