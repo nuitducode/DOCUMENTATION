@@ -174,3 +174,7 @@ p {
     border-left:4px solid #4051b5;
     padding-left:5px;
 }
+
+nav__list>.md-nav__item--active .md-nav--secondary {
+    border-left: .0rem solidvar(--md-primary-fg-color);
+}
