@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-# 🗃️
+# 🗃️ SOMMAIRE
 
 :fontawesome-solid-arrow-left: retour sur le [site de la **Nuit du c0de**](https://www.nuitducode.net/).
 
@@ -11,8 +11,7 @@ hide:
 
 🧩 [ORGANISATION](02-organisation/)
 
+🐱 [TUTORIELS SCRATCH](02-organisation/)
 
-## 🐱 TUTORIELS SCRATCH
-
-## 🐍 TUTORIELS PYXEL / PYTHON
+🐍 [TUTORIELS PYXEL / PYTHON](02-organisation/)
 
