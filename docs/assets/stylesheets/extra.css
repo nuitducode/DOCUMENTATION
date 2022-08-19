@@ -188,3 +188,15 @@ nav__list>.md-nav__item--active .md-nav--secondary {
 .md-nav__item .md-nav__link--active {
     color: black !important;
 }
+
+.md-tabs__link {
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+    display: block;
+    font-size: .7rem;
+    margin-top: 0.8rem;
+    opacity: .2;
+    outline-color: var(--md-accent-fg-color);
+    outline-offset: 0.2rem;
+    transition: transform .4s cubic-bezier(.1,.7,.1,1),opacity .25s;
+}
