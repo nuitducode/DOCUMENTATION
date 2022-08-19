@@ -159,9 +159,11 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .md-typeset .md-button--primary {
     /*background-color: var(--md-primary-fg-color);*/
-    border-color: var(--md-primary-fg-color);
+    /*border-color: var(--md-primary-fg-color);*/
+    /*color: var(--md-primary-bg-color);*/
     background-color: #27ae60;
-    color: var(--md-primary-bg-color);
+    border-color: #27ae60;
+    color: white;
 }
 
 .md-typeset blockquote {
