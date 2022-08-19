@@ -144,10 +144,10 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 
 .md-typeset {
-    /*-webkit-print-color-adjust: exact;*/
-    /*color-adjust: exact;*/
-    /*font-size: .7rem;*/
-    /*line-height: 1.4;*/
+    -webkit-print-color-adjust: exact;
+    color-adjust: exact;
+    font-size: .7rem;
+    line-height: 1.4;
 }
 
 .md-typeset a {
