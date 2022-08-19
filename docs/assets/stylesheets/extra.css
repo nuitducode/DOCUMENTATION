@@ -193,9 +193,9 @@ nav__list>.md-nav__item--active .md-nav--secondary {
     -webkit-backface-visibility: hidden;
     backface-visibility: hidden;
     display: block;
-    font-size: .7rem;
+    font-size: .6rem;
     margin-top: 0.8rem;
-    opacity: .2;
+    opacity: .6;
     outline-color: var(--md-accent-fg-color);
     outline-offset: 0.2rem;
     transition: transform .4s cubic-bezier(.1,.7,.1,1),opacity .25s;
