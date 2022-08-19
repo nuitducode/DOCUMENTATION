@@ -22,7 +22,7 @@ extra:
     provider: mike
     
 repo_url: https://github.com/nuitducode/DOCUMENTATION
-edit_uri: edit/master/docs/
+edit_uri: ""
 
 plugins:
   - git-revision-date-localized:
