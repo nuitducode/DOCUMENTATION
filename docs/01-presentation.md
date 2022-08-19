@@ -1,8 +1,9 @@
 ---
 hide:
   - footer
-title: PRÉSENTATION
 ---
+
+# PRÉSENTATION
 
 *La **Nuit du c0de** : créer un jeu avec Scratch ou Python en 6 heures!*
 
