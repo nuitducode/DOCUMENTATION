@@ -24,7 +24,6 @@ edit_uri: edit/master/docs/
 
 plugins:
   - git-revision-date-localized:
-      enable_creation_date: true
       type: date
 
 markdown_extensions:
