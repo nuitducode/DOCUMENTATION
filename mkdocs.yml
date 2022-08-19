@@ -17,8 +17,14 @@ theme:
 extra:
   version:
     provider: mike
+    
 repo_url: https://github.com/nuitducode/DOCUMENTATION
 edit_uri: edit/master/docs/
+
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
 
 markdown_extensions:
   - pymdownx.arithmatex:
