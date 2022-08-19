@@ -9,10 +9,12 @@ hide:
 
 # 🗃️ SOMMAIRE
 
-📑 [PRÉSENTATION](01-presentation/)
+* 📑 [PRÉSENTATION](01-presentation/)
 
-🧩 [ORGANISATION](02-organisation/)
+* 🧩 [ORGANISATION](02-organisation/)
 
-🐍 [TUTORIELS PYXEL / PYTHON](PYTHON/01-presentation/)
+* 🐍 [TUTORIELS PYXEL / PYTHON](PYTHON/01-presentation/)
 
-🐱 [TUTORIELS SCRATCH](SCRATCH/01-introduction/)
+* 🐱 [TUTORIELS SCRATCH](SCRATCH/01-introduction/)
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
