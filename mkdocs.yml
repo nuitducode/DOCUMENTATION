@@ -18,7 +18,7 @@ extra:
   version:
     provider: mike
 repo_url: https://github.com/nuitducode/DOCUMENTATION
-edit_uri: ""
+edit_uri: edit/master/docs/
 
 markdown_extensions:
   - pymdownx.arithmatex:
