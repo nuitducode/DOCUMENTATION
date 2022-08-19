@@ -176,5 +176,5 @@ p {
 }
 
 nav__list>.md-nav__item--active .md-nav--secondary {
-    border-left: 0rem solidvar(--md-primary-fg-color);
+    border-left: 0rem solidvar(--md-primary-fg-color) !important;
 }
