@@ -188,3 +188,7 @@ nav__list>.md-nav__item--active .md-nav--secondary {
 .md-nav__item .md-nav__link--active {
     color: black !important;
 }
+
+.md-tabs__link {
+    font-size: .6rem !important;
+}
