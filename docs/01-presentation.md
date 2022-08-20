@@ -33,7 +33,7 @@ Pour se faire une idée :
 La participation d'un établissement peut être l'occasion de la création d'un atelier de programmation pour les élèves. Les activités de programmation au collège, en mathématiques ou en technologie, peuvent aussi être orientées « jeu » (gestion des déplacements, utilisation de variables pour compter les points...). De même, pour Python, la préparation à la **Nuit du c0de** peut être intégrée aux cours de NSI (boucles, listes, variables, fonctions, programmation orientée objet... ). Les tutoriels proposés pour préparer la **Nuit du c0de** peuvent être modifiés et servir de supports de cours.
 
 <center>
-![autocollants_et_badges](assets/images/autocollants_et_badges.jpg){ width="500" }
+![autocollants_et_badges](assets/images/autocollants_et_badges.jpg){ width="600" }
 </center>
 
 <br />
