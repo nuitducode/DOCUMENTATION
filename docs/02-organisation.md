@@ -61,23 +61,24 @@ D’autres éléments peuvent être pris en compte :
 | :material-check-circle: Inscrire l'établissement                           | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
 
 
-<div class="md-typeset__scrollwrap"><div class="md-typeset__table"><table>
-<thead>
-<tr>
-<th align="left"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M.41 13.41 6 19l1.41-1.42L1.83 12m20.41-6.42L11.66 16.17 7.5 12l-1.43 1.41L11.66 19l12-12M18 7l-1.41-1.42-6.35 6.35 1.42 1.41L18 7Z"></path></svg></span> Actions</th>
-<th align="left"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 20a7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7 7 7 0 0 1-7 7m7.03-12.61 1.42-1.42c-.45-.51-.9-.97-1.41-1.41L17.62 6c-1.55-1.26-3.5-2-5.62-2a9 9 0 0 0-9 9 9 9 0 0 0 9 9c5 0 9-4.03 9-9 0-2.12-.74-4.07-1.97-5.61M11 14h2V8h-2m4-7H9v2h6V1Z"></path></svg></span> Période (approximative)</th>
-<th align="left"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M22 9V7h-2V5a2 2 0 0 0-2-2H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-2h2v-2h-2v-2h2v-2h-2V9h2m-4 10H4V5h14v14M6 13h5v4H6v-4m6-6h4v3h-4V7M6 7h5v5H6V7m6 4h4v6h-4v-6Z"></path></svg></span> Charge de travail</th>
-<th align="left"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m21.71 20.29-1.42 1.42a1 1 0 0 1-1.41 0L7 9.85A3.81 3.81 0 0 1 6 10a4 4 0 0 1-3.78-5.3l2.54 2.54.53-.53 1.42-1.42.53-.53L4.7 2.22A4 4 0 0 1 10 6a3.81 3.81 0 0 1-.15 1l11.86 11.88a1 1 0 0 1 0 1.41M2.29 18.88a1 1 0 0 0 0 1.41l1.42 1.42a1 1 0 0 0 1.41 0l5.47-5.46-2.83-2.83M20 2l-4 2v2l-2.17 2.17 2 2L18 8h2l2-4Z"></path></svg></span> Outils</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td align="left"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9Z"></path></svg></span> Inscription de l'établissement</td>
-<td align="left">septembre 2022 à avril 2023</td>
-<td align="left">5 minutes</td>
-<td align="left">www.nuitducode.net</td>
-</tr>
-<tr>
+<div class="md-typeset__scrollwrap">
+  <div class="md-typeset__table"><table>
+    <thead>
+      <tr>
+        <th align="left"> :material-check-all: Actions</th>
+        <th align="left"> :material-calendar: Période <small>(approximative)</small></th>
+        <th align="left"> :material-developer-board: Charge de travail</th>
+        <th align="left"> :material-tools:Outils</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="left">Inscription de l'établissement</td>
+        <td align="left">septembre 2022 à avril 2023</td>
+        <td align="left">5 minutes</td>
+        <td align="left"[www.nuitducode.net](https://www.nuitducode.net)</td>
+      </tr>
+      <tr>
 <td align="left"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9Z"></path></svg></span> Inscription des élèves et constitution des équipes</td>
 <td align="left">septembre 2022 à avril 2023</td>
 <td align="left">création du formulaire et suivi des inscriptions</td>
