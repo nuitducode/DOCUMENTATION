@@ -75,4 +75,32 @@ Pour toute question et demande de précisions, vous pouvez prendre contact avec 
   <img src="../assets/images/gallerie_2022/02.jpg" class="gallerie">
   <img src="../assets/images/gallerie_2022/03.jpg" class="gallerie">
   <img src="../assets/images/gallerie_2022/04.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/05.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/06.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/07.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/08.jpg" class="gallerie">  
+  <img src="../assets/images/gallerie_2022/09.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/10.jpg" class="gallerie">   
+  <img src="../assets/images/gallerie_2022/11.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/12.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/13.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/14.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/15.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/16.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/17.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/18.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/19.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/20.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/21.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/22.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/23.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/24.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/25.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/26.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/27.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/28.jpg" class="gallerie">  
+  <img src="../assets/images/gallerie_2022/29.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/30.jpg" class="gallerie"> 
+  <img src="../assets/images/gallerie_2022/31.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/32.jpg" class="gallerie">
 </center>
