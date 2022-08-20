@@ -49,6 +49,18 @@ D’autres éléments peuvent être pris en compte :
 * **Regroupement d’établissements**<br />Si dans votre zone géographique plusieurs établissements sont intéressés et que la situation sanitaire le permet, regrouper les établissements permet de garantir un événement encore plus festif et attractif.
 * **Associer des écoles locales**<br />Pour les établissements français de l’étranger, inviter des écoles locales peut donner une autre dimension à l'événement. Cela permet des créer des équipes mixtes, des favoriser les échanges entre les équipes (enseignantes et/ou de direction) des différents établissements et de tisser des liens qui peuvent déboucher sur d'autres projets communs.
 
+## PLANNING ET CHARGE TRAVAIL POUR LE OU LES ORGANISATEURS
+
+| :material-check-all: Action                        | :material-clock-fast: Période (approximative) | :material-developer-board: Charge de travail | :material-tools: Outils  |
+| :------------------------------------------------- | :-------------------------------------------- | :-----------------| :-------------------|
+| Inscription de l'établissement                     | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+| Inscription des élèves et constitution des équipes | septembre 2022 à avril 2023                   | création du formulaire et suivi des inscriptions | Formulaire [Framaform](https://framaforms.org/) mode d'emploi et modèle fournis  |
+| Choix de la date de l'événement                    | septembre 2022 à avril 2023                   | concertation entre collègues et avec la direction |   |
+| Entraînement des élèves                            | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+| Sélection des élèves (si besoin)                   | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+| Inscrire l'établissement                           | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+
+
 ## UN EXEMPLE D’ORGANISATION
 Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux points concernant l'organisation de la **Nuit du c0de** au Lycée Français International de Tokyo :
 
@@ -59,18 +71,6 @@ Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les
 * Un buffet (pizzas, snacks variés et boissons) sera proposé durant l’événement.
 * Les jeux réalisés seront testés et évalués tout de suite après l’épreuve (nous ferons une pause de 30 minutes avant). Le vote se fera via le site par les élèves et des enseignants.
 * Une remise de prix se fera dans la foulée pour les meilleures équipes des différentes catégories.
-
-## PLANNING ET CHARGE TRAVAIL POUR LE OU LES ORGANISATERUS
-
-| Action                                             | :material-clock-fast: Période (approximative) | Charge de travail | Outils  |
-| :------------------------------------------------- | :-------------------------------------------- | :-----------------| :-------------------|
-| Inscription de l'établissement                     | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
-| Inscription des élèves et constitution des équipes | septembre 2022 à avril 2023                   | 5 minutes         | framaform  |
-| Choix de la date de l'événement                    | septembre 2022 à avril 2023                   | concertation entre collègues et avec la direction |   |
-| Entraînement des élèves                            | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
-| Sélection des élèves (si besoin)                   | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
-| Inscrire l'établissement                           | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
-
 
 ## NOUS COMPTONS SUR VOUS !
 Vous l’aurez compris, le bon déroulement de la **Nuit du c0de** dans votre établissement repose en grande partie sur une bonne préparation. Inutile, lors d’une première participation de vouloir trop en faire : des ordinateurs et de quoi grignoter suffiront à passer un très bon moment. Vous pourrez toujours faire plus et mieux les années suivantes !
