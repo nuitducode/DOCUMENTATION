@@ -57,5 +57,6 @@ Si des regroupements d'établissements proches sont possibles, ils sont encourag
 
 Huit jeux par catégories seront sélectionnés par un jury d'enseignants. 
 
-!!! question ""
-    Pour toute question et demande de précisions, vous pouvez prendre contact avec l'équipe organisatrice à l'adresse <u>contact@nuitducode.net</u>.
+<br />
+
+Pour toute question et demande de précisions, vous pouvez prendre contact avec l'équipe organisatrice à l'adresse <u>contact@nuitducode.net</u>.
