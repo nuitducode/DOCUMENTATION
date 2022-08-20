@@ -40,7 +40,7 @@ D’autres éléments peuvent être pris en compte :
 * **Récompenses**<br />Chaque établissement peut récompenser ses meilleures équipes. Cela rendra l’événement plus attractif même si les récompenses restent symboliques.
 * **Intervenants**<br />Si vous avez la possibilité de faire venir, en ouverture de la **Nuit du c0de**, un intervenant capable de présenter le monde de la programmation ou du jeu vidéo ce serait formidable !
 * **Regroupement d’établissements**<br />Si dans votre zone géographique plusieurs établissements sont intéressés et que la situation sanitaire le permet, regrouper les établissements permet de garantir un événement encore plus festif et attractif.
-* **Associer des écoles locales**<br />Pour les établissements français de l’étranger, inviter des écoles locales peut donner une autre dimension à l’épreuve. Cela permet aussi de créer des liens avec ces écoles qui  / éleves  / enseignants / directions. Remarque : les écoles invitées ne pourront pas participer au classement international, mais seulement au classement que vous établirez dans votre établissement.
+* **Associer des écoles locales**<br />Pour les établissements français de l’étranger, inviter des écoles locales peut donner une autre dimension à l'événement. Cela permet des créer des équipes mixtes, des favoriser les échanges entre les équipes (enseignantes et/ou de direction) des différents établissements et de tisser des liens qui peuvent déboucher sur d'autres projets communs.
 
 ## UN EXEMPLE D’ORGANISATION
 Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux points concernant l'organisation de la **Nuit du c0de** au Lycée Français International de Tokyo :
