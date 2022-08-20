@@ -51,14 +51,14 @@ D’autres éléments peuvent être pris en compte :
 
 ## PLANNING ET CHARGE TRAVAIL POUR LE OU LES ORGANISATEURS
 
-| :material-check-all: Action                        | :material-clock-fast: Période (approximative) | :material-developer-board: Charge de travail | :material-tools: Outils  |
+| :material-check-all: Actions                        | :material-timer-outline: Période (approximative) | :material-developer-board: Charge de travail | :material-tools: Outils  |
 | :------------------------------------------------- | :-------------------------------------------- | :-----------------| :-------------------|
-| Inscription de l'établissement                     | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
-| Inscription des élèves et constitution des équipes | septembre 2022 à avril 2023                   | création du formulaire et suivi des inscriptions | Formulaire [Framaform](https://framaforms.org/) mode d'emploi et modèle fournis  |
-| Choix de la date de l'événement                    | septembre 2022 à avril 2023                   | concertation entre collègues et avec la direction |   |
-| Entraînement des élèves                            | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
-| Sélection des élèves (si besoin)                   | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
-| Inscrire l'établissement                           | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+| :material-check-circle: Inscription de l'établissement                     | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+| :material-check-circle: Inscription des élèves et constitution des équipes | septembre 2022 à avril 2023                   | création du formulaire et suivi des inscriptions | Formulaire [Framaform](https://framaforms.org/) <br /> <small>:material-download: mode d'emploi et modèle fournis (disponibles prochainement)</small>  |
+| :material-check-circle: Choix de la date de l'événement                    | septembre 2022 à avril 2023                   | concertation entre collègues et avec la direction |   |
+| :material-check-circle: Entraînement des élèves                            | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+| :material-check-circle: Sélection des élèves (si besoin)                   | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+| :material-check-circle: Inscrire l'établissement                           | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
 
 
 ## UN EXEMPLE D’ORGANISATION
