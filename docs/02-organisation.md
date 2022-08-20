@@ -5,7 +5,7 @@ hide:
 
 # ORGANISATION
 
-Ce document s’adresse aux équipes enseignantes et de direction dont les établissements participeront à la **Nuit du c0de**. Le Lycée Français International de Tokyo, organisateur de l’événement, se charge de l’élaboration et de la diffusion de tous les documents nécessaires à la mise en place de ce marathon de programmation Scratch et Python. Cependant, chaque établissement doit s’organiser pour pouvoir proposer cet événement à ses élèves.Ce qui nécessite un minimum de logistique.
+Ce document s’adresse aux équipes enseignantes et de direction dont les établissements participeront à la **Nuit du c0de**. Le Lycée Français International de Tokyo, organisateur de l’événement, se charge de l’élaboration et de la diffusion de tous les documents nécessaires à la mise en place de ce marathon de programmation Scratch et Python. Cependant, chaque établissement doit s’organiser pour pouvoir proposer cet événement à ses élèves.
 
 ## BUDGET
 Le budget nécessaire pour organiser la **Nuit du c0de** au sein d'un établissement peut être quasi nul. La nourriture et les boissons peuvent être pris en charge par les familles et il n'est pas obligatoire de prévoir des prix. Un diplôme imprimé et une petite cérémonie peuvent suffire. Mais il est aussi possible, si le budget le permet, de prévoir des pizzas, des gâteaux, des "goodies" (autocollants et badges par exemple), des récompenses...
