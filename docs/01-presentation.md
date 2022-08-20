@@ -40,6 +40,8 @@ La participation d'un établissement peut être l'occasion de la création d'un 
 * Au terme de l'épreuve, chaque établissement élit ses équipes championnes qui le représenteront dans chaque catégorie.
 * Une sélection mondiale est ensuite établie.
 
+![autocollants_et_badges](assets/images/autocollants_et_badges.jpg){ width="300" }
+
 ## CALENDRIER
 ### Septembre 2022 - Avril 2023 : Inscriptions
 Si le projet vous intéresse, vous pouvez vous inscrire sur le site [nuitducode.net](https://www.nuitducode.net). Vous aurez alors accès à tous les documents, ressources, tutoriels, supports...  qui vous permettront de préparer et mettre en place la **Nuit du c0de**. Tout est fait pour que la charge de travail des personnes qui organiseront la **Nuit du c0de** dans un établissement soit la plus légère possible.
