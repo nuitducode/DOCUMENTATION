@@ -102,5 +102,5 @@ Pour toute question et demande de précisions, vous pouvez prendre contact avec 
   <img src="../assets/images/gallerie_2022/29.jpg" class="gallerie">
   <img src="../assets/images/gallerie_2022/30.jpg" class="gallerie"> 
   <img src="../assets/images/gallerie_2022/31.jpg" class="gallerie">
-  <img src="../assets/images/gallerie_2022/32.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/32.png" class="gallerie">
 </center>
