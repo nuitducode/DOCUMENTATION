@@ -76,6 +76,8 @@ Pour toute question et demande de précisions, vous pouvez prendre contact avec 
 
 ## LA NUIT DU C0DE EN IMAGES - ÉDITION 2022
 
+Édition 2022 : 159 établissements inscrits, 4556 élèves, 141 villes, 38 pays.
+
 <center>
   <img src="../assets/images/gallerie_2022/01.jpg" class="gallerie">
   <img src="../assets/images/gallerie_2022/02.jpg" class="gallerie">
