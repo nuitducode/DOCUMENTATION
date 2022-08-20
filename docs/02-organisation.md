@@ -29,7 +29,7 @@ La préparation des élèves peut aussi se faire dans le cadre des programmes de
 ## SÉLECTION LES ÉLÈVES (optionnelle)
 Vous pourrez avoir besoin de réaliser ces sélections si le nombre d’élèves qui souhaitent participer dépasse la capacité d’accueil de votre établissement (en matière de connexion à Internet ou de nombre d’ordinateurs / tablettes disponibles). Des ressources sont présentes sur le site pour organiser ces sélections. Ces ressources vous permettront, si vous le souhaitez, de tester le niveau de vos élèves et, éventuellement, de les sélectionner. Il est conseillé de faire ces évaluations en équipes.
 
-## LE JOUR J
+## POUR LE JOUR J
 L’épreuve dure 6 heures (ou moins pour élèves de cycle 3). C’est long et cela nécessite une organisation adaptée dans votre établissement : journée banalisée, organisation durant le week-end ou autre (il n’est pas nécessaire que cela se passe la nuit !). Il faut le prévoir longtemps à l'avance et plusieurs éléments sont à prendre en compte :
 
 * **Calendrier**<br />L’évènement doit être organisé dans la période définie (entre le 1er et le 27 mai 2023 - dates à confirmer).
