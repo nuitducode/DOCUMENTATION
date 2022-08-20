@@ -33,10 +33,10 @@ D’autres éléments peuvent être pris en compte :
 * Regroupement d’établissements : si dans votre zone géographique plusieurs établissements sont intéressés et que la situation sanitaire le permet, regrouper les établissements permet de garantir un événement encore plus festif et attractif.
 * Associer des écoles locales : pour les établissements français de l’étranger, inviter des écoles locales peut donner une autre dimension à l’épreuve. Dans ce cas, les écoles invitées ne pourront pas participer au classement international, mais seulement au classement que vous établirez dans votre établissement.
 
-## UN EXEMPLE D’ORGANISATION : LE LYCÉE FRANÇAIS INTERNATIONAL DE TOKYO - ÉDITION 2022
-Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux éléments de notre organisation (prévisionnelle) pour 2023 :
+## UN EXEMPLE D’ORGANISATION
+Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux points concernant l'organisation de la **Nuit du c0de** au Lycée Français International de Tokyo :
 
-* Le Lycée Français International de Tokyo accueillera les élèves du Lycée Français International de Kyoto et d'une ecole japonaise locale.
+* Le Lycée Français International de Tokyo accueillera les élèves du Lycée Français International de Kyoto et d'une école japonaise locale.
 * Deux ou trois intervenants extérieurs viendront faire de courtes présentations.
 * Chaque élève sera équipé d'un Chromebook.
 * L'établissement sera décoré par des élèves du primaire et du secondaire (thèmes pixel-art et rétro-gaming).
