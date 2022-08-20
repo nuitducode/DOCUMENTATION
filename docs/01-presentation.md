@@ -67,3 +67,12 @@ Huit jeux par catégories seront sélectionnés par un jury d'enseignants.
 <br />
 
 Pour toute question et demande de précisions, vous pouvez prendre contact avec l'équipe organisatrice à l'adresse <u>contact@nuitducode.net</u>.
+
+<br />
+
+<center>
+![](assets/images/gallerie_2022/01.jpg){ height="200" }
+![](assets/images/gallerie_2022/02.jpg){ height="200" }
+![](assets/images/gallerie_2022/03.jpg){ height="200" }
+![](assets/images/gallerie_2022/04.jpg){ height="200" }
+</center>
