@@ -60,6 +60,18 @@ Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les
 * Les jeux réalisés seront testés et évalués tout de suite après l’épreuve (nous ferons une pause de 30 minutes avant). Le vote se fera via le site par les élèves et des enseignants.
 * Une remise de prix se fera dans la foulée pour les meilleures équipes des différentes catégories.
 
+## PLANNING ET CHARGE TRAVAIL POUR LE OU LES ORGANISATERUS
+
+| Action                                             | :material-clock-fast: Période (approximative) | Charge de travail | Outils  |
+| :------------------------------------------------- | :-------------------------------------------- | :-----------------| :-------------------|
+| Inscription de l'établissement                     | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+| Inscription des élèves et constitution des équipes | septembre 2022 à avril 2023                   | 5 minutes         | framaform  |
+| Choix de la date de l'événement                    | septembre 2022 à avril 2023                   | concertation entre collègues et avec la direction |   |
+| Entraînement des élèves                            | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+| Sélection des élèves (si besoin)                   | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+| Inscrire l'établissement                           | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+
+
 ## NOUS COMPTONS SUR VOUS !
 Vous l’aurez compris, le bon déroulement de la **Nuit du c0de** dans votre établissement repose en grande partie sur une bonne préparation. Inutile, lors d’une première participation de vouloir trop en faire : des ordinateurs et de quoi grignoter suffiront à passer un très bon moment. Vous pourrez toujours faire plus et mieux les années suivantes !
 
