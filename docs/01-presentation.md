@@ -32,6 +32,12 @@ Pour se faire une idée :
 
 La participation d'un établissement peut être l'occasion de la création d'un atelier de programmation pour les élèves. Les activités de programmation au collège, en mathématiques ou en technologie, peuvent aussi être orientées « jeu » (gestion des déplacements, utilisation de variables pour compter les points...). De même, pour Python, la préparation à la **Nuit du c0de** peut être intégrée aux cours de NSI (boucles, listes, variables, fonctions, programmation orientée objet... ). Les tutoriels proposés pour préparer la **Nuit du c0de** peuvent être modifiés et servir de supports de cours.
 
+<center>
+![autocollants_et_badges](assets/images/autocollants_et_badges.jpg){ width="500" }
+</center>
+
+<br />
+
 ## LES GRANDES LIGNES
 * Chaque établissement inscrit autant d'élèves qu'il le souhaite. Il n'y a pas de frais d'inscription.
 * Le budget nécessaire peut aller de zéro à quelques centaines d'euros.
@@ -40,10 +46,6 @@ La participation d'un établissement peut être l'occasion de la création d'un 
 * Au terme de l'épreuve, chaque établissement élit ses équipes championnes qui le représenteront dans chaque catégorie.
 * Une sélection mondiale est ensuite établie.
 
-<center>
-![autocollants_et_badges](assets/images/autocollants_et_badges.jpg){ width="300" }
-</center>
-  
 ## CALENDRIER
 ### Septembre 2022 - Avril 2023 : Inscriptions
 Si le projet vous intéresse, vous pouvez vous inscrire sur le site [nuitducode.net](https://www.nuitducode.net). Vous aurez alors accès à tous les documents, ressources, tutoriels, supports...  qui vous permettront de préparer et mettre en place la **Nuit du c0de**. Tout est fait pour que la charge de travail des personnes qui organiseront la **Nuit du c0de** dans un établissement soit la plus légère possible.
