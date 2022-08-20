@@ -63,6 +63,7 @@ Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas d
 | :material-check-circle: Choix des salles                                   | septembre 2022 à avril 2023                                | concertation entre collègues et avec la direction                                                                                  |  |
 | :material-check-circle: Jour J                                             | mai 2023                                                   |         | www.nuitducode.net  |
 | :material-check-circle: Diplomes et cérémonie                              | à la fin de la Nuit du c0de ou quelques jours plus tard    | impression des documents et mise en place de la cérémonie (pendant une heure de cours et sur un autre créneau)                     | <small>:material-download: documents fournis (disponibles prochainement)</small>  |
+| - [ ] Diplomes et cérémonie                              | à la fin de la Nuit du c0de ou quelques jours plus tard    | impression des documents et mise en place de la cérémonie (pendant une heure de cours et sur un autre créneau)                     | <small>:material-download: documents fournis (disponibles prochainement)</small>  |
 
 ## UN EXEMPLE D’ORGANISATION
 Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux points concernant l'organisation de la **Nuit du c0de** au Lycée Français International de Tokyo :
