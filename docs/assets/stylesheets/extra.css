@@ -9,6 +9,10 @@
     background-color: #fafcfe;
 }
 
+img {
+    border-radius:5px;
+}
+
 .md-content {
     margin-bottom: 300px;
 }
