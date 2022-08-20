@@ -51,65 +51,20 @@ D’autres éléments peuvent être pris en compte :
 
 ## PLANNING ET CHARGE TRAVAIL POUR LE OU LES ORGANISATEURS
 
-| :material-check-all: Actions                        | :material-calendar: Période (approximative) | :material-developer-board: Charge de travail | :material-tools: Outils  |
-| :------------------------------------------------- | :-------------------------------------------- | :-----------------| :-------------------|
-| :material-check-circle: Inscription de l'établissement                     | septembre 2022 à avril 2023                   | 5 minutes         | [www.nuitducode.net](https://www.nuitducode.net)  |
-| :material-check-circle: Inscription des élèves et constitution des équipes | septembre 2022 à avril 2023                   | création du formulaire et suivi des inscriptions | Formulaire [Framaform](https://framaforms.org/) <br /> <small>:material-download: mode d'emploi et modèle fournis (disponibles prochainement)</small>  |
-| :material-check-circle: Choix de la date de l'événement                    | septembre 2022 à avril 2023                   | concertation entre collègues et avec la direction |   |
-| :material-check-circle: Entraînement des élèves                            | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
-| :material-check-circle: Sélection des élèves (si besoin)                   | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
-| :material-check-circle: Inscrire l'établissement                           | septembre 2022 à avril 2023                   | 5 minutes         | www.nuitducode.net  |
+Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas de "goodies", pas d'intervenants, pas de récompenses...).
 
+| :material-check-all: Actions                                               | :material-calendar: Période <small>(approximative)</small> | :material-developer-board: Charge de travail | :material-tools: Outils  |
+| :------------------------------------------------------------------------- | :--------------------------------------------------------- | :-----------------| :-------------------|
+| :material-check-circle: Inscription de l'établissement                     | septembre 2022 à avril 2023                                | 5 minutes         | [www.nuitducode.net](https://www.nuitducode.net)  |
+| :material-check-circle: Inscription des élèves et constitution des équipes | septembre 2022 à avril 2023                                | création du formulaire et suivi des inscriptions | Formulaire [Framaform](https://framaforms.org/) <br /> <small>:material-download: mode d'emploi et modèle fournis (disponibles prochainement)</small>  |
+| :material-check-circle: Choix de la date de l'événement                    | septembre 2022 à avril 2023                                | concertation entre collègues et avec la direction |   |
+| :material-check-circle: Entraînement des élèves                            | septembre 2022 à avril 2023                                | 5 minutes         | www.nuitducode.net  |
+| :material-check-circle: Sélection des élèves (si besoin)                   | septembre 2022 à avril 2023                                | 5 minutes         | www.nuitducode.net  |
+| :material-check-circle: Nourriture et boissons                           | septembre 2022 à avril 2023                                | comminucation avec les familles5 minutes         | www.nuitducode.net  |
+| :material-check-circle: Diplome et cérémonie                           | septembre 2022 à avril 2023                                | comminucation avec les familles5 minutes         | www.nuitducode.net  |
+| :material-check-circle: Choix des salles                           | septembre 2022 à avril 2023                                | comminucation avec les familles5 minutes         | www.nuitducode.net  |
+| :material-check-circle: Jour J                           | mai 2023                                | comminucation avec les familles5 minutes         | www.nuitducode.net  |
 
-<div class="md-typeset__scrollwrap">
-  <div class="md-typeset__table"><table>
-    <thead>
-      <tr>
-        <th align="left"> :material-check-all: Actions</th>
-        <th align="left"> :material-calendar: Période <small>(approximative)</small></th>
-        <th align="left"> :material-developer-board: Charge de travail</th>
-        <th align="left"> :material-tools:Outils</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td align="left">Inscription de l'établissement</td>
-        <td align="left">septembre 2022 à avril 2023</td>
-        <td align="left">5 minutes</td>
-        <td align="left"[www.nuitducode.net](https://www.nuitducode.net)</td>
-      </tr>
-      <tr>
-<td align="left"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9Z"></path></svg></span> Inscription des élèves et constitution des équipes</td>
-<td align="left">septembre 2022 à avril 2023</td>
-<td align="left">création du formulaire et suivi des inscriptions</td>
-<td align="left">Formulaire <a href="https://framaforms.org/">Framaform</a> <br> <small><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M5 20h14v-2H5m14-9h-4V3H9v6H5l7 7 7-7Z"></path></svg></span> mode d'emploi et modèle fournis (disponibles prochainement)</small></td>
-</tr>
-<tr>
-<td align="left"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9Z"></path></svg></span> Choix de la date de l'événement</td>
-<td align="left">septembre 2022 à avril 2023</td>
-<td align="left">concertation entre collègues et avec la direction</td>
-<td align="left"></td>
-</tr>
-<tr>
-<td align="left"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9Z"></path></svg></span> Entraînement des élèves</td>
-<td align="left">septembre 2022 à avril 2023</td>
-<td align="left">5 minutes</td>
-<td align="left">www.nuitducode.net</td>
-</tr>
-<tr>
-<td align="left"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9Z"></path></svg></span> Sélection des élèves (si besoin)</td>
-<td align="left">septembre 2022 à avril 2023</td>
-<td align="left">5 minutes</td>
-<td align="left">www.nuitducode.net</td>
-</tr>
-<tr>
-<td align="left"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2m-2 15-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9Z"></path></svg></span> Inscrire l'établissement</td>
-<td align="left">septembre 2022 à avril 2023</td>
-<td align="left">5 minutes</td>
-<td align="left">www.nuitducode.net</td>
-</tr>
-</tbody>
-</table></div></div>
 
 
 ## UN EXEMPLE D’ORGANISATION
