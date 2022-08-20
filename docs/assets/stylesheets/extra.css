@@ -19,7 +19,8 @@ img {
 
 @media only screen and (max-width: 600px) {
     .gallerie {
-        width:100% !important;
+         width:100% !important;
+         height:auto !important;
     }
 }
 
