@@ -17,6 +17,12 @@ img {
     height:250px !important;
 }
 
+@media only screen and (max-width: 600px) {
+    .gallerie {
+        width:100% !important;
+    }
+}
+
 .md-content {
     margin-bottom: 300px;
 }
