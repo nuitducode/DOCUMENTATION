@@ -6,10 +6,9 @@ hide:
 # PRÉSENTATION
 
 <center>
-![autocollants_et_badges](assets/images/nuitducode-scratch-python.svg){ width="600" }
+  ![autocollants_et_badges](assets/images/nuitducode-scratch-python.svg){ width="600" }
+  *La <b>Nuit du c0de</b> : créer un jeu avec Scratch ou Python en 6 heures!*
 </center>
-
-*La <b>Nuit du c0de</b> : créer un jeu avec Scratch ou Python en 6 heures!*
 
 ## PRÉSENTATION GÉNÉRALE
 
