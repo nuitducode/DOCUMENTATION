@@ -31,8 +31,6 @@ Pour se faire une idée :
 
 La participation d'un établissement peut être l'occasion de la création d'un atelier de programmation pour les élèves. Les activités de programmation au collège, en mathématiques ou en technologie, peuvent aussi être orientées « jeu » (gestion des déplacements, utilisation de variables pour compter les points...). De même, pour Python, la préparation à la **Nuit du c0de** peut être intégrée aux cours de NSI (boucles, listes, variables, fonctions, programmation orientée objet... ). Les tutoriels proposés pour préparer la **Nuit du c0de** peuvent être modifiés et servir de supports de cours.
 
-Pour toute question et demande de précisions, vous pouvez prendre contact avec l'équipe organisatrice à l'adresse <u>contact@nuitducode.net</u>.
-
 ## LES GRANDES LIGNES
 * Chaque établissement inscrit autant d'élèves qu'il le souhaite. Il n'y a pas de frais d'inscription.
 * Le budget nécessaire peut aller de zéro à quelques centaines d'euros.
@@ -59,5 +57,5 @@ Si des regroupements d'établissements proches sont possibles, ils sont encourag
 
 Huit jeux par catégories seront sélectionnés par un jury d'enseignants. 
 
-L'équipe de la Nuit du c0de espère votre prochaine inscription. N'hésitez pas à nous contacter pour nous poser vos questions : contact@nuitducode.net.
-
+!!! question ""
+    Pour toute question et demande de précisions, vous pouvez prendre contact avec l'équipe organisatrice à l'adresse <u>contact@nuitducode.net</u>.
