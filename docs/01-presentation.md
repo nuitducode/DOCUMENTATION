@@ -8,7 +8,7 @@ hide:
 <center>
 ![autocollants_et_badges](assets/images/nuitducode-scratch-python.svg){ width="600" }
 <br />
-`La <b>Nuit du c0de</b> : créer un jeu avec Scratch ou Python en 6 heures!`
+<span class="ndc">La <b>Nuit du c0de</b> : créer un jeu avec Scratch ou Python en 6 heures!</span>
 </center>
 
 ## PRÉSENTATION GÉNÉRALE
