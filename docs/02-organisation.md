@@ -53,19 +53,16 @@ D’autres éléments peuvent être pris en compte :
 
 Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas de "goodies", pas d'intervenants, pas de récompenses...).
 
-| :material-check-all: Actions                                               | :material-calendar: Période <small>(approximative)</small> | :material-developer-board: Charge de travail | :material-tools: Outils  |
-| :------------------------------------------------------------------------- | :--------------------------------------------------------- | :-----------------| :-------------------|
-| :material-check-circle: Inscription de l'établissement                     | septembre 2022 à avril 2023                                | 5 minutes         | [www.nuitducode.net](https://www.nuitducode.net)  |
-| :material-check-circle: Inscription des élèves et constitution des équipes | septembre 2022 à avril 2023                                | création du formulaire et suivi des inscriptions | Formulaire [Framaform](https://framaforms.org/) <br /> <small>:material-download: mode d'emploi et modèle fournis (disponibles prochainement)</small>  |
-| :material-check-circle: Choix de la date de l'événement                    | septembre 2022 à avril 2023                                | concertation entre collègues et avec la direction |   |
-| :material-check-circle: Entraînement des élèves                            | septembre 2022 à avril 2023                                | 5 minutes         | www.nuitducode.net  |
-| :material-check-circle: Sélection des élèves (si besoin)                   | septembre 2022 à avril 2023                                | 5 minutes         | www.nuitducode.net  |
-| :material-check-circle: Nourriture et boissons                           | septembre 2022 à avril 2023                                | comminucation avec les familles5 minutes         | www.nuitducode.net  |
-| :material-check-circle: Diplome et cérémonie                           | septembre 2022 à avril 2023                                | comminucation avec les familles5 minutes         | www.nuitducode.net  |
-| :material-check-circle: Choix des salles                           | septembre 2022 à avril 2023                                | comminucation avec les familles5 minutes         | www.nuitducode.net  |
-| :material-check-circle: Jour J                           | mai 2023                                | comminucation avec les familles5 minutes         | www.nuitducode.net  |
-
-
+| :material-check-all: Actions                                               | :material-calendar: Période <small>(approximative)</small> | :material-developer-board: Charge de travail                                                                                       | :material-tools: Outils  |
+| :------------------------------------------------------------------------- | :--------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------------------| :------------------------|
+| :material-check-circle: Inscription de l'établissement                     | septembre 2022 à avril 2023                                | 5 minutes pour remplir le formulaire                                                                                               | [www.nuitducode.net](https://www.nuitducode.net)  |
+| :material-check-circle: Inscription des élèves et constitution des équipes | septembre 2022 à avril 2023                                | création du formulaire et suivi des inscriptions                                                                                   | Formulaire [Framaform](https://framaforms.org/) <br /> <small>:material-download: mode d'emploi et modèle fournis (disponibles prochainement)</small>  |
+| :material-check-circle: Choix de la date de l'événement                    | septembre 2022 à avril 2023                                | concertation entre collègues et avec la direction                                                                                  |  |
+| :material-check-circle: Entraînement des élèves                            | janvier à avril 2023                                       | quasi-nulle si les élèves s'entrainent de facon autonome ou quelques séances qui peuvent être encadrées par différents enseignants | <small>:material-download: ressources fournies (disponibles prochainement)</small>  |
+| :material-check-circle: Nourriture et boissons                             | septembre 2022 à avril 2023                                | communication avec les familles                                                                                                    |  |
+| :material-check-circle: Choix des salles                                   | septembre 2022 à avril 2023                                | concertation entre collègues et avec la direction                                                                                  |  |
+| :material-check-circle: Jour J                                             | mai 2023                                                   |         | www.nuitducode.net  |
+| :material-check-circle: Diplomes et cérémonie                              | à la fin de la Nuit du c0de ou quelques jours plus tard    | impression des documents et mise en place de la cérémonie (pendant une heure de cours et sur un autre créneau)                     | <small>:material-download: documents fournis (disponibles prochainement)</small>  |
 
 ## UN EXEMPLE D’ORGANISATION
 Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux points concernant l'organisation de la **Nuit du c0de** au Lycée Français International de Tokyo :
