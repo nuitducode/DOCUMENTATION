@@ -71,8 +71,8 @@ Pour toute question et demande de précisions, vous pouvez prendre contact avec 
 <br />
 
 <center>
-  <img src="assets/images/gallerie_2022/01.jpg" class="gallerie">
-  <img src="assets/images/gallerie_2022/02.jpg" class="gallerie">
-  <img src="assets/images/gallerie_2022/03.jpg" class="gallerie">
-  <img src="assets/images/gallerie_2022/04.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/01.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/02.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/03.jpg" class="gallerie">
+  <img src="../assets/images/gallerie_2022/04.jpg" class="gallerie">
 </center>
