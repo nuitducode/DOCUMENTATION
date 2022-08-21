@@ -141,7 +141,7 @@ img {
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-    margin-bottom: -2rem;
+    margin-bottom: 0.8rem;
     font-weight: 300;
     line-height: 1.2;
 }
@@ -150,7 +150,8 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: #227dc7;
     font-size: 1.4rem;
     text-transform: uppercase;
-    font-weight: 800;    
+    font-weight: 800;  
+    margin-bottom: -1rem;
 }
 
 
@@ -158,14 +159,16 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: #227dc7;
     font-size: 0.8rem;
     text-transform: uppercase;
-    font-weight: 600;    
+    font-weight: 600;   
+    margin-bottom: -1rem;
 }
 
 .md-typeset h3 {
     color:#4c9ce5;
     font-size:0.7rem;
     line-height: 1.2rem;
-    font-weight: 600;    
+    font-weight: 600;  
+    margin-bottom: -1rem;
 }
 
 
