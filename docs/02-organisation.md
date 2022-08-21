@@ -10,10 +10,10 @@ Ce document s’adresse aux équipes enseignantes et de direction dont les étab
 ## TÂCHES PRIORITAIRES
 
 ### Inscription de l'établissement
-L'inscription se fait sur le [site de la **Nuit du c0de**](https://www.nuitducode.net).
+L'inscription se fait sur le [site](https://www.nuitducode.net) de la **Nuit du c0de**. Les paramètres de connexion alors créés permettent d'accéder à un espace de gestion de l'événement (suivi de l'organisation, ressources, interface pour enregistrer et évaluer les jeux...).
 
 ### Date de la Nuit du c0de
-Ce choix peut se faire plus tard dans l'année. En milieu ou fin deuxième trimestre par exemple. Il n'est pas toujours facile d'avoir une vision claire des contraintes du calandrier pour le mois de mai.
+Ce choix de la date n'est pas urgent. Il peut se faire en milieu ou fin deuxième trimestre.
 
 ### Budget
 Le budget nécessaire pour organiser la **Nuit du c0de** au sein d'un établissement peut être quasi nul. La nourriture et les boissons peuvent être pris en charge par les familles et il n'est pas obligatoire de prévoir des prix. Un diplôme imprimé et une petite cérémonie peuvent suffire. Mais il est aussi possible, si le budget le permet, de prévoir des commandes de pizzas, des gâteaux, des "goodies" (autocollants et badges par exemple), des récompenses...
@@ -68,7 +68,7 @@ D’autres éléments peuvent être pris en compte :
 * **Regroupement d’établissements**<br />Si dans votre zone géographique plusieurs établissements sont intéressés et que la situation sanitaire le permet, regrouper les établissements permet de garantir un événement encore plus festif et attractif.
 * **Associer des écoles locales**<br />Pour les établissements français de l’étranger, inviter des écoles locales peut donner une autre dimension à l'événement. Cela permet des créer des équipes mixtes, des favoriser les échanges entre les équipes (enseignantes et/ou de direction) des différents établissements et de tisser des liens qui peuvent déboucher sur d'autres projets communs.
 
-## PLANNIFICATEUR
+## LISTE & RESSOURCES
 
 Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas de "goodies", pas d'intervenants, pas de récompenses...).
 
