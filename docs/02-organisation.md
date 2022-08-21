@@ -61,7 +61,7 @@ D’autres éléments peuvent être pris en compte :
 
 Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas de "goodies", pas d'intervenants, pas de récompenses...).
 
-| :material-check-all: Actions          | :material-calendar: Période <br /><small><i>approximative</i></small> | :material-developer-board: Intervenants                       | :material-tools: Outils                                                          |
+| :material-check-all: Actions          | :material-calendar: Période <br /><small><i>approximative</i></small> | :material-developer-board: Intervenants                       | :material-tools: Ressources                                                      |
 | :-------------------------------------| :-------------------------------------------------------------------- | :-------------------------------------------------------------| :--------------------------------------------------------------------------------|
 | Inscription de l'établissement        | de septembre 2022 à avril 2023                                        | organisateur(s)                                               | [www.nuitducode.net](https://www.nuitducode.net)                                 |
 | Choix de la date de l'événement       | de septembre 2022 à avril 2023                                        | organisateur(s) / direction                                   |                                                                                  |
