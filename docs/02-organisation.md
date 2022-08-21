@@ -103,4 +103,4 @@ Vous l’aurez compris, le bon déroulement de la **Nuit du c0de** dans votre é
 
 <br />
 
-Si des points restent peu clairs ou si ce document ne répond pas à vos questions, n’hésitez pas à contacter l’équipe de la **Nuit du c0de** à l’adresse <u>contact@nuitducode.net</u>. 
+Si des points restent peu clairs ou si ce document ne répond pas à vos questions, n’hésitez pas à utiliser l'[espace de discussions](https://github.com/nuitducode/ORGANISATION/discussions) ou à prendre contact avec l'équipe organisatrice en écrivant à <u>contact@nuitducode.net</u>.
