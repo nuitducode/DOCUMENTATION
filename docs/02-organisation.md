@@ -66,10 +66,10 @@ L’épreuve dure 6 heures (ou moins pour élèves de cycle 3). C’est long et 
 
 D’autres éléments peuvent être pris en compte :
 
-* **Récompenses**<br />Chaque établissement peut récompenser ses meilleures équipes. Cela rendra l’événement plus attractif même si les récompenses restent symboliques.
-* **Intervenants**<br />Si vous avez la possibilité de faire venir, en ouverture de la **Nuit du c0de**, un intervenant capable de présenter le monde de la programmation ou du jeu vidéo ce serait formidable !
-* **Regroupement d’établissements**<br />Si dans votre zone géographique plusieurs établissements sont intéressés et que la situation sanitaire le permet, regrouper les établissements permet de garantir un événement encore plus festif et attractif.
-* **Associer des écoles locales**<br />Pour les établissements français de l’étranger, inviter des écoles locales peut donner une autre dimension à l'événement. Cela permet des créer des équipes mixtes, des favoriser les échanges entre les équipes (enseignantes et/ou de direction) des différents établissements et de tisser des liens qui peuvent déboucher sur d'autres projets communs.
+* **"Goodies" / récompenses**<br />Des "goodies" (autocollants, badges...) peuvent être offerts à tous les élèves participants. Chaque établissement peut aussi décider de récompenser ses meilleures équipes en leur offrant un prix. Mais ceci est optionnel. Une petite cérémonie avec remise de diplômes suffit pour marquer la fin de l'événement.
+* **Intervenants**<br />Si vous avez la possibilité de faire venir, en ouverture de la **Nuit du c0de**, un ou plusieurs intervenant capable de présenter le monde de la programmation ou du jeu vidéo, n'hésitez pas. Ces présentations (qui doivent être courtes) permettent de lancer en douceur l'événement et peuvent s'inscrire dans la cadre du travail d'orientation des élèves. Les intervenants peuvent aussi être des élèves qui présentent un projet qu'ils ont mené durant l'année.
+* **Regroupement d'établissements**<br />Si dans votre zone géographique plusieurs établissements sont intéressés et que la situation sanitaire le permet, regrouper les établissements permet de garantir un événement encore plus festif et attractif.
+* **Invitation d'écoles locales**<br />Pour les établissements français de l’étranger, inviter des écoles locales peut donner une autre dimension à l'événement. Cela permet des créer des équipes mixtes, des favoriser les échanges entre les équipes (enseignantes et/ou de direction) des différents établissements et de tisser des liens qui peuvent déboucher sur d'autres projets communs.
 
 ## LISTE & RESSOURCES
 
