@@ -10,13 +10,15 @@ Ce document s’adresse aux équipes enseignantes et de direction dont les étab
 ## TÂCHES PRIORITAIRES
 
 ### Inscription de l'établissement
+L'inscription se fait sur le [site de la **Nuit du c0de**](https://www.nuitducode.net).
 
 ### Choix de la date de la Nuit du c0de
+Ce choix peut se faire plus tard dans l'année. Une annonce en début ou milieu de deuxième trimestre est suffisante.
 
 ### Budget
 Le budget nécessaire pour organiser la **Nuit du c0de** au sein d'un établissement peut être quasi nul. La nourriture et les boissons peuvent être pris en charge par les familles et il n'est pas obligatoire de prévoir des prix. Un diplôme imprimé et une petite cérémonie peuvent suffire. Mais il est aussi possible, si le budget le permet, de prévoir des commandes de pizzas, des gâteaux, des "goodies" (autocollants et badges par exemple), des récompenses...
 
-### Équipement
+### Salles et équipement
 Pour organiser la **Nuit du c0de** dans votre établissement, vous aurez besoin à minima :
 
 * d'une ou plusieurs salles
@@ -33,18 +35,19 @@ La **Nuit du c0de** est avant tout une fête et un jeu. Et pour que les élèves
 Vous pourrez avoir besoin de réaliser ces sélections si le nombre d’élèves qui souhaitent participer dépasse la capacité d’accueil de votre établissement (en matière de connexion à Internet ou de nombre d’ordinateurs / tablettes disponibles). Des ressources sont présentes sur le site pour organiser ces sélections. Ces ressources vous permettront, si vous le souhaitez, de tester le niveau de vos élèves et, éventuellement, de les sélectionner. Il est conseillé de faire ces évaluations en équipes.
 
 ### Autorisations parentales
+Il peut etre nécessaire d'obtenir des autorisations parentales. Cette démarche peut prendre du temps (delais de reponse des familles, relances, corrections...).
 
 
 ## TÂCHES SECONDAIRES
 
 ### COMMUNICATION
+Des affiches et des modèles de courriels (à l'attention des élèves ou des familles) sont à la disposition des organisateurs (voir site web). Vous pouvez aussi publier des annonces sur le site de l'établissement ou via la lettre d'information.
 
 ### "GOODIES"
+Si le budget le permet, vous pouvez prévoir des "goodies" (autocollants, badges, tasses...). 
 
 ### NUIT DU C0DE ET PROGRAMMES
 La préparation des élèves peut aussi se faire dans le cadre des programmes de collège / lycée pour Scratch (en technologie, mathématiques, SNT...) ou de NSI pour Python. Pour faciliter cette intégration dans les programmes, plusieurs ressources sont en cours de création.
-
-
 
 
 ## RÉCAPITULATIF POUR LE JOUR J
