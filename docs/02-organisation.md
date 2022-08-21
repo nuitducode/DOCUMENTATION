@@ -35,16 +35,16 @@ Pour organiser la **Nuit du c0de** dans votre établissement, vous aurez besoin 
 La **Nuit du c0de** est avant tout une fête et un jeu. Et pour que les élèves puissent pleinement en profiter, il est préférable qu’ils soient préparés à la nature de l’événement. L’équipe de la **Nuit du c0de** met à votre disposition des ressources [Scratch](https://nuitducode.github.io/DOCUMENTATION/SCRATCH/01-introduction/) et [Python](https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/) pour organiser des entraînements. Il est important que les élèves participants puissent s’entraîner un minimum quelles que soient les modalités (en classe, en atelier périscolaire, à la maison, en temps libre ou limité, avec des contraintes précises ou de façon totalement autonome). La **Nuit du c0de** se joue en équipes (de 2 ou 3 élèves) et cela demande aux élèves des qualités de collaboration et d’organisation. Cela nécessite donc un peu de préparation.
 
 ### Autorisations parentales
-Il peut être nécessaire d'obtenir des autorisations parentales. Nottament si l'évémenent est programmé en dehors des heures de cours. Cette démarche peut prendre du temps (délais de réponse des familles, relances, corrections...). Une bonne anticipation est donc nécessaire. Des modèles de lettre à envoyer aux famille sont proposés sur le site (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)).
+Il peut être nécessaire d'obtenir des autorisations parentales. Nottament si l'évémenent est programmé en dehors des heures de cours. Cette démarche peut prendre du temps (délais de réponse des familles, relances, corrections...). Une bonne anticipation est donc nécessaire. Des modèles de lettre à envoyer aux famille sont proposés (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)).
 
 
 ## POINTS SECONDAIRES
 
 ### Communication
-Des affiches, des modèles d'annonce et de courriels (à l'attention des élèves ou des familles) et un court diaporama de présentation de la **Nuit du c0de** sont proposés sur le site (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)). Vous pouvez ainsi solliciter des collègues pour qu'ils présentent le diaporama au début d'un de leurs cours. Vous pouvez aussi publier des annonces sur le site de l'établissement ou via la lettre d'information. 
+Des affiches, des modèles d'annonce et de courriels (à l'attention des élèves ou des familles) et un court diaporama de présentation de la **Nuit du c0de** sont proposés (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)). Vous pouvez ainsi solliciter des collègues pour qu'ils présentent le diaporama au début d'un de leurs cours. Vous pouvez aussi publier des annonces sur le site de l'établissement ou via la lettre d'information. 
 
 ### "Goodies"
-Si le budget le permet, vous pouvez prévoir des "goodies" (autocollants, badges, tasses...). Plusieurs visuels sont proposés. Voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/).
+Si le budget le permet, vous pouvez prévoir des "goodies" (autocollants, badges, tasses...). Plusieurs visuels sont à votre disposition (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)).
 
 ### Sélection des élèves
 Vous pourrez avoir besoin de réaliser ces sélections si le nombre d’élèves qui souhaitent participer dépasse la capacité d’accueil de votre établissement (en matière de connexion à Internet ou de nombre d’ordinateurs / tablettes disponibles). Des ressources [Scratch](https://nuitducode.github.io/DOCUMENTATION/SCRATCH/01-introduction/) ou [Python](https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/) sont présentes sur le site pour organiser ces sélections. Ces ressources vous permettront, si vous le souhaitez, de tester le niveau de vos élèves et, éventuellement, de les sélectionner. Il est conseillé de faire ces évaluations en équipes.
