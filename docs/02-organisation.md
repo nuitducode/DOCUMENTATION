@@ -7,33 +7,37 @@ hide:
 
 Ce document s’adresse aux équipes enseignantes et de direction dont les établissements participeront à la **Nuit du c0de**. Le Lycée Français International de Tokyo, organisateur de l’événement, se charge de l’élaboration et de la diffusion de tous les documents nécessaires à la mise en place de ce marathon de programmation Scratch et Python. Cependant, chaque établissement doit s’organiser pour pouvoir proposer cet événement à ses élèves.
 
-## BUDGET
+## TÂCHES PRINCIPALES
+
+### BUDGET
 Le budget nécessaire pour organiser la **Nuit du c0de** au sein d'un établissement peut être quasi nul. La nourriture et les boissons peuvent être pris en charge par les familles et il n'est pas obligatoire de prévoir des prix. Un diplôme imprimé et une petite cérémonie peuvent suffire. Mais il est aussi possible, si le budget le permet, de prévoir des pizzas, des gâteaux, des "goodies" (autocollants et badges par exemple), des récompenses...
 
-## BESOINS MATÉRIELS
+### BESOINS MATÉRIELS
 Pour organiser la **Nuit du c0de** dans votre établissement, vous aurez besoin à minima :
 
 * d'une ou plusieurs salles
 * d'ordinateurs fixes ou portables ou de tablettes (un appareil ou plus par équipe)
 * d'un espace pour la nourriture et les boissons
 
-## ENCADREMENT
+### ENCADREMENT
 La **Nuit du c0de** est aussi l'occasion d'impliquer les équipes éducatives, la direction et même les parents. Le jour de l'événement, il faut prévoir suffisamement de personnes pour encadrer les élèves et aider à la mise en place, à la logistique et au rangement. Il n'est pas nécessaire que toutes ces personnes maitrisent la programmation Scratch ou Python.
 
-## PRÉPARATION DES ÉLÈVES
+### PRÉPARATION DES ÉLÈVES
 La **Nuit du c0de** est avant tout une fête et un jeu. Et pour que les élèves puissent pleinement en profiter, il est préférable qu’ils soient préparés à la nature de l’événement. L’équipe de la **Nuit du c0de** met à votre disposition des ressources ([Scratch](https://nuitducode.github.io/DOCUMENTATION/SCRATCH/01-introduction/) et [Python](https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/)) pour organiser des entraînements. Il est important que les élèves participants puissent s’entraîner un minimum quelles que soient les modalités (en classe, en atelier périscolaire, à la maison, en temps libre ou limité, avec des contraintes précises ou de façon totalement autonome). La **Nuit du c0de** se joue en équipes (de 2 ou 3 élèves) et cela demande aux élèves des qualités de collaboration et d’organisation. Cela nécessite donc un peu de préparation.
 
-## NUIT DU C0DE ET PROGRAMMES
-La préparation des élèves peut aussi se faire dans le cadre des programmes de collège / lycée pour Scratch (en technologie, mathématiques, SNT...) ou de NSI pour Python. Pour faciliter cette intégration dans les programmes, plusieurs ressources sont en cours de création.
 
-## SÉLECTION LES ÉLÈVES (optionnelle)
+
+### SÉLECTION LES ÉLÈVES (optionnelle)
 Vous pourrez avoir besoin de réaliser ces sélections si le nombre d’élèves qui souhaitent participer dépasse la capacité d’accueil de votre établissement (en matière de connexion à Internet ou de nombre d’ordinateurs / tablettes disponibles). Des ressources sont présentes sur le site pour organiser ces sélections. Ces ressources vous permettront, si vous le souhaitez, de tester le niveau de vos élèves et, éventuellement, de les sélectionner. Il est conseillé de faire ces évaluations en équipes.
 
-## AUTORISATIONS PARENTALES
+### AUTORISATIONS PARENTALES
 
-## COMMUNICATION
+### COMMUNICATION
 
-## "GOODIES"
+### NUIT DU C0DE ET PROGRAMMES
+La préparation des élèves peut aussi se faire dans le cadre des programmes de collège / lycée pour Scratch (en technologie, mathématiques, SNT...) ou de NSI pour Python. Pour faciliter cette intégration dans les programmes, plusieurs ressources sont en cours de création.
+
+### "GOODIES"
 
 
 ## POUR LE JOUR J
