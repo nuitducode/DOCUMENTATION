@@ -1,4 +1,4 @@
-site_name: DOCUMENTATION & RESSOURCES
+site_name: DOCUMENTATION, RESSOURCES et TUTORIELS
 theme:
   name: material
   custom_dir: docs/overrides
