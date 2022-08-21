@@ -17,6 +17,8 @@ La **Nuit du c0de** est un marathon de programmation Scratch et Python organisé
 
 Par équipes de deux ou trois réparties en plusieurs catégories (cycle 3, cycle 4 et lycée), les élèves ont six heures (ou moins pour les élèves de cycle 3) pour programmer entièrement un jeu avec Scratch ou Python à partir d'un univers de jeu fourni.
 
+Édition 2022 : `159` établissements inscrits, `4556` élèves, `141` villes, `38` pays.
+
 Chaque année, plusieurs univers de jeu sont proposés. Ces univers de jeux sont mis à dispositions des organisateurs 48h avant la date choisie par l'établissement pour organiser la **Nuit du c0de**. Les élèves découvrent ces univers de jeu au début de la **Nuit du c0de** et les équipes doivent en choisir un. Un univers de jeu contient tous les éléments, sons et arrière-plans nécessaires pour créer le jeu.
 
 Pour préparer les élèves durant l'année, des fiches, des tutoriels, des vidéos et des sujets d'entraînement sont fournis. La préparation peut se faire en présence d'enseignants mais elle peut aussi se faire de façon autonome. Les élèves n'ont pas besoin d'avoir des connaissances particulières en Scratch et Python en début d'année pour participer à la **Nuit du c0de**. Quelques séances de préparation et un peu de travail en autonomie suffisent.  
@@ -70,13 +72,11 @@ Huit jeux par catégories seront sélectionnés par un jury d'enseignants.
 
 <br />
 
-Pour toute question et demande de précisions, vous pouvez prendre contact avec l'équipe organisatrice à l'adresse <u>contact@nuitducode.net</u>.
+Pour toute question et demande de précisions, vous pouvez utiliser l'[espace de discussions](https://github.com/nuitducode/ORGANISATION/discussions) ou prendre contact avec l'équipe organisatrice en écrivant à <u>contact@nuitducode.net</u>.
 
 <br />
 
 ## LA NUIT DU C0DE EN IMAGES - ÉDITION 2022
-
-Édition 2022 : `159` établissements inscrits, `4556` élèves, `141` villes, `38` pays.
 
 Vidéos, images, témoignages et informations sur le  [compte Twitter](https://twitter.com/nuitducode) de la **Nuit du c0de**.
 
