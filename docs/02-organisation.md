@@ -71,7 +71,7 @@ D’autres éléments peuvent être pris en compte :
 * **Regroupement d'établissements**<br />Si dans votre zone géographique plusieurs établissements sont intéressés et que la situation sanitaire le permet, regrouper les établissements permet de garantir un événement encore plus festif et attractif.
 * **Invitation d'écoles locales**<br />Pour les établissements français de l’étranger, inviter des écoles locales peut donner une autre dimension à l'événement. Cela permet des créer des équipes mixtes, des favoriser les échanges entre les équipes (enseignantes et/ou de direction) des différents établissements et de tisser des liens qui peuvent déboucher sur d'autres projets communs.
 
-## LISTE & RESSOURCES
+## FEUILLE DE ROUTE & RESSOURCES
 
 Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas de "goodies", pas d'intervenants, pas de récompenses...).
 
