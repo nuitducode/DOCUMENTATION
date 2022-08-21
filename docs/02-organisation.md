@@ -12,7 +12,7 @@ Ce document s’adresse aux équipes enseignantes et de direction dont les étab
 ### Inscription de l'établissement
 L'inscription se fait sur le [site de la **Nuit du c0de**](https://www.nuitducode.net).
 
-### Choix de la date de la Nuit du c0de
+### Date de la Nuit du c0de
 Ce choix peut se faire plus tard dans l'année. Une annonce en début ou milieu de deuxième trimestre est suffisante.
 
 ### Budget
