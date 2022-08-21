@@ -13,7 +13,7 @@ Ce document s’adresse aux équipes enseignantes et de direction dont les étab
 L'inscription se fait sur le [site de la **Nuit du c0de**](https://www.nuitducode.net).
 
 ### Date de la Nuit du c0de
-Ce choix peut se faire plus tard dans l'année. Une annonce en début ou milieu de deuxième trimestre est suffisante.
+Ce choix peut se faire plus tard dans l'année. En milieu ou fin deuxième trimestre par exemple. Il n'est pas toujours facile d'avoir une vision claire des contraintes du calandrier pour le mois de mai.
 
 ### Budget
 Le budget nécessaire pour organiser la **Nuit du c0de** au sein d'un établissement peut être quasi nul. La nourriture et les boissons peuvent être pris en charge par les familles et il n'est pas obligatoire de prévoir des prix. Un diplôme imprimé et une petite cérémonie peuvent suffire. Mais il est aussi possible, si le budget le permet, de prévoir des commandes de pizzas, des gâteaux, des "goodies" (autocollants et badges par exemple), des récompenses...
