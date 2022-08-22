@@ -56,9 +56,9 @@ A quelques jours de la Nuit du c0de, des vérifications s'imposent :
 * **Vérifier les Salles**
 * **Vérifier l'équipement informatique**
 * **Faire le point avec l'équipe d'encadrement**
-* **Imprimer les documents à distribuer aux équipes** (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/))
+* **Vérifier que les documents à distribuer aux équipes sont imprimés** (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/))
 * **S'assurer que la nourriture et les boissons sont en quantités suffisantes**
-* **Préparer les "Goodies" / récompenses** (si cela est prévu)
+* **S'assurer que les "goodies" / récompenses sont prêts** (si cela est prévu)
 * **Confirmer la présence du ou des intervenants** (si cela est prévu)
 * **Faire le point avec l'établissement invité** (si cela est prévu)
 
