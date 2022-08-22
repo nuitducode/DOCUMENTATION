@@ -71,7 +71,7 @@ Prévoir un temps pour l’évaluation de tous les jeux créés pendant la **Nui
 
 Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas de "goodies", pas d'intervenants, pas de récompenses...).
 
-| :material-check-all: Actions        | :material-calendar: Période <br /><small><i>approximative</i></small> | :material-developer-board: Intervenants                       | :material-tools: Ressources                                                                                             |
+| :material-check-all: Actions        | :material-calendar: Période <br /><small><i>approximative</i></small> | :material-developer-board: Personnes impliquées               | :material-tools: Ressources                                                                                             |
 | :-----------------------------------| :-------------------------------------------------------------------- | :-------------------------------------------------------------| :-----------------------------------------------------------------------------------------------------------------------|
 | Inscrire l'établissement            | de septembre 2022 à avril 2023                                        | organisateur(s)                                               | [www.nuitducode.net](https://www.nuitducode.net)                                                                        |
 | Choisir la date de l'événement      | de septembre 2022 à avril 2023                                        | organisateur(s) / direction                                   |                                                                                                                         |
