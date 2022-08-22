@@ -9,7 +9,7 @@ Ce document s’adresse aux équipes enseignantes et de direction dont les étab
 
 ## POINTS PRIORITAIRES
 
-* <h3>Organisateur(s)</h3><br />La **Nuit du c0de** peut être organisée au sein d'un établissement par une seule personne ou par plusieurs. Différentes équipes pédagogiques peuvent s'impliquer. Scientifiques ou non. Par exemple, les enseignants d'Arts Plastiques peuvent contribuer à la mise en place l'événement (création de supports visuels, décoration de l'établissement et/ou des salles, dessins vectoriels...). Si plusieurs personnes participent à l'organisation de l'événement, il est conseillé de définir un coordinateur qui se chargera d'inscrire l'établissement, de faire le lien avec la direction et de faire le suivi grâce au site.
+* <h3>Organisateur(s)</h3>La **Nuit du c0de** peut être organisée au sein d'un établissement par une seule personne ou par plusieurs. Différentes équipes pédagogiques peuvent s'impliquer. Scientifiques ou non. Par exemple, les enseignants d'Arts Plastiques peuvent contribuer à la mise en place l'événement (création de supports visuels, décoration de l'établissement et/ou des salles, dessins vectoriels...). Si plusieurs personnes participent à l'organisation de l'événement, il est conseillé de définir un coordinateur qui se chargera d'inscrire l'établissement, de faire le lien avec la direction et de faire le suivi grâce au site.
 <br />
 <u>Rappel</u><br />
 Tout est fait pour que la charge de travail du ou des organisteurs soit la plus légère possible. Documents, guides, supports, modèles..., tout est fourni (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/) et la suite de ce document).
@@ -21,9 +21,9 @@ Tout est fait pour que la charge de travail du ou des organisteurs soit la plus 
 * <h3>Budget</h3><br />Le budget nécessaire pour organiser la **Nuit du c0de** au sein d'un établissement peut être quasi nul. La nourriture et les boissons peuvent être pris en charge par les familles et il n'est pas obligatoire de prévoir des prix. Un diplôme imprimé et une petite cérémonie peuvent suffire. Mais il est aussi possible, si le budget le permet, de prévoir des commandes de pizzas, des gâteaux, des "goodies" (autocollants et badges par exemple), des récompenses...
 
 * <h3>Salles et équipement</h3><br />Pour organiser la **Nuit du c0de** dans votre établissement, vous aurez besoin à minima :
-  - d'une ou plusieurs salles
-  - d'ordinateurs fixes ou portables ou de tablettes (un appareil ou plus par équipe)
-  - d'un espace pour la nourriture et les boissons
+    - d'une ou plusieurs salles
+    - d'ordinateurs fixes ou portables ou de tablettes (un appareil ou plus par équipe)
+    - d'un espace pour la nourriture et les boissons
 
 ### Préparation des élèves
 La **Nuit du c0de** est avant tout une fête et un jeu. Et pour que les élèves puissent pleinement en profiter, il est préférable qu’ils soient préparés à la nature de l’événement. L’équipe de la **Nuit du c0de** met à votre disposition des ressources [Scratch](https://nuitducode.github.io/DOCUMENTATION/SCRATCH/01-introduction/) et [Python](https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/) pour organiser des entraînements. Il est important que les élèves participants puissent s’entraîner un minimum quelles que soient les modalités (en classe, en atelier périscolaire, à la maison, en temps libre ou limité, avec des contraintes précises ou de façon totalement autonome). La **Nuit du c0de** se joue en équipes (de 2 ou 3 élèves) et cela demande aux élèves des qualités de collaboration et d’organisation. Cela nécessite donc un peu de préparation.
