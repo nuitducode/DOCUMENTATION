@@ -6,6 +6,7 @@ hide:
 # ORGANISATION
 
 Ce document s’adresse aux équipes enseignantes et de direction dont les établissements participeront à la **Nuit du c0de**. Le Lycée Français International de Tokyo, organisateur de l’événement, se charge de l’élaboration et de la diffusion de tous les documents nécessaires à la mise en place de ce marathon de programmation Scratch et Python. Cependant, chaque établissement doit s’organiser un minimum pour pouvoir proposer cet événement à ses élèves.
+L’épreuve dure 6 heures (ou moins pour élèves de cycle 3). C’est long et cela nécessite une organisation adaptée dans votre établissement : journée banalisée, organisation durant le week-end ou autre (il n’est pas nécessaire que cela se passe la nuit !). Il faut le prévoir longtemps à l'avance et plusieurs éléments sont à prendre en compte :
 
 ## TÂCHES PRIORITAIRES
 
@@ -51,7 +52,7 @@ Tout est fait pour que la charge de travail du ou des organisteurs soit la plus 
 La préparation des élèves peut aussi se faire dans le cadre des programmes de collège / lycée pour Scratch (en technologie, mathématiques, SNT...) ou de NSI pour Python. Pour faciliter cette intégration dans les programmes, un groupe de travail s'est constitué et plusieurs ressources sont en cours de création. Si vous souhaitez rejoindre le groupe de travail, vous pouvez écrire à <u>contact@nuitducode.net</u>.
 
 ## POUR LE JOUR J
-L’épreuve dure 6 heures (ou moins pour élèves de cycle 3). C’est long et cela nécessite une organisation adaptée dans votre établissement : journée banalisée, organisation durant le week-end ou autre (il n’est pas nécessaire que cela se passe la nuit !). Il faut le prévoir longtemps à l'avance et plusieurs éléments sont à prendre en compte :
+A quelques jours de la Nuit du c0de, des vérifications s'imposent :
 
 * **Vérifier les Salles**
 * **Vérifier l'équipement informatique**
