@@ -26,7 +26,7 @@ Tout est fait pour que la charge de travail du ou des organisteurs soit la plus 
 
 * <span class="h3">Préparer les élèves</span><br />La **Nuit du c0de** est avant tout une fête et un jeu. Et pour que les élèves puissent pleinement en profiter, il est préférable qu’ils soient préparés à la nature de l’événement. L’équipe de la **Nuit du c0de** met à votre disposition des ressources [Scratch](https://nuitducode.github.io/DOCUMENTATION/SCRATCH/01-introduction/) et [Python](https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/) pour organiser des entraînements. Il est important que les élèves participants puissent s’entraîner un minimum quelles que soient les modalités (en classe, en atelier périscolaire, à la maison, en temps libre ou limité, avec des contraintes précises ou de façon totalement autonome). La **Nuit du c0de** se joue en équipes (de 2 ou 3 élèves) et cela demande aux élèves des qualités de collaboration et d’organisation. Cela nécessite donc un peu de préparation.
 
-* <span class="h3">Prévoir une équipe d'encadrants pour le jour j</span><br />La **Nuit du c0de** est  l'occasion d'impliquer les équipes éducatives, la direction et même les parents. Le jour de l'événement, il faut prévoir suffisamement de personnes pour encadrer les élèves et aider à la mise en place, à la logistique et au rangement. Il n'est pas nécessaire que toutes ces personnes maitrisent la programmation Scratch ou Python.
+* <span class="h3">Prévoir une équipe d'encadrants pour le jour J</span><br />La **Nuit du c0de** est  l'occasion d'impliquer les équipes éducatives, la direction et même les parents. Le jour de l'événement, il faut prévoir suffisamement de personnes pour encadrer les élèves et aider à la mise en place, à la logistique et au rangement. Il n'est pas nécessaire que toutes ces personnes maitrisent la programmation Scratch ou Python. De plus, les encadrants ne sont pas obligés d'être présents sur toute la durée de l'événement. Des créneaux peut être définis et un tableau de présence peut être mis en place. Les moments qui nécéssitent un encadrement accru sont au début, lors de la pause nourriture / boissons et à la fin de l'événement. 
 
 * <span class="h3">Penser aux autorisations parentales</span><br />Il peut être nécessaire d'obtenir des autorisations parentales. Nottament si l'évémenent est programmé en dehors des heures de cours. Cette démarche peut prendre du temps (délais de réponse des familles, relances, corrections...). Une bonne anticipation est donc nécessaire. Des modèles de lettre à envoyer aux famille sont proposés (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)).
 
@@ -51,7 +51,7 @@ Tout est fait pour que la charge de travail du ou des organisteurs soit la plus 
 La préparation des élèves peut aussi se faire dans le cadre des programmes de collège / lycée pour Scratch (en technologie, mathématiques, SNT...) ou de NSI pour Python. Pour faciliter cette intégration dans les programmes, un groupe de travail s'est constitué et plusieurs ressources sont en cours de création. Si vous souhaitez rejoindre le groupe de travail, vous pouvez écrire à <u>contact@nuitducode.net</u>.
 
 ## POUR LE JOUR J
-A quelques jours de la Nuit du c0de, des vérifications s'imposent :
+À quelques jours de la Nuit du c0de, des vérifications s'imposent :
 
 * **Vérifier les salles**
 * **Vérifier l'équipement informatique**
