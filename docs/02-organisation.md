@@ -9,8 +9,7 @@ Ce document s’adresse aux équipes enseignantes et de direction dont les étab
 
 ## POINTS PRIORITAIRES
 
-* <h3>Organisateur(s)</h3>
-La **Nuit du c0de** peut être organisée au sein d'un établissement par une seule personne ou par plusieurs. Différentes équipes pédagogiques peuvent s'impliquer. Scientifiques ou non. Par exemple, les enseignants d'Arts Plastiques peuvent contribuer à la mise en place l'événement (création de supports visuels, décoration de l'établissement et/ou des salles, dessins vectoriels...). Si plusieurs personnes participent à l'organisation de l'événement, il est conseillé de définir un coordinateur qui se chargera d'inscrire l'établissement, de faire le lien avec la direction et de faire le suivi grâce au site.
+* <h3>Organisateur(s)</h3>La **Nuit du c0de** peut être organisée au sein d'un établissement par une seule personne ou par plusieurs. Différentes équipes pédagogiques peuvent s'impliquer. Scientifiques ou non. Par exemple, les enseignants d'Arts Plastiques peuvent contribuer à la mise en place l'événement (création de supports visuels, décoration de l'établissement et/ou des salles, dessins vectoriels...). Si plusieurs personnes participent à l'organisation de l'événement, il est conseillé de définir un coordinateur qui se chargera d'inscrire l'établissement, de faire le lien avec la direction et de faire le suivi grâce au site.
 
 <u>Rappel</u><br />
 Tout est fait pour que la charge de travail du ou des organisteurs soit la plus légère possible. Documents, guides, supports, modèles..., tout est fourni (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/) et la suite de ce document).
