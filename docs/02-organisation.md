@@ -20,53 +20,52 @@ Tout est fait pour que la charge de travail du ou des organisteurs soit la plus 
 
 * <span class="h3">Définir un budget</h3></span><br />Le budget nécessaire pour organiser la **Nuit du c0de** au sein d'un établissement peut être quasi nul. La nourriture et les boissons peuvent être pris en charge par les familles et il n'est pas obligatoire de prévoir des prix. Un diplôme imprimé et une petite cérémonie peuvent suffire. Mais il est aussi possible, si le budget le permet, de prévoir des commandes de pizzas, des gâteaux, des "goodies" (autocollants et badges par exemple), des récompenses...
 
-* <span class="h3">Salles et équipement</h3></span><br />Pour organiser la **Nuit du c0de** dans votre établissement, vous aurez besoin à minima :
-    - d'une ou plusieurs salles
-    - d'ordinateurs fixes ou portables ou de tablettes (un appareil ou plus par équipe)
-    - d'un espace pour la nourriture et les boissons
-Prévoir un ou des espaces suffisament grands. Les équipes doivent avoir une surface de travail confortable. De plus, pendant toute la durée de l’épreuve, on encourage les élèves à aller observer le travail des autres, à échanger, s'entraider... Il faut donc que les élèves (tout comme les encadrants) puissent circuler aisement.
-Prévoir des terminaux (ordinateurs/tablettes) disponibles en nombre suffisant. Il est crucial de vérifier votre capacité d’accueil. Les élèves peuvent apporter leur propre terminal. Le jeu peut se faire soit en ligne (dans ce cas les élèves devront avoir un compte pour se connecter) soit en déconnecté (installation de Scratch 3 nécessaire sur les terminaux utilisés). Pour Python, la dernière version de Pyxel doit être installée sur les terminaux (voir [Installation de Pyxel](https://nuitducode.github.io/DOCUMENTATION/PYTHON/02-installation/)). Prévoir aussi des casques et des souris pour faciliter la créations des jeux.
+* <span class="h3">Prévoir l'équipement informatique</h3></span><br />Pour organiser la **Nuit du c0de** dans votre établissement, vous aurez besoin d'ordinateurs fixes ou portables ou de tablettes (un appareil ou plus par équipe). Prévoir des terminaux (ordinateurs/tablettes) disponibles en nombre suffisant. Il est crucial de vérifier votre capacité d’accueil. Les élèves peuvent apporter leur propre terminal. Le jeu peut se faire soit en ligne (dans ce cas les élèves devront avoir un compte pour se connecter) soit en déconnecté (installation de Scratch 3 nécessaire sur les terminaux utilisés). Pour Python, la dernière version de Pyxel doit être installée sur les terminaux (voir [Installation de Pyxel](https://nuitducode.github.io/DOCUMENTATION/PYTHON/02-installation/)). Prévoir aussi des casques et des souris pour faciliter la créations des jeux.
+
+* <span class="h3">Prévoir une ou plusieurs salles</h3></span><br />Prévoir un ou des espaces suffisament grands. Les équipes doivent avoir une surface de travail confortable. De plus, pendant toute la durée de l’épreuve, on encourage les élèves à aller observer le travail des autres, à échanger, s'entraider... Il faut donc que les élèves (tout comme les encadrants) puissent circuler aisement.   + d'un espace pour la nourriture et les boissons
 
 * <span class="h3">Préparer les élèves</span><br />La **Nuit du c0de** est avant tout une fête et un jeu. Et pour que les élèves puissent pleinement en profiter, il est préférable qu’ils soient préparés à la nature de l’événement. L’équipe de la **Nuit du c0de** met à votre disposition des ressources [Scratch](https://nuitducode.github.io/DOCUMENTATION/SCRATCH/01-introduction/) et [Python](https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/) pour organiser des entraînements. Il est important que les élèves participants puissent s’entraîner un minimum quelles que soient les modalités (en classe, en atelier périscolaire, à la maison, en temps libre ou limité, avec des contraintes précises ou de façon totalement autonome). La **Nuit du c0de** se joue en équipes (de 2 ou 3 élèves) et cela demande aux élèves des qualités de collaboration et d’organisation. Cela nécessite donc un peu de préparation.
 
-* **Encadrement**<br />La **Nuit du c0de** est  l'occasion d'impliquer les équipes éducatives, la direction et même les parents. Le jour de l'événement, il faut prévoir suffisamement de personnes pour encadrer les élèves et aider à la mise en place, à la logistique et au rangement. Il n'est pas nécessaire que toutes ces personnes maitrisent la programmation Scratch ou Python.
+* <span class="h3">Prévoir une équipe d'encadrants pour le jour j</span><br />La **Nuit du c0de** est  l'occasion d'impliquer les équipes éducatives, la direction et même les parents. Le jour de l'événement, il faut prévoir suffisamement de personnes pour encadrer les élèves et aider à la mise en place, à la logistique et au rangement. Il n'est pas nécessaire que toutes ces personnes maitrisent la programmation Scratch ou Python.
 
-### Autorisations parentales
-Il peut être nécessaire d'obtenir des autorisations parentales. Nottament si l'évémenent est programmé en dehors des heures de cours. Cette démarche peut prendre du temps (délais de réponse des familles, relances, corrections...). Une bonne anticipation est donc nécessaire. Des modèles de lettre à envoyer aux famille sont proposés (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)).
+* <span class="h3">Penser aux autorisations parentales</span><br />Il peut être nécessaire d'obtenir des autorisations parentales. Nottament si l'évémenent est programmé en dehors des heures de cours. Cette démarche peut prendre du temps (délais de réponse des familles, relances, corrections...). Une bonne anticipation est donc nécessaire. Des modèles de lettre à envoyer aux famille sont proposés (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)).
 
+* <span class="h3">Nourriture et boissons**</h3><br />Prévoir à manger et à boire : l’épreuve est longue et nos jeunes codeurs ne tiendront pas 6 heures sans s’alimenter ! De plus, la **Nuit du c0de** se veut un événement convivial. La ou les pauses nourriture / boissons y contribuent. Prévoir un coin snack et buvette est donc important et fait partie de cette ambiance qui doit être détendue et même festive. Les services de cantine peuvent être sollicités.
 
 ## TÂCHES FACULTATIVES
 
-### Communication
+### Communiquer
 Des affiches, des modèles d'annonce et de courriels (à l'attention des élèves ou des familles) et un court diaporama de présentation de la **Nuit du c0de** sont proposés (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)). Vous pouvez ainsi solliciter des collègues pour qu'ils présentent le diaporama au début d'un de leurs cours. Vous pouvez aussi publier des annonces sur le site de l'établissement ou via la lettre d'information. 
 
 ### "Goodies"
-Si le budget le permet, vous pouvez prévoir des "goodies" (autocollants, badges, tasses...). Plusieurs visuels sont à votre disposition (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)).
+Si le budget le permet, vous pouvez prévoir des "goodies" (autocollants, badges, tasses...). Plusieurs visuels sont à votre disposition (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)). **Prévoir des "Goodies" / récompenses**<br />Des "goodies" (autocollants, badges...) peuvent être offerts à tous les élèves participants. Chaque établissement peut aussi décider de récompenser ses meilleures équipes en leur offrant un prix. Mais ceci est optionnel. Une petite cérémonie avec remise de diplômes suffit pour marquer la fin de l'événement.
 
 ### Sélection des élèves
 Vous pourrez avoir besoin de réaliser des sélections si le nombre d’élèves qui souhaitent participer dépasse la capacité d’accueil de votre établissement (en matière de connexion à Internet ou de nombre d’ordinateurs / tablettes disponibles). Des ressources [Scratch](https://nuitducode.github.io/DOCUMENTATION/SCRATCH/01-introduction/) ou [Python](https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/) sont présentes sur le site pour organiser ces sélections. Ces ressources vous permettront, si vous le souhaitez, de tester le niveau de vos élèves et, éventuellement, de les sélectionner. Il est conseillé de faire ces évaluations en équipes.
 
+* **Solliciter dse intervenants**<br />Si vous avez la possibilité de faire venir, en ouverture de la **Nuit du c0de**, un ou plusieurs intervenants capables de présenter le monde de la programmation ou du jeu vidéo, n'hésitez pas. Ces présentations (qui doivent être courtes) permettent de lancer en douceur l'événement et peuvent s'inscrire dans la cadre du travail d'orientation des élèves. Les intervenants peuvent aussi être des élèves qui présentent un projet qu'ils ont mené durant l'année.
+
 ### Nuit du c0de et programmes
 La préparation des élèves peut aussi se faire dans le cadre des programmes de collège / lycée pour Scratch (en technologie, mathématiques, SNT...) ou de NSI pour Python. Pour faciliter cette intégration dans les programmes, plusieurs ressources sont en cours de création.
 
+* **Proposer un regroupement d'établissements**<br />Si dans votre zone géographique plusieurs établissements sont intéressés et que la situation sanitaire le permet, regrouper les établissements permet de garantir un événement encore plus festif et attractif.
+* **Inviter des écoles locales**<br />Pour les établissements français de l’étranger, inviter des écoles locales peut donner une autre dimension à l'événement. Cela permet des créer des équipes mixtes, des favoriser les échanges entre les équipes (enseignantes et/ou de direction) des différents établissements et de tisser des liens qui peuvent déboucher sur d'autres projets communs.
 
-## RÉCAPITULATIF POUR LE JOUR J
+
+## POUR LE JOUR J
 L’épreuve dure 6 heures (ou moins pour élèves de cycle 3). C’est long et cela nécessite une organisation adaptée dans votre établissement : journée banalisée, organisation durant le week-end ou autre (il n’est pas nécessaire que cela se passe la nuit !). Il faut le prévoir longtemps à l'avance et plusieurs éléments sont à prendre en compte :
 
-* **Calendrier**<br />L’évènement doit être organisé dans la période définie (entre le 1er et le 27 mai 2023 - dates à confirmer).
-* **Salles**<br />Prévoir un ou des espaces suffisament grands. Les équipes doivent avoir une surface de travail confortable. De plus, pendant toute la durée de l’épreuve, on encourage les élèves à aller observer le travail des autres, à échanger, s'entraider... Il faut donc que les élèves (tout comme les encadrants) puissent circuler aisement.
-* **Équipement**<br />Prévoir des terminaux (ordinateurs/tablettes) disponibles en nombre suffisant. Il est crucial de vérifier votre capacité d’accueil. Les élèves peuvent apporter leur propre terminal. Le jeu peut se faire soit en ligne (dans ce cas les élèves devront avoir un compte pour se connecter) soit en déconnecté (installation de Scratch 3 nécessaire sur les terminaux utilisés). Pour Python, la dernière version de Pyxel doit être installée sur les terminaux (voir [Installation de Pyxel](https://nuitducode.github.io/DOCUMENTATION/PYTHON/02-installation/)). Prévoir aussi des casques et des souris pour faciliter la créations des jeux.
-* **Encadrement**<br />La **Nuit du c0de** est  l'occasion d'impliquer les équipes éducatives, la direction et même les parents. Le jour de l'événement, il faut prévoir suffisamement de personnes pour encadrer les élèves et aider à la mise en place, à la logistique et au rangement. Il n'est pas nécessaire que toutes ces personnes maitrisent la programmation Scratch ou Python.
-* **Documents**<br />Penser à imprimer les documents à distribuer aux élèves : "Règles et conseils", "Carnet de bord"...
-* **Nourriture et boissons**<br />Prévoir à manger et à boire : l’épreuve est longue et nos jeunes codeurs ne tiendront pas 6 heures sans s’alimenter ! De plus, la **Nuit du c0de** se veut un événement convivial. La ou les pauses nourriture / boissons y contribuent. Prévoir un coin snack et buvette est donc important et fait partie de cette ambiance qui doit être détendue et même festive. Les services de cantine peuvent être sollicités.
+* **Vérifier les Salles**
+* **Vérifier l'équipement informatique**
+* **Faire lepoint avec l'équipe d'encadrement**
+* **Imprimer les document à distribuer aux équipes** voir ressroouce
+* **S'assurer Nourriture et boissons**
 * **Évaluation des jeux**<br />Prévoir un temps pour le test et l’évaluation de tous les jeux créés. Chaque établissement doit sélectionner ses équipes championnes et il est important d’associer les élèves dans cette sélection. Cela peut se faire tout de suite après l’épreuve, lors d’un autre moment banalisé, à la maison... Cela dépend du nombre d’équipes participantes dans votre établissement. L'évaluation des jeux se fera via le site.
 
 D’autres éléments peuvent être pris en compte :
+* **Prévoir les "Goodies" / récompenses**
+* **Confirmer la presence d'intervenants**
 
-* **"Goodies" / récompenses**<br />Des "goodies" (autocollants, badges...) peuvent être offerts à tous les élèves participants. Chaque établissement peut aussi décider de récompenser ses meilleures équipes en leur offrant un prix. Mais ceci est optionnel. Une petite cérémonie avec remise de diplômes suffit pour marquer la fin de l'événement.
-* **Intervenants**<br />Si vous avez la possibilité de faire venir, en ouverture de la **Nuit du c0de**, un ou plusieurs intervenants capables de présenter le monde de la programmation ou du jeu vidéo, n'hésitez pas. Ces présentations (qui doivent être courtes) permettent de lancer en douceur l'événement et peuvent s'inscrire dans la cadre du travail d'orientation des élèves. Les intervenants peuvent aussi être des élèves qui présentent un projet qu'ils ont mené durant l'année.
-* **Regroupement d'établissements**<br />Si dans votre zone géographique plusieurs établissements sont intéressés et que la situation sanitaire le permet, regrouper les établissements permet de garantir un événement encore plus festif et attractif.
-* **Invitation d'écoles locales**<br />Pour les établissements français de l’étranger, inviter des écoles locales peut donner une autre dimension à l'événement. Cela permet des créer des équipes mixtes, des favoriser les échanges entre les équipes (enseignantes et/ou de direction) des différents établissements et de tisser des liens qui peuvent déboucher sur d'autres projets communs.
 
 ## FEUILLE DE ROUTE & RESSOURCES
 
