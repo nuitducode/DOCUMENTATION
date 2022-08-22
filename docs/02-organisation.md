@@ -7,7 +7,7 @@ hide:
 
 Ce document s’adresse aux équipes enseignantes et de direction dont les établissements participeront à la **Nuit du c0de**. Le Lycée Français International de Tokyo, organisateur de l’événement, se charge de l’élaboration et de la diffusion de tous les documents nécessaires à la mise en place de ce marathon de programmation Scratch et Python. Cependant, chaque établissement doit s’organiser un minimum pour pouvoir proposer cet événement à ses élèves.
 
-## POINTS PRIORITAIRES
+## TÂCHES PRIORITAIRES
 
 * <h3>Organisateur(s)</h3>La **Nuit du c0de** peut être organisée au sein d'un établissement par une seule personne ou par plusieurs. Différentes équipes pédagogiques peuvent s'impliquer. Scientifiques ou non. Par exemple, les enseignants d'Arts Plastiques peuvent contribuer à la mise en place l'événement (création de supports visuels, décoration de l'établissement et/ou des salles, dessins vectoriels...). Si plusieurs personnes participent à l'organisation de l'événement, il est conseillé de définir un coordinateur qui se chargera d'inscrire l'établissement, de faire le lien avec la direction et de faire le suivi grâce au site.
 <br />
@@ -32,7 +32,7 @@ La **Nuit du c0de** est avant tout une fête et un jeu. Et pour que les élèves
 Il peut être nécessaire d'obtenir des autorisations parentales. Nottament si l'évémenent est programmé en dehors des heures de cours. Cette démarche peut prendre du temps (délais de réponse des familles, relances, corrections...). Une bonne anticipation est donc nécessaire. Des modèles de lettre à envoyer aux famille sont proposés (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)).
 
 
-## POINTS SECONDAIRES
+## TÂCHES SECONDAIRES
 
 ### Communication
 Des affiches, des modèles d'annonce et de courriels (à l'attention des élèves ou des familles) et un court diaporama de présentation de la **Nuit du c0de** sont proposés (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)). Vous pouvez ainsi solliciter des collègues pour qu'ils présentent le diaporama au début d'un de leurs cours. Vous pouvez aussi publier des annonces sur le site de l'établissement ou via la lettre d'information. 
