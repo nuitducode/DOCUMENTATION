@@ -14,11 +14,11 @@ Ce document s’adresse aux équipes enseignantes et de direction dont les étab
 <u>Rappel</u><br />
 Tout est fait pour que la charge de travail du ou des organisteurs soit la plus légère possible. Documents, guides, supports, modèles..., tout est fourni (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/) et la suite de ce document).
 
-* <h3>Inscription de l'établissement</h3><br />L'inscription se fait sur le [site](https://www.nuitducode.net) de la **Nuit du c0de**. Les paramètres de connexion alors créés permettent d'accéder à un espace de gestion de l'événement (suivi de l'organisation, ressources, interface pour enregistrer et évaluer les jeux...).
+* <h3>Inscription de l'établissement</h3>L'inscription se fait sur le [site](https://www.nuitducode.net) de la **Nuit du c0de**. Les paramètres de connexion alors créés permettent d'accéder à un espace de gestion de l'événement (suivi de l'organisation, ressources, interface pour enregistrer et évaluer les jeux...).
 
-* <h3>Date de la Nuit du c0de</h3><br />Ce choix de la date n'est pas urgent. Il peut se faire en début ou milieu de deuxième trimestre en concertation direction. Cette date doit cependant être communiquée suffisamement tôt afin de laisser du temps aux organisteurs et de permettre aux familles de s'organiser (surtout si elle tombe un samedi).
+* <h3>Date de la Nuit du c0de</h3>Ce choix de la date n'est pas urgent. Il peut se faire en début ou milieu de deuxième trimestre en concertation direction. Cette date doit cependant être communiquée suffisamement tôt afin de laisser du temps aux organisteurs et de permettre aux familles de s'organiser (surtout si elle tombe un samedi).
 
-* <h3>Budget</h3><br />Le budget nécessaire pour organiser la **Nuit du c0de** au sein d'un établissement peut être quasi nul. La nourriture et les boissons peuvent être pris en charge par les familles et il n'est pas obligatoire de prévoir des prix. Un diplôme imprimé et une petite cérémonie peuvent suffire. Mais il est aussi possible, si le budget le permet, de prévoir des commandes de pizzas, des gâteaux, des "goodies" (autocollants et badges par exemple), des récompenses...
+* <h3>Budget</h3>Le budget nécessaire pour organiser la **Nuit du c0de** au sein d'un établissement peut être quasi nul. La nourriture et les boissons peuvent être pris en charge par les familles et il n'est pas obligatoire de prévoir des prix. Un diplôme imprimé et une petite cérémonie peuvent suffire. Mais il est aussi possible, si le budget le permet, de prévoir des commandes de pizzas, des gâteaux, des "goodies" (autocollants et badges par exemple), des récompenses...
 
 * <h3>Salles et équipement</h3><br />Pour organiser la **Nuit du c0de** dans votre établissement, vous aurez besoin à minima :
     - d'une ou plusieurs salles
