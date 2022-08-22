@@ -14,21 +14,16 @@ Ce document s’adresse aux équipes enseignantes et de direction dont les étab
 <u>Rappel</u><br />
 Tout est fait pour que la charge de travail du ou des organisteurs soit la plus légère possible. Documents, guides, supports, modèles..., tout est fourni (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/) et la suite de ce document).
 
-### Inscription de l'établissement
-L'inscription se fait sur le [site](https://www.nuitducode.net) de la **Nuit du c0de**. Les paramètres de connexion alors créés permettent d'accéder à un espace de gestion de l'événement (suivi de l'organisation, ressources, interface pour enregistrer et évaluer les jeux...).
+* <h3>Inscription de l'établissement</h3><br />L'inscription se fait sur le [site](https://www.nuitducode.net) de la **Nuit du c0de**. Les paramètres de connexion alors créés permettent d'accéder à un espace de gestion de l'événement (suivi de l'organisation, ressources, interface pour enregistrer et évaluer les jeux...).
 
-### Date de la Nuit du c0de
-Ce choix de la date n'est pas urgent. Il peut se faire en début ou milieu de deuxième trimestre en concertation direction. Cette date doit cependant être communiquée suffisamement tôt afin de laisser du temps aux organisteurs et de permettre aux familles de s'organiser (surtout si elle tombe un samedi).
+* <h3>Date de la Nuit du c0de</h3><br />Ce choix de la date n'est pas urgent. Il peut se faire en début ou milieu de deuxième trimestre en concertation direction. Cette date doit cependant être communiquée suffisamement tôt afin de laisser du temps aux organisteurs et de permettre aux familles de s'organiser (surtout si elle tombe un samedi).
 
-### Budget
-Le budget nécessaire pour organiser la **Nuit du c0de** au sein d'un établissement peut être quasi nul. La nourriture et les boissons peuvent être pris en charge par les familles et il n'est pas obligatoire de prévoir des prix. Un diplôme imprimé et une petite cérémonie peuvent suffire. Mais il est aussi possible, si le budget le permet, de prévoir des commandes de pizzas, des gâteaux, des "goodies" (autocollants et badges par exemple), des récompenses...
+* <h3>Budget</h3><br />Le budget nécessaire pour organiser la **Nuit du c0de** au sein d'un établissement peut être quasi nul. La nourriture et les boissons peuvent être pris en charge par les familles et il n'est pas obligatoire de prévoir des prix. Un diplôme imprimé et une petite cérémonie peuvent suffire. Mais il est aussi possible, si le budget le permet, de prévoir des commandes de pizzas, des gâteaux, des "goodies" (autocollants et badges par exemple), des récompenses...
 
-### Salles et équipement
-Pour organiser la **Nuit du c0de** dans votre établissement, vous aurez besoin à minima :
-
-* d'une ou plusieurs salles
-* d'ordinateurs fixes ou portables ou de tablettes (un appareil ou plus par équipe)
-* d'un espace pour la nourriture et les boissons
+* <h3>Salles et équipement</h3><br />Pour organiser la **Nuit du c0de** dans votre établissement, vous aurez besoin à minima :
+  - d'une ou plusieurs salles
+  - d'ordinateurs fixes ou portables ou de tablettes (un appareil ou plus par équipe)
+  - d'un espace pour la nourriture et les boissons
 
 ### Préparation des élèves
 La **Nuit du c0de** est avant tout une fête et un jeu. Et pour que les élèves puissent pleinement en profiter, il est préférable qu’ils soient préparés à la nature de l’événement. L’équipe de la **Nuit du c0de** met à votre disposition des ressources [Scratch](https://nuitducode.github.io/DOCUMENTATION/SCRATCH/01-introduction/) et [Python](https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/) pour organiser des entraînements. Il est important que les élèves participants puissent s’entraîner un minimum quelles que soient les modalités (en classe, en atelier périscolaire, à la maison, en temps libre ou limité, avec des contraintes précises ou de façon totalement autonome). La **Nuit du c0de** se joue en équipes (de 2 ou 3 élèves) et cela demande aux élèves des qualités de collaboration et d’organisation. Cela nécessite donc un peu de préparation.
