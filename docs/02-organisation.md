@@ -53,7 +53,7 @@ La préparation des élèves peut aussi se faire dans le cadre des programmes de
 ## POUR LE JOUR J
 A quelques jours de la Nuit du c0de, des vérifications s'imposent :
 
-* **Vérifier les Salles**
+* **Vérifier les salles**
 * **Vérifier l'équipement informatique**
 * **Faire le point avec l'équipe d'encadrement**
 * **Vérifier que les documents à distribuer aux équipes sont imprimés** (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/))
