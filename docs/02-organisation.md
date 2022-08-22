@@ -5,8 +5,7 @@ hide:
 
 # ORGANISATION
 
-Ce document s’adresse aux équipes enseignantes et de direction dont les établissements participeront à la **Nuit du c0de**. Le Lycée Français International de Tokyo, organisateur de l’événement, se charge de l’élaboration et de la diffusion de tous les documents nécessaires à la mise en place de ce marathon de programmation Scratch et Python. Cependant, chaque établissement doit s’organiser un minimum pour pouvoir proposer cet événement à ses élèves.
-L’épreuve dure 6 heures (ou moins pour élèves de cycle 3). C’est long et cela nécessite une organisation adaptée dans votre établissement : journée banalisée, organisation durant le week-end ou autre (il n’est pas nécessaire que cela se passe la nuit !). Il faut le prévoir longtemps à l'avance et plusieurs éléments sont à prendre en compte :
+Ce document s’adresse aux équipes enseignantes et de direction dont les établissements participeront à la **Nuit du c0de**. Le Lycée Français International de Tokyo, organisateur de l’événement, se charge de l’élaboration et de la diffusion de tous les documents nécessaires à la mise en place de ce marathon de programmation Scratch et Python. L’événement dure 6 heures (ou moins pour élèves de cycle 3). Pour pouvoir l'organiser dans de bonnes conditions, plusieurs éléments sont à prendre en compte.
 
 ## TÂCHES PRIORITAIRES
 
@@ -57,14 +56,18 @@ A quelques jours de la Nuit du c0de, des vérifications s'imposent :
 * **Vérifier les Salles**
 * **Vérifier l'équipement informatique**
 * **Faire lepoint avec l'équipe d'encadrement**
-* **Imprimer les document à distribuer aux équipes** voir ressroouce
+* **Imprimer les documents à distribuer aux équipes** (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/))
 * **S'assurer Nourriture et boissons**
-* **Évaluation des jeux**<br />Prévoir un temps pour le test et l’évaluation de tous les jeux créés. Chaque établissement doit sélectionner ses équipes championnes et il est important d’associer les élèves dans cette sélection. Cela peut se faire tout de suite après l’épreuve, lors d’un autre moment banalisé, à la maison... Cela dépend du nombre d’équipes participantes dans votre établissement. L'évaluation des jeux se fera via le site.
 
-D’autres éléments peuvent être pris en compte :
+Et pour D’autres éléments peuvent être pris en compte :
 
 * **Prévoir les "Goodies" / récompenses**
-* **Confirmer la presence d'intervenants**
+* **Confirmer la présence d'intervenants**
+
+
+
+## ÉVALUATION DES JEUX
+Prévoir un temps pour l’évaluation de tous les jeux créés pendant la **Nuit du c0de**. Chaque établissement doit sélectionner ses équipes championnes. Il est important d’associer les élèves dans cette sélection. Cela peut se faire tout de suite après l’épreuve, lors d’un autre moment banalisé, à la maison... Cela dépend du nombre d’équipes participantes dans votre établissement. L'évaluation des jeux se fera via le site.
 
 
 ## FEUILLE DE ROUTE & RESSOURCES
@@ -81,12 +84,11 @@ Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas d
 | Prévoir nourriture et boissons      | avril / mai 2023                                                      | organisateur(s) / équipes enseignantes / direction / familles |                                                                                                                         |
 | Choisir les salles                  | avril / mai 2023                                                      | organisateur(s) / direction                                   |                                                                                                                         |                                                                                  |
 | Préparer le jour J                  | mai 2023                                                              | organisateur(s) / équipes enseignantes / direction / familles | :material-download: documents "Règles et conseils" / "Carnet de bord"  <br /><small>disponibles prochainement</small>   |                                                                                 |                                                                                                                                     |                                                                                  |
+| Évaluer les jeux                    | mai 2023                                                              | organisateur(s) / équipes enseignantes / élèves               | [www.nuitducode.net](https://www.nuitducode.net)                                                                        |                                                                                                                                     |                                                                                  |
 | Organiser une remise de diplomes    | à la fin de la Nuit du c0de ou quelques jours plus tard               | organisateur(s) / équipes enseignantes / direction / familles | :material-download: modèles de diplomes  <br /><small>disponibles prochainement</small>                                 |
 
 ## UN EXEMPLE D’ORGANISATION
-Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux points concernant l'organisation de la **Nuit du c0de** au Lycée Français International de Tokyo :
-
-* Le Lycée Français International de Tokyo accueillera les élèves du Lycée Français International de Kyoto et d'une école japonaise locale.
+Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux points concernant l'organisation de la **Nuit du c0de** au Lycée Français International de Tokyo : Le Lycée Français International de Tokyo accueillera les élèves du Lycée Français International de Kyoto et d'une école japonaise locale. 
 * Deux ou trois intervenants extérieurs viendront faire de courtes présentations.
 * Chaque élève sera équipé d'un Chromebook.
 * L'établissement sera décoré par des élèves du primaire et du secondaire (thèmes pixel-art et rétro-gaming).
