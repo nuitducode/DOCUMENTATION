@@ -85,12 +85,13 @@ Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas d
 | Organiser une remise de diplomes    | à la fin de la Nuit du c0de ou quelques jours plus tard               | organisateur(s) / équipes enseignantes / direction / familles | :material-download: modèles de diplomes  <br /><small>disponibles prochainement</small>                                 |
 
 ## UN EXEMPLE D’ORGANISATION
-Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux points concernant l'organisation de la **Nuit du c0de** au Lycée Français International de Tokyo : Le Lycée Français International de Tokyo accueillera les élèves du Lycée Français International de Kyoto et d'une école japonaise locale. 
+Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux points concernant l'organisation de la **Nuit du c0de** au Lycée Français International de Tokyo : 
+* Le Lycée Français International de Tokyo accueillera les élèves du Lycée Français International de Kyoto et d'une école japonaise locale. 
 * Deux ou trois intervenants extérieurs viendront faire de courtes présentations.
 * Chaque élève sera équipé d'un Chromebook.
 * L'établissement sera décoré par des élèves du primaire et du secondaire (thèmes pixel-art et rétro-gaming).
 * Un buffet (pizzas, snacks variés et boissons) sera proposé durant l’événement.
-* Les jeux réalisés seront testés et évalués tout de suite après l’épreuve (nous ferons une pause de 30 minutes avant). Le vote se fera via le site par les élèves et des enseignants.
+* Les jeux réalisés seront testés et évalués par les élèves et des enseignants tout de suite après l’épreuve (nous ferons une pause de 30 minutes avant).
 * Une remise de prix se fera dans la foulée pour les meilleures équipes des différentes catégories.
 
 ## NOUS COMPTONS SUR VOUS !
