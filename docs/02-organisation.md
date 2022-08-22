@@ -86,6 +86,7 @@ Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas d
 
 ## UN EXEMPLE D’ORGANISATION
 Attention, il s’agit bien d’un exemple, et non pas d’un modèle. Voici les principaux points concernant l'organisation de la **Nuit du c0de** au Lycée Français International de Tokyo : 
+
 * Le Lycée Français International de Tokyo accueillera les élèves du Lycée Français International de Kyoto et d'une école japonaise locale. 
 * Deux ou trois intervenants extérieurs viendront faire de courtes présentations.
 * Chaque élève sera équipé d'un Chromebook.
