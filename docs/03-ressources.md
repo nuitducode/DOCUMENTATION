@@ -12,14 +12,14 @@ hide:
 
 Pour la communication ou pour créer des autocollants, des t-shirts, des tasses...
 
-* NDC : [png](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_ndc.png) - [svg](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_ndc.svg)
-* Scratch : [png](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch.png) - [svg](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch.svg)
-* Python : [png](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_python.png) - [svg](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_python.svg)
-* Scratch & Python : [png](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch-python.png) - [svg](https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch-python.svg)
+* NDC : [png](https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/nuitducode_logo_ndc.png) - [svg](https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/nuitducode_logo_ndc.svg)
+* Scratch : [png](https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/nuitducode_logo_scratch.png) - [svg](https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/nuitducode_logo_scratch.svg)
+* Python : [png](https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/nuitducode_logo_python.png) - [svg](https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/nuitducode_logo_python.svg)
+* Scratch & Python : [png](https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/nuitducode_logo_scratch-python.png) - [svg](https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/nuitducode_logo_scratch-python.svg)
 
-<img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_ndc.png" width="150" /> <img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch.png" width="150" /> <img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_python.png" width="150" />
+<img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/nuitducode_logo_ndc.png" width="150" /> <img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/nuitducode_logo_scratch.png" width="150" /> <img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/nuitducode_logo_python.png" width="150" />
 <br />
-<img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/logos/nuitducode_logo_scratch-python.png" width="300" />
+<img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/nuitducode_logo_scratch-python.png" width="300" />
 
 
 ## AFFICHES
@@ -37,4 +37,4 @@ Plusieurs versions sont proposées:
 
 En plaçant l'image en fond de page, vous pouvez utiliser le logiciel de traitement de texte ou le logiciel de traitement d'images de votre choix pour compléter facilement les informations (date, lieux...).
 
-<img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/affiches/Affiche_Nuit_du_c0de_2022-portrait-1750x2500.png" width="350" /> <img src="https://raw.githubusercontent.com/nuitducode/ORGANISATION/main/affiches/Affiche_Nuit_du_c0de_2022-paysage-2500x1750.png" width="500" />
+<img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/affiches/Affiche_Nuit_du_c0de_2022-portrait-1750x2500.png" width="350" /> <img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/affiches/Affiche_Nuit_du_c0de_2022-paysage-2500x1750.png" width="500" />
