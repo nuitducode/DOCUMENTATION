@@ -8,7 +8,7 @@ hide:
 
 ## LOGOS
 
-*remarques : les versions 2023 sont en cours de création*
+<small><i>remarques : les versions 2023 sont en cours de création</i></small>
 
 Pour la communication ou pour créer des autocollants, des t-shirts, des tasses...
 
@@ -24,7 +24,7 @@ Pour la communication ou pour créer des autocollants, des t-shirts, des tasses.
 
 ## AFFICHES
 
-*remarques : les versions 2023 sont en cours de création*
+<small><i>remarques : les versions 2023 sont en cours de création</i></small>
 
 Plusieurs versions sont proposées:
 
