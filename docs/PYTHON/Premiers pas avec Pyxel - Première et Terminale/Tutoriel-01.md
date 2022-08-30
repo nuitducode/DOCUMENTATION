@@ -65,7 +65,7 @@ def draw():
 pyxel.run(update, draw)
 ```
 
-<iframe src="https://www.pyxelstudio.net/embed/?s=[https://raw.githubusercontent.com/pyxel-studio/pyxelstudio/main/pyxel_01.py](https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/docs/PYTHON/Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/code/tutoriel-01-1.py)" width="100%" height="620" frameborder="0"></iframe>
+<iframe src="https://www.pyxelstudio.net/embed/?s=https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/docs/PYTHON/Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/code/tutoriel-01-1.py" width="100%" height="620" frameborder="0"></iframe>
 
 ## 2. Terminale
 
