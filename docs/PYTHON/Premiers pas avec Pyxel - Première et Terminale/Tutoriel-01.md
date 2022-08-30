@@ -125,7 +125,7 @@ class Jeu:
 Jeu()
 ```
 
-<iframe src="https://www.pyxelstudio.net/embed/?s=https://raw.githubusercontent.com/pyxel-studio/pyxelstudio/main/pyxel_01.py" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="https://www.pyxelstudio.net/embed/?s=https://raw.githubusercontent.com/pyxel-studio/pyxelstudio/main/pyxel_01.py" width="100%" height="650" frameborder="0"></iframe>
 
 ---
 
