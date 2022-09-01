@@ -67,6 +67,8 @@ pyxel.run(update, draw)
 
 <iframe src="https://www.pyxelstudio.net/embed/?s=https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/docs/PYTHON/code/tutoriel-01-1.py" width="100%" height="620" frameborder="0"></iframe>
 
+<iframe src="https://www.pyxelstudio.net/play/?s=https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/docs/PYTHON/code/labyrinthe.py" width="100%" height="620" frameborder="0"></iframe>
+
 ## 2. Terminale
 
 > Programmation orientée objet
