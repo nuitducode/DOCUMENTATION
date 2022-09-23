@@ -6,8 +6,9 @@
 <tr>
 <td>
 
-<a href="https://www.youtube.com/watch?v=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a>
-
+<a href="https://www.youtube.com/watch?v=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a><br />
+[s'entrainer](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM){ .md-button }
+ 
 </td>
 <td>
 
