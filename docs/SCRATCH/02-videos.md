@@ -2,16 +2,13 @@
 
 > 18 tutoriels au format vidéo
 
-[s'entrainer](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM){ .md-button }
-
 <table cellpadding="5">
 <tr>
 <td>
 <center>
  
 <a href="https://www.youtube.com/watch?v=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a><br />
- 
-[s'entrainer](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM){ .md-button }
+<a href="https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM>s'entrainer</a>
  
 </center> 
 </td>
