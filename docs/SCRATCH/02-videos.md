@@ -14,23 +14,17 @@
 
 <div class="grid cards" markdown>
 
--   [![Image title](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
+- [![Image title](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
 
-    ---
+  [:octicons-arrow-right-24: s'entraîner](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
 
-    [:octicons-arrow-right-24: s'entraîner](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
+- [![Image title](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
 
--   [![Image title](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
+  [:octicons-arrow-right-24: s'entraîner](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
 
-    ---
+- [![Image title](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
 
-    [:octicons-arrow-right-24: s'entraîner](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
-
--   [![Image title](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
-
-    ---
-
-    [:octicons-arrow-right-24: s'entraîner](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
+  [:octicons-arrow-right-24: s'entraîner](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
 
 </div>
 
