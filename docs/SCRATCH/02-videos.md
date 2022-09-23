@@ -2,43 +2,13 @@
 
 > 18 tutoriels au format vidéo
 
-<div class="grid cards" markdown>
-
-- :fontawesome-brands-html5: __HTML__ for content and structure
-- :fontawesome-brands-js: __JavaScript__ for interactivity
-- :fontawesome-brands-css3: __CSS__ for text running out of boxes
-- :fontawesome-brands-internet-explorer: __Internet Explorer__ ... huh?
-
-</div>
-
-
-<div class="grid cards" markdown>
-
-- [![Image title](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
-
-  [:octicons-arrow-right-24: s'entraîner](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
-
-- [![Image title](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
-
-  [:octicons-arrow-right-24: s'entraîner](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
-
-- [![Image title](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
-
-  [:octicons-arrow-right-24: s'entraîner](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
-
-</div>
-
-
-
 <table cellpadding="5">
 <tr>
 <td>
-<center>
  
 <a href="https://www.youtube.com/watch?v=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a><br />
-<a href="https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM">s'entrainer</a>
+:octicons-arrow-right-24: <a href="https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM">s'entrainer</a>
  
-</center> 
 </td>
 <td>
 
