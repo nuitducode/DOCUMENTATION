@@ -5,21 +5,23 @@
 
 <div class="grid cards" markdown>
 
--   <a href="https://www.youtube.com/watch?v=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a>
+-   [![Image title](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
 
     ---
 
-    [:octicons-arrow-right-24: s'entrainer](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
+    [:octicons-arrow-right-24: s'entraîner](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
 
--   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+-   [![Image title](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
 
     ---
 
-    Focus on your content and generate a responsive and searchable static site
+    [:octicons-arrow-right-24: s'entraîner](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
 
-    [:octicons-arrow-right-24: Reference](#)
+-   [![Image title](https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg)](https://www.youtube.com/watch?v=a6WRTBb8CkM)
 
--   :material-format-font:{ .lg .middle } __Made to measure__
+    ---
+
+    [:octicons-arrow-right-24: s'entraîner](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
 
 </div>
 
