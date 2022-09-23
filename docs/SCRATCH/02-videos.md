@@ -2,6 +2,29 @@
 
 > 18 tutoriels au format vidéo
 
+
+<div class="grid cards" markdown>
+
+-   <a href="https://www.youtube.com/watch?v=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a>
+
+    ---
+
+    [:octicons-arrow-right-24: s'entrainer](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM")
+
+-   :fontawesome-brands-markdown:{ .lg .middle } __It's just Markdown__
+
+    ---
+
+    Focus on your content and generate a responsive and searchable static site
+
+    [:octicons-arrow-right-24: Reference](#)
+
+-   :material-format-font:{ .lg .middle } __Made to measure__
+
+</div>
+
+
+
 <table cellpadding="5">
 <tr>
 <td>
