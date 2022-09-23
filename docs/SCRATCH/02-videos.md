@@ -7,20 +7,20 @@
 <td>
  
 <a href="https://www.youtube.com/watch?v=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a><br />
-:octicons-arrow-right-24: <a href="https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM">s'entrainer</a>
+&rarr; <a href="https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM">s'entrainer</a>
  
 </td>
 <td>
 
 <a href="https://www.youtube.com/watch?v=3PbXyzQQOYk"><img src="https://img.youtube.com/vi/3PbXyzQQOYk/0.jpg" /></a><br />
-:octicons-arrow-right-24: <a href="https://www.nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk">s'entrainer</a>
+&rarr; <a href="https://www.nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk">s'entrainer</a>
 
 
 </td>
 <td>
 
 <a href="https://www.youtube.com/watch?v=8oSKtPQNDr8"><img src="https://img.youtube.com/vi/8oSKtPQNDr8/0.jpg" /></a><br />
-:octicons-arrow-right-24: <a href="https://www.nuitducode.net/atelier-scratch?yt=8oSKtPQNDr8">s'entrainer</a>
+&rarr; <a href="https://www.nuitducode.net/atelier-scratch?yt=8oSKtPQNDr8">s'entrainer</a>
 
 </td>
 </tr>
