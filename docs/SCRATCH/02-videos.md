@@ -2,6 +2,8 @@
 
 > 18 tutoriels au format vidéo
 
+[s'entrainer](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM){ .md-button }
+
 <table cellpadding="5">
 <tr>
 <td>
