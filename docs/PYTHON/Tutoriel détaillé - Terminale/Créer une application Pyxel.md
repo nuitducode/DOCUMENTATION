@@ -199,8 +199,8 @@ pyxel.blt(self.x, self.y, 0, 0, 8 + 8*coef, 8, 8)
 Il est possible de rajouter des sons et des musiques au jeu.
 Ces derniers peuvent être créés à partir de l’éditeur de ressources.
 
-![alt text](https://github.com/kitao/pyxel/raw/main/doc/images/sound_editor.gif)
-![alt text](https://github.com/kitao/pyxel/raw/main/doc/images/music_editor.gif)
+![alt text](https://github.com/kitao/pyxel/raw/main/docs/images/sound_editor.gif)
+![alt text](https://github.com/kitao/pyxel/raw/main/docs/images/music_editor.gif)
 
 On peut charger les fichiers ressources grâce à la méthode load(). Le fichier peut être chargé en entier, ou partiellement. Dans ce cas on spécifie quelles parties chargées.
 

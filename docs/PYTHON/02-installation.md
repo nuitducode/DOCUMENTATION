@@ -1,6 +1,6 @@
 # INSTALLATION
 
-Voir la section "[Comment installer"](https://github.com/kitao/pyxel/blob/main/doc/README.fr.md#comment-installer) sur la page de [Pyxel](https://github.com/kitao/pyxel/blob/main/doc/README.fr.md).
+Voir la section "[Comment installer"](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md#comment-installer) sur la page de [Pyxel](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md).
 
 Pour Windows:
 
