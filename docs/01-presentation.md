@@ -33,7 +33,7 @@ Chaque établissement peut inscrire autant d'élèves qu'il le souhaite, il n'y 
 Pour se faire une idée :
 
 * [Vidéos](https://www.nuitducode.net/editions-en-video) des éditions précédentes
-* [Univers de jeu](https://scratch.mit.edu/mystuff/#galleries) des éditions précédentes
+* [Univers de jeu](https://scratch.mit.edu/users/nuit-du-code/) des éditions précédentes
 * [Compte Twitter](https://twitter.com/nuitducode) de la **Nuit du c0de** (informations, images ,vidéos...)
 
 La participation d'un établissement peut être l'occasion de la création d'un atelier de programmation pour les élèves. Les activités de programmation au collège, en mathématiques ou en technologie, peuvent aussi être orientées « jeu » (gestion des déplacements, utilisation de variables pour compter les points...). De même, pour Python, la préparation à la **Nuit du c0de** peut être intégrée aux cours de NSI (boucles, listes, variables, fonctions, programmation orientée objet... ). Les tutoriels proposés pour préparer la **Nuit du c0de** peuvent être modifiés et servir de supports de cours.
