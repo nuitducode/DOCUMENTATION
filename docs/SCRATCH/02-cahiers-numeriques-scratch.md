@@ -1,4 +1,6 @@
-# TUTORIELS VIDÉO
+# TUTORIELS - VIDÉOS + ENVIRONNEMENT SCRATCH
+
+## Entraînement en autonomie
 
 > 18 tutoriels au format vidéo
 
@@ -6,8 +8,7 @@
 <tr>
 <td>
  
-<a href="https://www.youtube.com/watch?v=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a><br />
-&rarr; <a href="https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM">s'entrainer</a>
+<a href="[https://www.youtube.com/watch?v=a6WRTBb8CkM](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM)"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a>
  
 </td>
 <td>
