@@ -2,7 +2,11 @@
 
 ## Entraînement en autonomie
 
-> 18 tutoriels au format vidéo
+> 18 tutoriels au format "cahier numérique" : vidéo + environnement Scratch
+> 
+> Les élèves ont ainsi sur une même page la vidéo sur la partie gauche et l'environnement Scratch sur la partie droite. Il leur est alors possible de mettre directement en application ce qu'ils voient sur la vidéo. Ceci permet un entraînement en autonomie. Il suffit de fournir les liens aux élèves.
+> 
+> Si vous souhaitez créer vous même des cahier numériques: [https://www.cahiernum.net](Cahiers Numériques)
 
 <table cellpadding="5">
 <tr>
