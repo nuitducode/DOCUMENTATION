@@ -1,6 +1,8 @@
 # EXERCICES D'ENTRAÎNEMENT OU DE SÉLECTION
 
 > 4 exercices complets
+> 
+> Fiches d'entraînement créés par [Jean-Yve Labouche](https://www.monclasseurdemaths.fr)
 
 ## 🕹️ Duel dans le cosmos
 
