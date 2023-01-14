@@ -17,15 +17,12 @@
 </td>
 <td>
 
-<a href="https://www.youtube.com/watch?v=3PbXyzQQOYk"><img src="https://img.youtube.com/vi/3PbXyzQQOYk/0.jpg" /></a><br />
-&rarr; <a href="https://www.nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk">s'entrainer</a>
-
+<a href="https://www.nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk"><img src="https://img.youtube.com/vi/3PbXyzQQOYk/0.jpg" /></a>
 
 </td>
 <td>
 
-<a href="https://www.youtube.com/watch?v=8oSKtPQNDr8"><img src="https://img.youtube.com/vi/8oSKtPQNDr8/0.jpg" /></a><br />
-&rarr; <a href="https://www.nuitducode.net/atelier-scratch?yt=8oSKtPQNDr8">s'entrainer</a>
+<a href="https://www.nuitducode.net/atelier-scratch?yt=8oSKtPQNDr8"><img src="https://img.youtube.com/vi/8oSKtPQNDr8/0.jpg" /></a>
 
 </td>
 </tr>
@@ -33,14 +30,12 @@
 <tr>
 <td>
 
-<a href="https://www.youtube.com/watch?v=xRiZD5wsh0k"><img src="https://img.youtube.com/vi/xRiZD5wsh0k/0.jpg" /></a><br />
-&rarr; <a href="https://www.nuitducode.net/atelier-scratch?yt=xRiZD5wsh0k">s'entrainer</a>
+<a href="https://www.nuitducode.net/atelier-scratch?yt=xRiZD5wsh0k"><img src="https://img.youtube.com/vi/xRiZD5wsh0k/0.jpg" /></a
 
 </td>
 <td>
 
-<a href="https://www.youtube.com/watch?v=O1tDjDGwBtE"><img src="https://img.youtube.com/vi/O1tDjDGwBtE/0.jpg" /></a><br />
-&rarr; <a href="https://www.nuitducode.net/atelier-scratch?yt=O1tDjDGwBtE">s'entrainer</a>
+<a href="https://www.nuitducode.net/atelier-scratch?yt=O1tDjDGwBtE"><img src="https://img.youtube.com/vi/O1tDjDGwBtE/0.jpg" /></a>
 
 </td>
 <td>
