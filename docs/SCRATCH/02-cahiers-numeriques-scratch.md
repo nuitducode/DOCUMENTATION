@@ -4,11 +4,11 @@
 
 > 18 tutoriels au format "cahier numérique" : vidéo + environnement Scratch
 > 
-> Vidéos créés par [Jean-Yve Labouche](https://www.monclasseurdemaths.fr/)
-> 
 > Les élèves ont ainsi sur une même page la vidéo sur la partie gauche et l'environnement Scratch sur la partie droite. Il leur est alors possible de mettre directement en application ce qu'ils voient sur la vidéo. Ceci permet un entraînement en autonomie. Il suffit de fournir les liens aux élèves.
 > 
 > Si vous souhaitez créer vous même des cahier numériques: <a href="https://www.cahiernum.net" target="_blank">Cahiers Numériques</a>
+>
+> Vidéos créés par [Jean-Yve Labouche](https://www.monclasseurdemaths.fr/)
 
 * 1 - Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM)
 * 2 - Déplacer un lutin avec les touches du clavier (méthode 2) : [nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk](https://www.nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk)
