@@ -9,16 +9,16 @@
 > Si vous souhaitez créer vous même des cahier numériques: <a href="https://www.cahiernum.net" target="_blank">Cahiers Numériques</a>
 
 * Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM)
-* Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk](https://www.nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk)
-* Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=8oSKtPQNDr8](https://www.nuitducode.net/atelier-scratch?yt=8oSKtPQNDr8)
-* Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=xRiZD5wsh0k](https://www.nuitducode.net/atelier-scratch?yt=xRiZD5wsh0k)
-* Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=O1tDjDGwBtE](https://www.nuitducode.net/atelier-scratch?yt=O1tDjDGwBtE)
-* Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=nINGvQVP_Og](https://www.nuitducode.net/atelier-scratch?yt=nINGvQVP_Og)
-* Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=P22s9A9U9lM](https://www.nuitducode.net/atelier-scratch?yt=P22s9A9U9lM)
-* Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=jtVMnEZDDes](https://www.nuitducode.net/atelier-scratch?yt=jtVMnEZDDes)
-* Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=v37gPSxlPW4](https://www.nuitducode.net/atelier-scratch?yt=v37gPSxlPW4)
-* Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=P7ORrWLlGsA](https://www.nuitducode.net/atelier-scratch?yt=P7ORrWLlGsA)
-* Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=n1NCXKKrtq0](https://www.nuitducode.net/atelier-scratch?yt=n1NCXKKrtq0)
+* Déplacer un lutin avec les touches du clavier (méthode 2) : [nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk](https://www.nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk)
+* Bien commencer son programme: l'initialisation : [nuitducode.net/atelier-scratch?yt=8oSKtPQNDr8](https://www.nuitducode.net/atelier-scratch?yt=8oSKtPQNDr8)
+* Déplacer un lutin automatiquement vers un autre lutin : [nuitducode.net/atelier-scratch?yt=xRiZD5wsh0k](https://www.nuitducode.net/atelier-scratch?yt=xRiZD5wsh0k)
+* Obtenir des déplacements plus fluides : [nuitducode.net/atelier-scratch?yt=O1tDjDGwBtE](https://www.nuitducode.net/atelier-scratch?yt=O1tDjDGwBtE)
+* Ajouter des interactions entre les lutins : [nuitducode.net/atelier-scratch?yt=nINGvQVP_Og](https://www.nuitducode.net/atelier-scratch?yt=nINGvQVP_Og)
+* Ajouter des interactions entre un luton et l'arrière plan : [nuitducode.net/atelier-scratch?yt=P22s9A9U9lM](https://www.nuitducode.net/atelier-scratch?yt=P22s9A9U9lM)
+* Faire communiquer des lutins : [nuitducode.net/atelier-scratch?yt=jtVMnEZDDes](https://www.nuitducode.net/atelier-scratch?yt=jtVMnEZDDes)
+* Utiliser le chronomètre : [nuitducode.net/atelier-scratch?yt=v37gPSxlPW4](https://www.nuitducode.net/atelier-scratch?yt=v37gPSxlPW4)
+* Créer un tir (utilisation des clones) : [nuitducode.net/atelier-scratch?yt=P7ORrWLlGsA](https://www.nuitducode.net/atelier-scratch?yt=P7ORrWLlGsA)
+* Faire sauter un lutin : [nuitducode.net/atelier-scratch?yt=n1NCXKKrtq0](https://www.nuitducode.net/atelier-scratch?yt=n1NCXKKrtq0)
 
 
 <table cellpadding="5">
