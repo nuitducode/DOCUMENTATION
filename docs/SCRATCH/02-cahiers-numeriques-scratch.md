@@ -8,17 +8,24 @@
 > 
 > Si vous souhaitez créer vous même des cahier numériques: <a href="https://www.cahiernum.net" target="_blank">Cahiers Numériques</a>
 
-* Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM)
-* Déplacer un lutin avec les touches du clavier (méthode 2) : [nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk](https://www.nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk)
-* Bien commencer son programme: l'initialisation : [nuitducode.net/atelier-scratch?yt=8oSKtPQNDr8](https://www.nuitducode.net/atelier-scratch?yt=8oSKtPQNDr8)
-* Déplacer un lutin automatiquement vers un autre lutin : [nuitducode.net/atelier-scratch?yt=xRiZD5wsh0k](https://www.nuitducode.net/atelier-scratch?yt=xRiZD5wsh0k)
-* Obtenir des déplacements plus fluides : [nuitducode.net/atelier-scratch?yt=O1tDjDGwBtE](https://www.nuitducode.net/atelier-scratch?yt=O1tDjDGwBtE)
-* Ajouter des interactions entre les lutins : [nuitducode.net/atelier-scratch?yt=nINGvQVP_Og](https://www.nuitducode.net/atelier-scratch?yt=nINGvQVP_Og)
-* Ajouter des interactions entre un luton et l'arrière plan : [nuitducode.net/atelier-scratch?yt=P22s9A9U9lM](https://www.nuitducode.net/atelier-scratch?yt=P22s9A9U9lM)
-* Faire communiquer des lutins : [nuitducode.net/atelier-scratch?yt=jtVMnEZDDes](https://www.nuitducode.net/atelier-scratch?yt=jtVMnEZDDes)
-* Utiliser le chronomètre : [nuitducode.net/atelier-scratch?yt=v37gPSxlPW4](https://www.nuitducode.net/atelier-scratch?yt=v37gPSxlPW4)
-* Créer un tir (utilisation des clones) : [nuitducode.net/atelier-scratch?yt=P7ORrWLlGsA](https://www.nuitducode.net/atelier-scratch?yt=P7ORrWLlGsA)
-* Faire sauter un lutin : [nuitducode.net/atelier-scratch?yt=n1NCXKKrtq0](https://www.nuitducode.net/atelier-scratch?yt=n1NCXKKrtq0)
+* 1. Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM)
+* 2. Déplacer un lutin avec les touches du clavier (méthode 2) : [nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk](https://www.nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk)
+* 3. Bien commencer son programme: l'initialisation : [nuitducode.net/atelier-scratch?yt=8oSKtPQNDr8](https://www.nuitducode.net/atelier-scratch?yt=8oSKtPQNDr8)
+* 4. Déplacer un lutin automatiquement vers un autre lutin : [nuitducode.net/atelier-scratch?yt=xRiZD5wsh0k](https://www.nuitducode.net/atelier-scratch?yt=xRiZD5wsh0k)
+* 5. Obtenir des déplacements plus fluides : [nuitducode.net/atelier-scratch?yt=O1tDjDGwBtE](https://www.nuitducode.net/atelier-scratch?yt=O1tDjDGwBtE)
+* 6. Ajouter des interactions entre les lutins : [nuitducode.net/atelier-scratch?yt=nINGvQVP_Og](https://www.nuitducode.net/atelier-scratch?yt=nINGvQVP_Og)
+* 7. Ajouter des interactions entre un luton et l'arrière plan : [nuitducode.net/atelier-scratch?yt=P22s9A9U9lM](https://www.nuitducode.net/atelier-scratch?yt=P22s9A9U9lM)
+* 8. Faire communiquer des lutins : [nuitducode.net/atelier-scratch?yt=jtVMnEZDDes](https://www.nuitducode.net/atelier-scratch?yt=jtVMnEZDDes)
+* 9. Utiliser le chronomètre : [nuitducode.net/atelier-scratch?yt=v37gPSxlPW4](https://www.nuitducode.net/atelier-scratch?yt=v37gPSxlPW4)
+* 10. Créer un tir (utilisation des clones) : [nuitducode.net/atelier-scratch?yt=P7ORrWLlGsA](https://www.nuitducode.net/atelier-scratch?yt=P7ORrWLlGsA)
+* 11. Faire sauter un lutin : [nuitducode.net/atelier-scratch?yt=n1NCXKKrtq0](https://www.nuitducode.net/atelier-scratch?yt=n1NCXKKrtq0)
+* 12. Faire sauter un lutin: version améliorée : [nuitducode.net/atelier-scratch?yt=DZYkdUrQegU](https://www.nuitducode.net/atelier-scratch?yt=DZYkdUrQegU)
+* 13. Déplacements plus réalistes (pas d'arrêts brusques) : [nuitducode.net/atelier-scratch?yt=5wrleesBQCU](https://www.nuitducode.net/atelier-scratch?yt=5wrleesBQCU)
+* 14. Créer une trajectoire parabolique (lancer de ballon, tir...) : [nuitducode.net/atelier-scratch?yt=MK4F1E3_nEY](https://www.nuitducode.net/atelier-scratch?yt=MK4F1E3_nEY)
+* 15. Faire défiler l'arrière plan (scrolling) : [nuitducode.net/atelier-scratch?yt=fQZVY39WTg4](https://www.nuitducode.net/atelier-scratch?yt=fQZVY39WTg4)
+* 16. Faire défiler l'arrière plan pour donner un effet de profondeur : [nuitducode.net/atelier-scratch?yt=8VfQzEOcRd0](https://www.nuitducode.net/atelier-scratch?yt=8VfQzEOcRd0)
+* 17. Réaliser un scrolling fini sur plusieurs arrière-plans : [nuitducode.net/atelier-scratch?yt=-S4utl_quqQ](https://www.nuitducode.net/atelier-scratch?yt=-S4utl_quqQ)
+* 18. Réaliser un scrolling infini sur plusieurs arrière-plans : [nuitducode.net/atelier-scratch?yt=X669S6tAyis](https://www.nuitducode.net/atelier-scratch?yt=X669S6tAyis)
 
 
 <table cellpadding="5">
