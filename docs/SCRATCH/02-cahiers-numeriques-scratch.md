@@ -6,13 +6,13 @@
 > 
 > Les élèves ont ainsi sur une même page la vidéo sur la partie gauche et l'environnement Scratch sur la partie droite. Il leur est alors possible de mettre directement en application ce qu'ils voient sur la vidéo. Ceci permet un entraînement en autonomie. Il suffit de fournir les liens aux élèves.
 > 
-> Si vous souhaitez créer vous même des cahier numériques: [https://www.cahiernum.net](Cahiers Numériques)
+> Si vous souhaitez créer vous même des cahier numériques: <a href="https://www.cahiernum.net" target="_blank">Cahiers Numériques</a>
 
 <table cellpadding="5">
 <tr>
 <td>
  
-<a href="[https://www.youtube.com/watch?v=a6WRTBb8CkM](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM)"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a>
+<a href="https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a>
  
 </td>
 <td>
