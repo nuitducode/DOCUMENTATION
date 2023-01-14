@@ -12,7 +12,7 @@
 <tr>
 <td>
  
-<a href="https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a>
+<a href="https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM"><img src="https://img.youtube.com/vi/a6WRTBb8CkM/0.jpg" /></a><br>nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM
  
 </td>
 <td>
@@ -30,7 +30,7 @@
 <tr>
 <td>
 
-<a href="https://www.nuitducode.net/atelier-scratch?yt=xRiZD5wsh0k"><img src="https://img.youtube.com/vi/xRiZD5wsh0k/0.jpg" /></a
+<a href="https://www.nuitducode.net/atelier-scratch?yt=xRiZD5wsh0k"><img src="https://img.youtube.com/vi/xRiZD5wsh0k/0.jpg" /></a>
 
 </td>
 <td>
