@@ -95,7 +95,7 @@
 </td>
 <td>
 
-<a href="https://www.youtube.com/watch?v=DZYkdUrQegU"><img src="https://img.youtube.com/vi/DZYkdUrQegU/0.jpg" /></a>
+<a href="https://www.nuitducode.net/atelier-scratch?yt=DZYkdUrQegU"><img src="https://img.youtube.com/vi/DZYkdUrQegU/0.jpg" /></a>
 
 </td>
 </tr>
@@ -103,17 +103,17 @@
 <tr>
 <td>
 
-<a href="https://www.youtube.com/watch?v=5wrleesBQCU"><img src="https://img.youtube.com/vi/5wrleesBQCU/0.jpg" /></a>
+<a href="https://www.nuitducode.net/atelier-scratch?yt=5wrleesBQCU"><img src="https://img.youtube.com/vi/5wrleesBQCU/0.jpg" /></a>
 
 </td>
 <td>
 
-<a href="https://www.youtube.com/watch?v=MK4F1E3_nEY"><img src="https://img.youtube.com/vi/MK4F1E3_nEY/0.jpg" /></a>
+<a href="https://www.nuitducode.net/atelier-scratch?yt=MK4F1E3_nEY"><img src="https://img.youtube.com/vi/MK4F1E3_nEY/0.jpg" /></a>
 
 </td>
 <td>
 
-<a href="https://www.youtube.com/watch?v=fQZVY39WTg4"><img src="https://img.youtube.com/vi/fQZVY39WTg4/0.jpg" /></a>
+<a href="https://www.nuitducode.net/atelier-scratch?yt=fQZVY39WTg4"><img src="https://img.youtube.com/vi/fQZVY39WTg4/0.jpg" /></a>
 
 </td>
 </tr>  
@@ -121,17 +121,17 @@
 <tr>
 <td>
 
-<a href="https://www.youtube.com/watch?v=8VfQzEOcRd0"><img src="https://img.youtube.com/vi/8VfQzEOcRd0/0.jpg" /></a>
+<a href="https://www.nuitducode.net/atelier-scratch?yt=8VfQzEOcRd0"><img src="https://img.youtube.com/vi/8VfQzEOcRd0/0.jpg" /></a>
 
 </td>
 <td>
 
-<a href="https://www.youtube.com/watch?v=-S4utl_quqQ"><img src="https://img.youtube.com/vi/-S4utl_quqQ/0.jpg" /></a>
+<a href="https://www.nuitducode.net/atelier-scratch?yt=-S4utl_quqQ"><img src="https://img.youtube.com/vi/-S4utl_quqQ/0.jpg" /></a>
 
 </td>
 <td>
 
-<a href="https://www.youtube.com/watch?v=X669S6tAyis"><img src="https://img.youtube.com/vi/X669S6tAyis/0.jpg" /></a>
+<a href="https://www.nuitducode.net/atelier-scratch?yt=X669S6tAyis"><img src="https://img.youtube.com/vi/X669S6tAyis/0.jpg" /></a>
 
 </td>
 </tr>   
