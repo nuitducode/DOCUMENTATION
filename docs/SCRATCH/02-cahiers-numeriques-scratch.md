@@ -1,6 +1,6 @@
 # TUTORIELS - VIDÉOS + ENVIRONNEMENT SCRATCH
 
-**Entraînement en autonomie**
+**Entraînements en autonomie**
 
 > 18 tutoriels au format "cahier numérique" : vidéo + environnement Scratch
 > 
