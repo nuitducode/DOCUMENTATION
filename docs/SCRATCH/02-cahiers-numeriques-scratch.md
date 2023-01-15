@@ -8,7 +8,7 @@
 > 
 > Si vous souhaitez créer vous même des cahier numériques: <a href="https://www.cahiernum.net" target="_blank">Cahiers Numériques</a>
 >
-> Vidéos créés par <a href="https://www.monclasseurdemaths.fr" target="_blank">Jean-Yve Labouche</a>
+> Vidéos créées par <a href="https://www.monclasseurdemaths.fr" target="_blank">Jean-Yve Labouche</a>
 
 * 1 - Déplacer un lutin avec les touches du clavier (méthode 1) : [nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM](https://www.nuitducode.net/atelier-scratch?yt=a6WRTBb8CkM)
 * 2 - Déplacer un lutin avec les touches du clavier (méthode 2) : [nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk](https://www.nuitducode.net/atelier-scratch?yt=3PbXyzQQOYk)
