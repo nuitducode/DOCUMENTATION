@@ -2,7 +2,7 @@
 
 > 18 tutoriels au format vidéo
 > 
-> Vidéos créés par <a href="https://www.monclasseurdemaths.fr" target="_blank">Jean-Yve Labouche</a>
+> Vidéos créées par <a href="https://www.monclasseurdemaths.fr" target="_blank">Jean-Yve Labouche</a>
 
 <table cellpadding="5">
 <tr>
