@@ -2,7 +2,7 @@
 
 > 4 exercices complets
 > 
-> Fiches d'entraînement créés par <a href="https://www.monclasseurdemaths.fr" target="_blank">Jean-Yve Labouche</a>
+> Fiches d'entraînement créées par <a href="https://www.monclasseurdemaths.fr" target="_blank">Jean-Yve Labouche</a>
 
 ## 🕹️ Duel dans le cosmos
 
