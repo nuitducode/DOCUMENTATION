@@ -24,17 +24,4 @@ Pour la communication ou pour créer des autocollants, des t-shirts, des tasses.
 
 ## AFFICHES
 
-<small><i>remarques : les versions 2023 sont en cours de création</i></small>
-
-Plusieurs versions sont proposées:
-
-* [portrait 7000x10000 pixels](https://github.com/nuitducode/ORGANISATION-2023/raw/main/affiches/Affiche_Nuit_du_c0de_2022-portrait-7000x10000.png) (6,7 Mo)
-* [portrait 3500x5000 pixels](https://github.com/nuitducode/ORGANISATION-2023/raw/main/affiches/Affiche_Nuit_du_c0de_2022-portrait-3500x5000.png) (2 Mo)
-* [portrait 1750x2500 pixels](https://github.com/nuitducode/ORGANISATION-2023/raw/main/affiches/Affiche_Nuit_du_c0de_2022-portrait-1750x2500.png) (628 ko)
-* [paysage 10000x7000 pixels](https://github.com/nuitducode/ORGANISATION-2023/raw/main/affiches/Affiche_Nuit_du_c0de_2022-paysage-10000x7000.png) (6 Mo)
-* [paysage 5000x3500 pixels](https://github.com/nuitducode/ORGANISATION-2023/raw/main/affiches/Affiche_Nuit_du_c0de_2022-paysage-5000x3500.png) (1,8 ko)
-* [paysage 2500x1750 pixels](https://github.com/nuitducode/ORGANISATION-2023/raw/main/affiches/Affiche_Nuit_du_c0de_2022-paysage-2500x1750.png) (560 ko)
-
-En plaçant l'image en fond de page, vous pouvez utiliser le logiciel de traitement de texte ou le logiciel de traitement d'images de votre choix pour compléter facilement les informations (date, lieux...).
-
-<img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/affiches/Affiche_Nuit_du_c0de_2022-portrait-1750x2500.png" width="350" /> <img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/affiches/Affiche_Nuit_du_c0de_2022-paysage-2500x1750.png" width="500" />
+Voir le [générateur d'affiche](https://www.nuitducode.net/affiche-generateur)
