@@ -10,7 +10,18 @@ hide:
 
 Pour la communication ou pour créer des autocollants, des badges, des t-shirts, des tasses...
 
-<small><i>remarques : les versions 2023 sont en cours de création</i></small>
+<table>
+  <tr>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC.png" width="150" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-07.png" width="150" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Python.png" width="150" /></td>
+  </tr>
+  <tr>
+    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/2023-NDC.svg" download>svg</a></td>
+    <td><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-07.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-07.svg" download>svg</a></td>
+    <td><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/2023-Python.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Python.svg" download>svg</a></td>
+  </tr>  
+</table>
 
 
 ## AFFICHES
