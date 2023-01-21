@@ -16,8 +16,8 @@ Pour la communication ou pour créer des autocollants, des badges, des t-shirts,
     <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-07.png" width="150" /></td>
     <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-Scratch-Python.png" width="150" /></td>
     <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Python.png" width="150" /></td>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch" width="150" /></td>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch-Python" width="150" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch.png" width="150" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch-Python.png" width="150" /></td>
   </tr>
   <tr>
     <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/2023-NDC.svg" download>svg</a></td>
