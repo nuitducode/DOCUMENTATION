@@ -8,7 +8,7 @@ hide:
 
 ## VISUELS
 
-Pour la communication ou pour créer des autocollants, des t-shirts, des tasses...
+Pour la communication ou pour créer des autocollants, des badges, des t-shirts, des tasses...
 
 <small><i>remarques : les versions 2023 sont en cours de création</i></small>
 
