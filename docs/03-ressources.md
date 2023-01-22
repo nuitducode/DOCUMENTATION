@@ -9,6 +9,8 @@ hide:
 
 Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">générateur d'affiche</a>.
 
+<iframe width="560" height="350" src="https://www.tinkercad.com/embed/0oILHPnVAAE?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+
 ## VISUELS
 
 Pour la communication ou pour créer des autocollants, des badges, des t-shirts, des tasses...
