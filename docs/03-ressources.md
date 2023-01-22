@@ -11,7 +11,7 @@ Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">
 
 ## OBJETS 3D
 
-<iframe width="450" height="280" src="https://www.tinkercad.com/embed/dHCnWOxDFjM?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<iframe width="450" height="280" src="https://www.tinkercad.com/embed/dHCnWOxDFjM" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 <iframe width="450" height="280" src="https://www.tinkercad.com/embed/hBTPXYkDSH3?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
 
 ## VISUELS
