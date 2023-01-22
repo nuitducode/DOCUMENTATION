@@ -36,6 +36,8 @@ Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">
       ◾ <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-support-telephone.stl" download>support</a>
     </td>
     <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-support-telephone_1.png" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-support-telephone_2.png" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-support-telephone_3.png" /></td>
   </tr>
 </table>   
 
