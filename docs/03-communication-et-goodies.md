@@ -21,9 +21,9 @@ Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">
       <br />
       ◾ <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-porte-cles_3-lettres.stl" download>lettres</a>
     </td>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-porte-cles_1.png" style="height:100%" /></td>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-porte-cles_2.png" style="height:100%" /></td>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-porte-cles_3.png" style="height:100%" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-porte-cles_1.png" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-porte-cles_2.png" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-porte-cles_3.png" /></td>
   </tr>
 </table>
 
@@ -35,7 +35,7 @@ Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">
       <br />
       ◾ <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-support-telephone.stl" download>support</a>
     </td>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-support-telephone_1.png" style="height:100%" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-support-telephone_1.png" /></td>
   </tr>
 </table>   
 
