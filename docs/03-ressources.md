@@ -7,7 +7,7 @@ hide:
 
 ## AFFICHES
 
-Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">générateur d'affiche</a>
+Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">générateur d'affiche</a>.
 
 ## VISUELS
 
