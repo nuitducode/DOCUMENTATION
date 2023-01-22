@@ -15,7 +15,8 @@ Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">
 <table>
   <tr>
     <td>
-      *Fichiers STL*
+      <i>Fichiers STL</i>
+      <br />
       ■ <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-porte-cles_3-base.stl" download>base</a>
       <br />
       ■ <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/ndc-3d-porte-cles_3-lettres.stl" download>lettres</a>
