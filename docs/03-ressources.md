@@ -10,10 +10,21 @@ hide:
 Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">générateur d'affiche</a>.
 
 ## OBJETS 3D
-
-<iframe width="450" height="280" src="https://www.tinkercad.com/embed/dHCnWOxDFjM" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-<iframe width="450" height="280" src="https://www.tinkercad.com/embed/hBTPXYkDSH3?editbtn=1" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
-
+<table>
+  <tr>
+    <td>
+      <iframe width="450" height="280" src="https://www.tinkercad.com/embed/dHCnWOxDFjM" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+    </td>
+    <td>
+      <iframe width="450" height="280" src="https://www.tinkercad.com/embed/hBTPXYkDSH3" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+    </td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/NDC-Porte-cles.stl" download target="_blank">stl</a></td>
+    <td><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/NDC-Support-telephone.stl" download target="_blank">stl</a></td>
+  </tr>
+</table>
+    
 ## VISUELS
 
 Pour la communication ou pour créer des autocollants, des badges, des t-shirts, des tasses...
