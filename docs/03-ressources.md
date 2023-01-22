@@ -15,7 +15,7 @@ Pour la communication ou pour créer des autocollants, des badges, des t-shirts,
 
 <table>
   <tr>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC.png" height="80" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC.png" height="80" style="height:80px;" /></td>
     <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-07.png" height="80" /></td>
     <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-Scratch-Python.png" height="80" /></td>
   </tr>
