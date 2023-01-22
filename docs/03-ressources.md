@@ -13,10 +13,10 @@ Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">
 <table>
   <tr>
     <td>
-      <iframe width="450" height="280" src="https://www.tinkercad.com/embed/dHCnWOxDFjM" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+      <iframe width="300" height="188" src="https://www.tinkercad.com/embed/dHCnWOxDFjM" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
     </td>
     <td>
-      <iframe width="450" height="280" src="https://www.tinkercad.com/embed/hBTPXYkDSH3" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+      <iframe width="300" height="188" src="https://www.tinkercad.com/embed/hBTPXYkDSH3" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
     </td>
   </tr>
   <tr>
