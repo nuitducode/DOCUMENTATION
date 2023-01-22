@@ -3,7 +3,7 @@ hide:
   - footer
 ---
 
-# RESSOURCES
+# COMMUNICATION & "GOODIES"
 
 ## AFFICHES
 
