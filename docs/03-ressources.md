@@ -33,8 +33,8 @@ Pour la communication ou pour créer des autocollants, des badges, des t-shirts,
     <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch-Python.png" style="height:180px;" /></td>
   </tr>
   <tr>
-    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/2023-Python.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Python.svg" download>svg</a></td>
-    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/2023-Scratch.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch.svg" download>svg</a></td>
-    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/logos/2023-Scratch-Python.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch-Python.svg" download>svg</a></td>
+    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Python.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Python.svg" download>svg</a></td>
+    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch.svg" download>svg</a></td>
+    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch-Python.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch-Python.svg" download>svg</a></td>
   </tr>  
 </table>
