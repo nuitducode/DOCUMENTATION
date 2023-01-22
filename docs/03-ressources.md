@@ -20,8 +20,8 @@ Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">
     </td>
   </tr>
   <tr>
-    <td><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/NDC-Porte-cles.stl" download target="_blank">stl</a></td>
-    <td><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/NDC-Support-telephone.stl" download target="_blank">stl</a></td>
+    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/NDC-Porte-cles.stl" download target="_blank">stl</a></td>
+    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/objets-3d/NDC-Support-telephone.stl" download target="_blank">stl</a></td>
   </tr>
 </table>
     
