@@ -1,6 +1,6 @@
 # **🗂️ DOCUMENTATION**
 
-LIEN: https://nuitducode.github.io/DOCUMENTATION/
+LIEN: nuitducode.github.io/DOCUMENTATION/
 
 Autres liens:
 * Site / inscription : www.nuitducode.net
