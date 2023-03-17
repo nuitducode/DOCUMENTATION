@@ -19,13 +19,7 @@ Edupyter est portable et ne nécessite pas de droits administrateur. Edupyter pe
 
 Pour installer Python/Pyxel sur Mac ou Linux, voir la section "[Comment installer](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md#comment-installer)" sur la page de [Pyxel](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md).
 
-!!! info "Consignes"
-    Pour la Nuit du c0de, les élèves doivent rendre un fichier `app.py` et, éventuellement, un fichier `.pyxres`.
+!!! note "Consignes"
 
-
-!!! note "Phasellus posuere in sem ut cursus"
-
-    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla et euismod
-    nulla. Curabitur feugiat, tortor non consequat finibus, justo purus auctor
-    massa, nec semper lorem quam in massa.
+    Pour la Nuit du c0de, les élèves doivent rendre un fichier `app.py` et, éventuellement, un fichier `.pyxres`.
 
