@@ -1,5 +1,9 @@
 # Tutoriel détaillé - Terminale
 
+!!! tip "Cahier Numérique pour s'entraîner"
+    Ce tutoriel est disponible au format <a href="https://www.cahiernum.net" target="_blank">Cahier Numérique</a><br />
+    :fontawesome-solid-circle-arrow-right: &nbsp;<a href="https://www.cahiernum.net/CGS8UD" target="_blank">www.cahiernum.net/CGS8UD</a>  
+
 ## 1. Déplacer un carré avec les touches de directions
 
 ![alt text](tutoriel-detaille-terminale/images/pyxel-tutoriel-01.gif)
