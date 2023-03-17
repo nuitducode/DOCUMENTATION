@@ -1,4 +1,4 @@
-# TUTORIEL #01 - Déplacer un carré avec les touches de directions
+# ÉTAPE #01 - Déplacer un carré avec les touches de directions
 
 **But** : déplacer un carré avec les touches de directions
 

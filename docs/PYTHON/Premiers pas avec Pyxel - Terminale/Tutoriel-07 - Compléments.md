@@ -1,6 +1,6 @@
 # COMPLÉMENTS
 
-## Tutoriel #01
+## ÉTAPE #01
 
 Trois Parties: 
 
@@ -101,7 +101,7 @@ A quoi sert l'instruction `python pyxel.cls(0) ` ?
 Cela donne l'illusion d'un mouvement comme au cinéma.
 
 
-## Tutoriel #02
+## ÉTAPE #02
 
 Halo autour du tir
 
@@ -123,7 +123,7 @@ import random
 pyxel.circb(tir[0], tir[1],3,random.randint(1,10))
 ```
 
-## Tutoriel #03
+## ÉTAPE #03
 
 * Mettre en parallèle la création des tirs et des ennemis.
 * Utilisation de listes pour enregistrer les coordonnées sous la forme de liste.

@@ -1,4 +1,4 @@
-# TUTORIEL #03 - Ajouter des ennemis
+# ÉTAPE #03 - Ajouter des ennemis
 
 **But** : ajouter des ennemis
 

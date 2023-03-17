@@ -1,4 +1,4 @@
-# TUTORIEL #05 - Ajouter les explosions lors des collisions
+# ÉTAPE #05 - Ajouter les explosions lors des collisions
 
 **But** : ajouter les explosions lors des collisions
 
