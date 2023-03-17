@@ -1,6 +1,6 @@
 # ENVIRONNEMENT DE DÉVELOPPEMENT
 
-Le développement des jeux se fera en ligne sur le site de la Nuit du c0de.
+Le développement des jeux se fera en ligne sur le site de la Nuit du c0de. 
 
 Les élèves peuvent s'entraîner avec les univers de jeu de l'an dernier à cette adresse : [www.nuitducode.net/pyxel](https://www.nuitducode.net/pyxel).
 
@@ -17,6 +17,6 @@ Edupyter est portable et ne nécessite pas de droits administrateur. Edupyter pe
 * Exécuter le code en cliquant sur la touche F5 ou le bouton vert. Cette action ouvrira automatiquement la fenêtre du jeu.* Pour créer un fichier .pyxres, ouvrir la console, naviguer jusqu'au répertoire qui contient le fichier `app.py` et saisir `pyxel edit res.pyxres`.
 
 !!! info "Consignes"
-    Pour la Nuit du c0de, les élèves doivent rendre un fichier `app.py` et éventuellement un fichier `res.pyxres`).
+    Pour la Nuit du c0de, les élèves doivent rendre un fichier `app.py` et, éventuellement, un fichier `.pyxres`).
 
 Pour installer Python/Pyxel sur Mac ou Linux, voir la section "[Comment installer](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md#comment-installer)" sur la page de [Pyxel](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md).
