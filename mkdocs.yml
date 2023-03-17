@@ -17,6 +17,8 @@ theme:
     - content.tabs.link    
     - navigation.indexes
     - navigation.top
+    - navigation.instant
+    - navigation.tracking
 
 extra:
   version:
