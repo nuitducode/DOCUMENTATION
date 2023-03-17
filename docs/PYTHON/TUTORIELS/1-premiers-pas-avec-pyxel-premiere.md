@@ -1,6 +1,6 @@
 # Premiers pas avec Pyxel - Première
 
-!!! tip "Cahier Numérique pour s'entrainer"
+!!! tip "Cahier Numérique pour s'entraîner"
     Ce tutoriel est disponible au format <a href="https://www.cahiernum.net" target="_blank">Cahier Numérique</a><br />
     :fontawesome-solid-circle-arrow-right: &nbsp;<a href="https://www.cahiernum.net/J682W5" target="_blank">cahiernum.net/J682W5</a>
 
