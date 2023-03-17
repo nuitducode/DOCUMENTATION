@@ -2,7 +2,7 @@
 
 **But** : déplacer un carré avec les touches de directions
 
-<center><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/docs/PYTHON/Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/images/pyxel-tutoriel-01.gif" width=250 /></center>
+<center><img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/docs/assets/images/tutoriels/pyxel-tutoriel-01.gif" width=250 /></center>
 
 !!! danger "Attention"
     Programmation impérative: utilisation obligatoire de variables globales dans `update`.

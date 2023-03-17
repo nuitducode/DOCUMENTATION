@@ -3,8 +3,8 @@
 **But** : ajouter les images
 
 <center>
-<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/docs/PYTHON/Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/images/pyxel-tutoriel-06.gif" width="250" />
-<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/docs/PYTHON/Premiers%20pas%20avec%20Pyxel%20-%20Premi%C3%A8re%20et%20Terminale/images/editeur.png" width="320" />
+<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/docs/assets/images/tutoriels/pyxel-tutoriel-06.gif" width="250" />
+<img src="https://raw.githubusercontent.com/nuitducode/DOCUMENTATION/main/docs/assets/images/tutoriels/editeur.png" width="320" />
 </center>
 
 Pour ouvrir l'éditeur d'image : ouvrir la console (avec [Edupyter](https://www.edupyter.net/) depuis Thonny : "Outils" > "Ouvrir la console du système...", ou depuis le menu d'Edupyter : "Console") et saisir :
