@@ -1,8 +1,8 @@
 # Premiers pas avec Pyxel - Terminale
 
 !!! tip "Cahier Numérique pour s'entrainer"
-    Ce tutoriel est disponible au format [Cahier Numérique](https://www.cahiernum.net)<br />
-    :fontawesome-solid-circle-arrow-right: [cahiernum.net/KV8H5B](https://www.cahiernum.net/KV8H5B)
+    Ce tutoriel est disponible au format <a href="https://www.cahiernum.net" target="_blank">Cahier Numérique</a><br />
+    :fontawesome-solid-circle-arrow-right: &nbsp;<a href="https://www.cahiernum.net/KV8H5B" target="_blank">cahiernum.net/KV8H5B</a>    
 
 ## Étape #01 - Déplacer un carré avec les touches de directions
 
