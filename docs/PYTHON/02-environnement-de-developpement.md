@@ -16,4 +16,5 @@ Edupyter est portable et ne nécessite pas de droits administrateur. Edupyter pe
 * Saisir le code et enregistrer le fichier Python (en .py).
 * Exécuter le code en cliquant sur la touche F5 ou le bouton vert. Cette action ouvrira automatiquement la fenêtre du jeu.
 
-Pour plus d'infomations, voir la section "[Comment installer"](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md#comment-installer) sur la page de [Pyxel](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md).
+
+Pour installer Python/Pyxel sur Mac ou Linux, voir la section "[Comment installer](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md#comment-installer)" sur la page de [Pyxel](https://github.com/kitao/pyxel/blob/main/docs/README.fr.md).
