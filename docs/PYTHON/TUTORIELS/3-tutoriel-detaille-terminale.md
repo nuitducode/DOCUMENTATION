@@ -2,7 +2,7 @@
 
 ## 1. Déplacer un carré avec les touches de directions
 
-![alt text](images/pyxel-tutoriel-01.gif)
+![alt text](tutoriel-detaille-terminale/images/pyxel-tutoriel-01.gif)
 
 Après avoir importé le module Pyxel dans votre script Python, on crée une classe Jeu, pour regrouper l’ensemble des attributs et méthodes nécessaires. Utiliser une classe a l’avantage de remplacer des variables globales par des attributs.
 
@@ -36,7 +36,7 @@ Il ne reste plus qu’à afficher le carré avec ses nouvelles coordonnées grâ
 pyxel.rect(self.vaisseau_x, self.vaisseau_y, 8, 8, 1)
 ```
 
-**Lancer** le script [tutoriel1.py](scripts/tutoriel1.py).
+**Lancer** le script [tutoriel1.py](tutoriel-detaille-terminale/scripts/tutoriel1.py).
 **Modifier** le script pour le déplacer selon l’axe des y.
 
 Les attributs mouse_x et mouse_y du module pyxel permettent de connaitre la position actuelle de la souris.
@@ -45,7 +45,7 @@ Les attributs mouse_x et mouse_y du module pyxel permettent de connaitre la posi
 ## 2. Ajouter des tirs
 
 
-![alt text](images/pyxel-tutoriel-02.gif)
+![alt text](tutoriel-detaille-terminale/images/pyxel-tutoriel-02.gif)
 
 Un tir est caractérisé par ses coordonnées.
 Créer un tir signifie ajouter un couple de coordonnées dans la liste des tirs.
@@ -55,7 +55,7 @@ if pyxel.btnr(pyxel.KEY_SPACE):
 ```
 
 Les coordonnées du tir sont déterminées à partir de celles du vaisseau, sachant que ces coordonnées correspondent au coin en haut à gauche.
-![alt text](images/tir_coor.png)
+![alt text](tutoriel-detaille-terminale/images/tir_coor.png)
 
 On déplace ensuite d’un pixel le tir jusqu’à ce qu’il sorte de l’écran. Il suffit alors de le retirer de la liste des tirs pour le supprimer.
 ```python
@@ -64,12 +64,12 @@ for tir in  self.tirs_liste:
     if  tir[1]<-8:
         self.tirs_liste.remove(tir)
 ```
-**Lancer** le script [tutoriel2.py](scripts/tutoriel2.py).
+**Lancer** le script [tutoriel2.py](tutoriel-detaille-terminale/scripts/tutoriel2.py).
 
 
 ## 3. Ajouter des ennemis
 
-![alt text](images/pyxel-tutoriel-03.gif)
+![alt text](tutoriel-detaille-terminale/images/pyxel-tutoriel-03.gif)
 
 Les images sont affichées à l’écran à raison de 30 images par secondes.
 L’attribut frame_count du module pyxel comptabilise le nombre d’images affichées depuis le début du jeu.
@@ -80,19 +80,19 @@ La création des ennemis repose sur le même principe que celui des tirs, mais o
 if (pyxel.frame_count % 30 == 0):
     self.ennemis_liste.append([random.randint(0, 120), 0])
 ```
-**Lancer** le script [tutoriel3.py](scripts/tutoriel3.py).
+**Lancer** le script [tutoriel3.py](tutoriel-detaille-terminale/scripts/tutoriel3.py).
 
 ## 4. Ajouter les collisions
 
-![alt text](images/pyxel-tutoriel-04.gif)
+![alt text](tutoriel-detaille-terminale/images/pyxel-tutoriel-04.gif)
 
 Pour le cas de la collision d’un tir avec un ennemi, la détection est simple : la coordonnée en y doit être inférieure à ye – 8, et la coordonnée en x doit être comprise entre xe et xe + 8.
 
-![alt text](images/collision_tir.png)
+![alt text](tutoriel-detaille-terminale/images/collision_tir.png)
 
 Pour détecter une collision entre un ennemi et un vaisseau, il faut considérer deux cas de figure (en ne considérant pour l’instant que l’axe des x) :
 
-![alt text](images/collisions.png)
+![alt text](tutoriel-detaille-terminale/images/collisions.png)
 
 A partir de ces figures, on en déduit deux conditions : il faut le bord gauche du vaisseau soit inférieur à xe + 8, et le bord droit supérieur à xe.
 
@@ -109,21 +109,21 @@ else:
 ```
 
 
-**Lancer** le script [tutoriel4.py](scripts/tutoriel4.py)
+**Lancer** le script [tutoriel4.py](tutoriel-detaille-terminale/scripts/tutoriel4.py)
 
 ## 5. Ajouter les explosions lors des collisions
 
-![alt text](images/pyxel-tutoriel-05.gif)
+![alt text](tutoriel-detaille-terminale/images/pyxel-tutoriel-05.gif)
 
 Pour les explosions, on procède comme pour les tirs.
 
 Cependant, en plus des coordonnées, on ajoute un troisième paramètre. C’est ce paramètre qui permettra de créer des cercles dont le rayon et la couleur évolue.
 
-**Lancer** le script [tutoriel5.py](scripts/tutoriel5.py).
+**Lancer** le script [tutoriel5.py](tutoriel-detaille-terminale/scripts/tutoriel5.py).
 
 ## 6. Ajouter des images
 
-![alt text](images/pyxel-tutoriel-06.gif)
+![alt text](tutoriel-detaille-terminale/images/pyxel-tutoriel-06.gif)
 
 Une **tuile** (tile en anglais) est un élément graphique d'un jeu vidéo, constitué de petites images (en général) carrées disposées sur une grille.
 
@@ -132,7 +132,7 @@ L'ensemble complet des tuiles disponibles pour une utilisation dans une zone de 
 
 L’éditeur Pyxel peut créer des images et des sons utilisables dans des applications Pyxel. (voir la documentation Pyxel)
 
-Lors de l'initialisation du jeu, il est nécessaire de charger en mémoire le [fichier ressource](scripts/images.pyxres).
+Lors de l'initialisation du jeu, il est nécessaire de charger en mémoire le [fichier ressource](tutoriel-detaille-terminale/scripts/images.pyxres).
 ```python
 # chargement des images
 pyxel.load("images.pyxres")
@@ -147,7 +147,7 @@ Si les dimensions de l’image sont indiquées comme négatives, la copie de l�
 
 Il est également possible de spécifier une couleur transparente, qui ne sera donc pas dessiner à l’écran. On a choisi ici la couleur noire (code : 0), initialisé dans la constante ``TRANSPARENT_COLOR``.
 
-**Lancer** le script [tutoriel6.py](scripts/tutoriel6.py).
+**Lancer** le script [tutoriel6.py](tutoriel-detaille-terminale/scripts/tutoriel6.py).
 
 ## 7. Utiliser la POO
 
@@ -156,7 +156,7 @@ En soi, le fonctionnement est identique ; par contre, cela permet de regrouper d
 
 Par exemple, un objet ``Tir`` va regrouper ses coordonnées, ainsi que la manière de le dessiner, de la déplacer et la gestion des collisions avec les ennemis.
 
-![alt text](images/tir.png)
+![alt text](tutoriel-detaille-terminale/images/tir.png)
 
 On peut remarquer qu’un troisième attribut a été rajouté : il s’agit de l’attribut ``alive``, initialisé à ``True``, qui permet de déterminer si l’objet doit continuer à être afficher ou s’il doit être supprimer.
 ```python
@@ -172,15 +172,15 @@ for tir in  self.tirs_liste:
     if  not tir.alive :
         self.tirs_liste.remove(tir)
 ```
-**Lancer** le script [tutoriel7.py](scripts/tutoriel7.py).
+**Lancer** le script [tutoriel7.py](tutoriel-detaille-terminale/scripts/tutoriel7.py).
 
 ## 8. Animer les sprites
 
-![alt text](images/sprite.gif)
+![alt text](tutoriel-detaille-terminale/images/sprite.gif)
 
 Pour animer les sprites, on va utiliser plusieurs images du pavé pour un seul sprite.
 
-![alt text](images/monstre.png)
+![alt text](tutoriel-detaille-terminale/images/monstre.png)
 
 L’enchainement des images donne l’impression de mouvement.
 Dans le script tutoriel8.py, on utilise l’attribut ``pyxel.frame_count`` pour modifier l’image toutes les 1/10ème de seconde.
@@ -192,7 +192,7 @@ On utilise la variable ``coef`` pour choisir l’image.
 coef = pyxel.frame_count //3% 3
 pyxel.blt(self.x, self.y, 0, 0, 8 + 8*coef, 8, 8) 
 ```
-**Lancer** le script [tutoriel8.py](scripts/tutoriel8.py).
+**Lancer** le script [tutoriel8.py](tutoriel-detaille-terminale/scripts/tutoriel8.py).
 
 ## 9. Ajouter du son
 
@@ -220,11 +220,11 @@ On peut également émettre des bruitages (ici, le son numéro 1) :
 pyxel.play(0, 1)
 ```
 
-**Lancer** le script [tutoriel9.py](scripts/tutoriel9.py).
+**Lancer** le script [tutoriel9.py](tutoriel-detaille-terminale/scripts/tutoriel9.py).
 
 ## 10. Ajouter et faire défiler un décor
 
-![alt text](images/decor.gif)
+![alt text](tutoriel-detaille-terminale/images/decor.gif)
 
 Une **tilemap** (littéralement une "carte de tuile") est une grille utilisée pour créer la disposition/le fond graphique d'un jeu.
 L'écran est ainsi représenté par une grille composée de nombreuses cases, sur lesquelles sont appliquées une image par case.
@@ -240,15 +240,15 @@ pyxel.bltm(0, 0, 0, 192, (self.scroll_y // 4) % 128, 128, 128)
 pyxel.bltm(0, 0, 0, 0, self.scroll_y,  128, 128, TRANSPARENT_COLOR)
 ```
 
-**Lancer** le script [tutoriel10.py](scripts/tutoriel10.py).
+**Lancer** le script [tutoriel10.py](tutoriel-detaille-terminale/scripts/tutoriel10.py).
 
 ## 11. Interagir avec le décor
 
-![alt text](images/asteroid.gif)
+![alt text](tutoriel-detaille-terminale/images/asteroid.gif)
 
 A l’intérieur du jeu de tuiles, chaque tuile est repérée par des coordonnées.
 
-![alt text](images/tileset.png)
+![alt text](tutoriel-detaille-terminale/images/tileset.png)
 
 Ici, la fusée se trouve aux coordonnées (0, 0) et le monstre à (0, 1).
 
@@ -283,19 +283,19 @@ for yi in range(y1, y2 + 1):
                      
 Une fois détectée, on modifie la tuile pour ne pas qu’elle soit prise en compte plusieurs fois grâce à la méthode ``pset()`` de l’objet ``tilemap``. A noter que cette modification n’est pas définitive et n’intervient que pour la carte chargée en mémoire.
 
-**Lancer** le script [tutoriel11.py](scripts/tutoriel11.py).
+**Lancer** le script [tutoriel11.py](tutoriel-detaille-terminale/scripts/tutoriel11.py).
 
 **Créer** la fonction detect_bonus() qui détecte le passage du vaisseau sur les bonus de gain de vie présents dans le décor.
 
 ## 12. Placer des ennemis dans le décor
 
-![alt text](images/monstres.gif)
+![alt text](tutoriel-detaille-terminale/images/monstres.gif)
 
 Au lieu que les ennemis apparaissent de manière aléatoire, on peut vouloir qu’ils apparaissent à des endroits précis du décor.
 
 Pour cela, il faut dédier une tuile à ce placement, puis on place des copies de cette tuile aux endroits de la carte où l’on souhaite voir surgir les ennemis.
 
-![alt text](images/tuiles_mstr.png)
+![alt text](tutoriel-detaille-terminale/images/tuiles_mstr.png)
 
 A l’initialisation du jeu, il est nécessaire de rendre ces tuiles transparentes afin qu’elles ne soient pas affichées, par contre elles pourront toujours être identifiées par la méthode ``pget()`` de l’objet ``tilemap``.
 ```python
@@ -310,7 +310,7 @@ if tuile == TUILE_MONSTRE:
     pyxel.tilemap(0).pset(x, y, TUILE_ESPACE)
     self.ennemis_liste.append([x*8,y*8-y1])
 ```
-**Lancer** le script [tutoriel12.py](scripts/tutoriel12.py).
+**Lancer** le script [tutoriel12.py](tutoriel-detaille-terminale/scripts/tutoriel12.py).
 
 ---
 
