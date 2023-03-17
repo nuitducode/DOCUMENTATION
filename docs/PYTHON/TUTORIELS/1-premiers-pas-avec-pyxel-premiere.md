@@ -2,7 +2,7 @@
 
 !!! tip "Cahier Numérique pour s'entrainer"
     Ce tutoriel est disponible au format <a href="https://www.cahiernum.net" target="_blank">Cahier Numérique</a><br />
-    :fontawesome-solid-circle-arrow-right: <a href="https://www.cahiernum.net/J682W5" target="_blank">www.cahiernum.net/J682W5</a>
+    :fontawesome-solid-circle-arrow-right: <a href="https://www.cahiernum.net/J682W5" target="_blank">cahiernum.net/J682W5</a>
 
 ## Étape #01 - Déplacer un carré avec les touches de directions
 
