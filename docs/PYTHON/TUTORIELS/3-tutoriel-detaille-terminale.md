@@ -1,4 +1,4 @@
-# Créer une application Pyxel
+# Tutoriel détaillé Terminale
 
 ## 1. Déplacer un carré avec les touches de directions
 
