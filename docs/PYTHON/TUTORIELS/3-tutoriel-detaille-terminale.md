@@ -1,4 +1,4 @@
-# Tutoriel détaillé Terminale
+# Tutoriel détaillé - Terminale
 
 ## 1. Déplacer un carré avec les touches de directions
 
