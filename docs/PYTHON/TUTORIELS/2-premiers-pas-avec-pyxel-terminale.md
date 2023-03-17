@@ -1,6 +1,6 @@
 # Premier pas avec Pyxel - Terminale
 
-# Étape #01 - Déplacer un carré avec les touches de directions
+## Étape #01 - Déplacer un carré avec les touches de directions
 
 **But** : déplacer un carré avec les touches de directions
 
