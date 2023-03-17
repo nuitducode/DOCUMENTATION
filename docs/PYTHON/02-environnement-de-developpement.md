@@ -23,3 +23,10 @@ Pour installer Python/Pyxel sur Mac ou Linux, voir la section "[Comment installe
 
     Pour la Nuit du c0de, les élèves doivent rendre un fichier `app.py` et, éventuellement, un fichier `.pyxres`.
 
+!!! info "Consignes"
+
+    Pour la Nuit du c0de, les élèves doivent rendre un fichier `app.py` et, éventuellement, un fichier `.pyxres`.
+
+!!! info "Consignes"
+
+    Pour la Nuit du c0de, les élèves doivent rendre un fichier `app.py` et, éventuellement, un fichier `.pyxres`.
