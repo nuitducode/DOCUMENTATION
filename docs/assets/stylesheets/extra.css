@@ -224,7 +224,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .md-typeset h2 {
     color: #227dc7;
-    font-size: 0.8rem;
+    font-size: 0.9rem;
     text-transform: uppercase;
     font-weight: 600;   
     margin-bottom: 0rem;
@@ -232,7 +232,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .md-typeset h3, .h3 {
     color:#4c9ce5;
-    font-size:0.7rem;
+    font-size:0.8rem;
     line-height: 1.2rem;
     font-weight: 600; 
     margin-bottom: 0rem; 
