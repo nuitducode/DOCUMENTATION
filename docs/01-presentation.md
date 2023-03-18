@@ -17,7 +17,7 @@ La **Nuit du c0de** est un marathon de programmation Scratch et Python organisé
 
 Par équipes de deux ou trois réparties en plusieurs catégories (cycle 3, cycle 4 et lycée), les élèves ont six heures (ou moins pour les élèves de cycle 3) pour programmer entièrement un jeu avec Scratch ou Python à partir d'un univers de jeu fourni.
 
-Édition 2022 : `159` établissements inscrits, `4556` élèves, `141` villes, `38` pays.
+Édition 2022 : <kbd>159</kbd> établissements inscrits, <kbd>4556</kbd> élèves, <kbd>141</kbd> villes, <kbd>38</kbd> pays.
 
 Chaque année, plusieurs univers de jeu sont proposés. Ces univers de jeux sont mis à dispositions des organisateurs 48h avant la date choisie par l'établissement pour organiser la **Nuit du c0de**. Les élèves découvrent ces univers de jeu au début de la **Nuit du c0de** et les équipes doivent en choisir un. Un univers de jeu contient tous les éléments, sons et arrière-plans nécessaires pour créer le jeu.
 
