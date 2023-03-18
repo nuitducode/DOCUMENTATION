@@ -51,16 +51,19 @@
 }
 /* /ADMONITION INFO */
 
+
+/* CODE */
 .md-typeset code {
-    background-color: none;
-    border-radius: 0px;
+    background-color: #34495e;
+    border-radius: 2px;
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
     font-size: 95%;
-    color: #9b59b6;
+    color: white;
     word-break: break-word;
     font-family: SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
 }
+/* /CODE */
 
 img {
     border-radius:5px;
