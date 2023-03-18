@@ -8,7 +8,7 @@ hide:
 <center>
 ![NDC2023](assets/images/ndc2023.png){ width="400" }
 <br />
-<span class="ndc">La <b>Nuit du c0de</b> : créer un <b>jeu</b> avec <b>Scratch</b> ou <b>Python</b> en <b>6h</b>!</span>
+<span class="ndc">La <b>Nuit du c0de</b> : créer un <b>jeu</b> avec<br /><b>Scratch</b> ou <b>Python</b> en <b>6h</b>!</span>
 </center>
 
 ## PRÉSENTATION GÉNÉRALE
