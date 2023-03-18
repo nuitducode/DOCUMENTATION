@@ -79,9 +79,9 @@ Durant l'épreuve de la Nuit du c0de, vous disposerez de 6 heures pour créer un
     * Les univers de jeu et les liens fournis sont **confidentiels**. Ils ne doivent être partagés avec personne.
     * Le titre de votre jeu doit être le nom de votre équipe. Les mots suivants ne doivent pas apparaitre dans le titre ni dans les champs « Instructions » ou « Notes et Crédits » de votre jeu (ou des différentes versions de votre jeu) : « nuit », « code », « c0de », « 2023 », « NdC », « ndc ».
 
-* La taille de l'écran du jeu doit être de **128x128 pixels** (`pyxel.init(128, 128, title="Nuit du c0de 2023")`).
-* Le code de votre jeu doit être dans <u>un seul fichier</u> `.py`. Si vous utilisez des images, elles seront dans un deuxième fichier au format `.pyxres`.
-* Plusieurs ressources graphiques (fichiers `.pyxres`) seront proposées. Cependant, vous n'êtes pas obligés de les utiliser. Vous pouvez créer vos propres images avec l'éditeur Pyxel. Vous pouvez aussi créer un jeu sans images, en utilisant seulement les formes géométriques.
+* La taille de l'écran du jeu doit être de **128x128 pixels** (<kbd>pyxel.init(128, 128, title="Nuit du c0de 2023")</kbd>).
+* Le code de votre jeu doit être dans <u>un seul fichier</u> <kbd>.py</kbd>. Si vous utilisez des images, elles seront dans un deuxième fichier au format <kbd>.pyxres</kbd>.
+* Plusieurs ressources graphiques (fichiers <kbd>.pyxres</kbd>) seront proposées. Cependant, vous n'êtes pas obligés de les utiliser. Vous pouvez créer vos propres images avec l'éditeur Pyxel. Vous pouvez aussi créer un jeu sans images, en utilisant seulement les formes géométriques.
 * Il n'est pas autorisé de regarder ou copier/coller du code trouvé sur internet ou votre ordinateur.
 * Il n'est pas autorisé d'aller chercher des tutoriels (vidéos ou autres) durant l'épreuve : le code doit venir de vous.
 * **Vous devez écrire une courte documentation** (ou mode d'emploi) de votre jeu. La documentation fait partie de l'évaluation du jeu.
@@ -101,7 +101,7 @@ Durant l'épreuve de la Nuit du c0de, vous disposerez de 6 heures pour créer un
 
 Avant la fin des 6h, déposez votre jeu sur le site de la Nuit du c0de.
 
-Pour déposer votre jeu sur le site de la Nuit du c0de, un lien vous sera fourni par les enseignants. Ce lien vous amènera sur la page de dépôt. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie puis déposer votre fichier `.py` et, si s'il existe, le fichier `.pyxres`.
+Pour déposer votre jeu sur le site de la Nuit du c0de, un lien vous sera fourni par les enseignants. Ce lien vous amènera sur la page de dépôt. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie puis déposer votre fichier <kbd>.py</kbd> et, si s'il existe, le fichier <kbd>.pyxres</kbd>.
 
 ###  CRITÈRES D'ÉVALUATION
 
