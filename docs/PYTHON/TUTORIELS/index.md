@@ -1,4 +1,4 @@
-# SOMMAIRE
+# Sommaire
 
 * [Premiers pas avec Pyxel - Première](/DOCUMENTATION/PYTHON/TUTORIELS/1-premiers-pas-avec-pyxel-premiere/)
 * [Premiers pas avec Pyxel - Terminale](/DOCUMENTATION/PYTHON/TUTORIELS/2-premiers-pas-avec-pyxel-terminale/)
