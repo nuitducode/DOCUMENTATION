@@ -9,7 +9,7 @@
     background-color: #fafcfe;
 }
 
-/* ADMONITION */
+/* ADMONITION DANGER */
 .md-typeset .admonition.danger, .md-typeset details.danger {
     border-color: #e74c3c;
     background-color: #e74c3c;
@@ -23,7 +23,11 @@
 .md-typeset .admonition-title, .md-typeset summary {
     padding-bottom: 0;
 }
-/* /ADMONITION */
+
+.md-typeset .danger>.admonition-title:before, .md-typeset .danger>summary:before {
+    background-color: #e74c3c;
+}
+/* /ADMONITION DANGER */
 
 
 img {
