@@ -14,6 +14,7 @@
     border-color: #e74c3c;
     background-color: #e74c3c;
     color: white;
+    padding-top: 5px;
 }
 
 .md-typeset .danger>.admonition-title, .md-typeset .danger>summary {
