@@ -49,7 +49,7 @@ La participation d'un établissement peut être l'occasion de la création d'un 
 * Le budget nécessaire peut aller de zéro à quelques centaines d'euros.
 * Des ressources, tutoriels et supports, ainsi que des  sujets d'entraînements seront fournis à chaque établissement participant.
 * Chaque établissement organise sa **Nuit du c0de** avec ses élèves.
-* Au terme de l'épreuve, chaque établissement élit ses équipes championnes qui le représenteront dans chaque catégorie.
+* Au terme de l'événement, chaque établissement élit ses équipes championnes qui le représenteront dans chaque catégorie.
 * Une sélection mondiale est ensuite établie.
 
 ## CALENDRIER
@@ -62,7 +62,7 @@ Les établissements inscrits auront accès à de nombreuses ressources : tutorie
 ### 1er Mai – 27 Mai 2023 : Nuit du c0de
 Les établissements inscrits recevront 48h avant la date qu'ils auront fixée pour la **Nuit du c0de**, les univers de jeu qui seront proposés aux élèves. Ces sujets sont confidentiels !
 
-L'épreuve demande un minimum de logistique : ordinateurs en nombre suffisant (d'où la possible nécessité d'organiser des sélections), des encadrants, nourriture et boissons pour les personnes présentes.
+La **Nuit du c0de** demande un minimum de logistique : ordinateurs en nombre suffisant (d'où la possible nécessité d'organiser des sélections), des encadrants, nourriture et boissons pour les personnes présentes.
 
 Si des regroupements d'établissements proches sont possibles, ils sont encouragés.
 

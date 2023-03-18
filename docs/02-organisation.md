@@ -22,7 +22,7 @@ Tout est fait pour que la charge de travail du ou des organisateurs soit la plus
 
 * <span class="h3">Prévoir l'équipement informatique</h3></span><br />Pour organiser la **Nuit du c0de** dans votre établissement, vous aurez besoin d'ordinateurs fixes ou portables ou de tablettes (un appareil ou plus par équipe). Prévoir des terminaux (ordinateurs/tablettes) disponibles en nombre suffisant. Il est crucial de vérifier votre capacité d'accueil. Les élèves peuvent apporter leur propre terminal. Le jeu peut se faire soit en ligne (dans ce cas les élèves devront avoir un compte pour se connecter) soit en déconnecté (installation de Scratch 3 nécessaire sur les terminaux utilisés). Pour Python, la dernière version de Pyxel doit être installée sur les terminaux (voir [Installation de Pyxel](https://nuitducode.github.io/DOCUMENTATION/PYTHON/02-installation/)). Prévoir aussi des casques et des souris pour faciliter la créations des jeux.
 
-* <span class="h3">Prévoir une ou plusieurs salles</h3></span><br />Prévoir un ou des espaces suffisament grands. Les équipes doivent avoir une surface de travail confortable. De plus, pendant toute la durée de l'épreuve, on encourage les élèves à aller observer le travail des autres, à échanger, s'entraider... Il faut donc que les élèves (tout comme les encadrants) puissent circuler aisement.   + d'un espace pour la nourriture et les boissons
+* <span class="h3">Prévoir une ou plusieurs salles</h3></span><br />Prévoir un ou des espaces suffisament grands. Les équipes doivent avoir une surface de travail confortable. De plus, pendant toute la durée de l'événement, on encourage les élèves à aller observer le travail des autres, à échanger, s'entraider... Il faut donc que les élèves (tout comme les encadrants) puissent circuler aisement.   + d'un espace pour la nourriture et les boissons
 
 * <span class="h3">Préparer les élèves</span><br />La **Nuit du c0de** est avant tout une fête et un jeu. Et pour que les élèves puissent pleinement en profiter, il est préférable qu'ils soient préparés à la nature de l'événement. L'équipe de la **Nuit du c0de** met à votre disposition des ressources [Scratch](https://nuitducode.github.io/DOCUMENTATION/SCRATCH/01-introduction/) et [Python](https://nuitducode.github.io/DOCUMENTATION/PYTHON/01-presentation/) pour organiser des entraînements. Il est important que les élèves participants puissent s'entraîner un minimum quelles que soient les modalités (en classe, en atelier périscolaire, à la maison, en temps libre ou limité, avec des contraintes précises ou de façon totalement autonome). La **Nuit du c0de** se joue en équipes (de 2 ou 3 élèves) et cela demande aux élèves des qualités de collaboration et d'organisation. Cela nécessite donc un peu de préparation.
 
@@ -30,7 +30,7 @@ Tout est fait pour que la charge de travail du ou des organisateurs soit la plus
 
 * <span class="h3">Penser aux autorisations parentales</span><br />Il peut être nécessaire d'obtenir des autorisations parentales. Notamment si l'événement est programmé en dehors des heures de cours. Cette démarche peut prendre du temps (délais de réponse des familles, relances, corrections...). Une bonne anticipation est donc nécessaire. Des modèles de lettre à envoyer aux familles sont proposés (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)).
 
-* <span class="h3">Prévoir à manger et à boire</span><br />L'épreuve est longue et nos jeunes codeurs ne tiendront pas 6 heures sans s'alimenter ! De plus, la **Nuit du c0de** se veut un événement convivial. La ou les pauses nourriture / boissons y contribuent. Prévoir un coin snack et buvette est donc important et fait partie de cette ambiance qui doit être détendue et même festive. Les services de cantine peuvent être sollicités.
+* <span class="h3">Prévoir à manger et à boire</span><br />Nos jeunes codeurs ne tiendront pas 6 heures sans s'alimenter ! De plus, la **Nuit du c0de** se veut un événement convivial. La ou les pauses nourriture / boissons y contribuent. Prévoir un coin snack et buvette est donc important et fait partie de cette ambiance qui doit être détendue et même festive. Les services de cantine peuvent être sollicités.
 
 ## TÂCHES FACULTATIVES
 
@@ -64,7 +64,7 @@ La préparation des élèves peut aussi se faire dans le cadre des programmes de
 
 
 ## ÉVALUATION DES JEUX
-Prévoir un temps pour l'évaluation de tous les jeux créés pendant la **Nuit du c0de**. Chaque établissement doit sélectionner ses équipes championnes. Il est important d'associer les élèves dans cette sélection. Cela peut se faire tout de suite après l'épreuve, lors d'un autre moment banalisé, à la maison... Cela dépend du nombre d'équipes participantes dans votre établissement. L'évaluation des jeux se fera via le site.
+Prévoir un temps pour l'évaluation de tous les jeux créés pendant la **Nuit du c0de**. Chaque établissement doit sélectionner ses équipes championnes. Il est important d'associer les élèves dans cette sélection. Cela peut se faire tout de suite après l'événement, lors d'un autre moment banalisé, à la maison... Cela dépend du nombre d'équipes participantes dans votre établissement. L'évaluation des jeux se fera via le site.
 
 
 ## FEUILLE DE ROUTE & RESSOURCES
