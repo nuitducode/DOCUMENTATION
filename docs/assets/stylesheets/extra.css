@@ -79,10 +79,10 @@ body {
     color: var(--md-default-fg-color);
     display: inline-block;
     font-size: .85em;
-    padding: 0 2px;
+    padding: 0 4px;
     vertical-align: text-top;
     word-break: break-word;
-    margin:0 1px 0 1px;
+    margin:0 2px 0 2px;
 }
 
 
