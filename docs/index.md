@@ -11,6 +11,8 @@ hide:
 
 * 🎁 [COMMUNICATION & "GOODIES"](03-communication-et-goodies/)
 
+* 💡 [RÈGLES ET CONSEILS](04-regles-conseils/)
+
 * 🐍 [TUTORIELS PYTHON / PYXEL](PYTHON/01-presentation/)
 
 * 🐱 [TUTORIELS SCRATCH](SCRATCH/01-introduction/)
