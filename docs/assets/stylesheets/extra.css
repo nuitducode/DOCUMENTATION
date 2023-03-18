@@ -75,7 +75,7 @@ body {
 
 /* CODE */
 .md-typeset code {
-    background-color: #34495e;
+    background-color: #ecf0f1;
     border-radius: 2px;
     -webkit-box-decoration-break: clone;
     box-decoration-break: clone;
@@ -226,7 +226,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
     color: #227dc7;
     font-size: 0.9rem;
     text-transform: uppercase;
-    font-weight: 600;   
+    font-weight: 400;   
     margin-bottom: 0rem;
 }
 
