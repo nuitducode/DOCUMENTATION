@@ -1,4 +1,4 @@
- body {
+body {
     margin: 0;
     font-size: 0.9rem;
     font-weight: 400;
@@ -8,6 +8,63 @@
     /*background-color: #f8fafc;*/
     background-color: #fafcfe;
 }
+
+/* ADMONITION DANGER */
+.md-typeset .admonition.danger, .md-typeset details.danger {
+    border-color: #e74c3c;
+    background-color: #e74c3c;
+    color: white;
+    padding-top: 5px;
+}
+
+.md-typeset .danger>.admonition-title, .md-typeset .danger>summary {
+    background-color: #e74c3c;
+}
+
+.md-typeset .admonition-title, .md-typeset summary {
+    padding-bottom: 0;
+}
+
+.md-typeset .danger>.admonition-title:before, .md-typeset .danger>summary:before {
+    background-color: white;
+}
+/* /ADMONITION DANGER */
+
+/* ADMONITION INFO */
+.md-typeset .admonition.info, .md-typeset details.info {
+    border-color: #27ae60;
+    background-color: #27ae60;
+    color: white;
+    padding-top: 5px;
+}
+
+.md-typeset .info>.admonition-title, .md-typeset .info>summary {
+    background-color: #27ae60;
+}
+
+.md-typeset .admonition-title, .md-typeset summary {
+    padding-bottom: 0;
+}
+
+.md-typeset .info>.admonition-title:before, .md-typeset .info>summary:before {
+    background-color: white;
+}
+/* /ADMONITION INFO */
+
+
+/* CODE */
+.md-typeset code {
+    background-color: #34495e;
+    border-radius: 2px;
+    -webkit-box-decoration-break: clone;
+    box-decoration-break: clone;
+    font-size: 90%;
+    padding-bottom:2px;
+    color: white;
+    word-break: break-word;
+    font-family: SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
+}
+/* /CODE */
 
 img {
     border-radius:5px;
@@ -123,17 +180,6 @@ img {
     border-radius: .2rem;
 }
 
-.md-typeset code {
-    background-color: var(--md-code-bg-color);
-    border-radius: 8px;
-    -webkit-box-decoration-break: clone;
-    box-decoration-break: clone;
-    font-size: 90%;
-    color: #f66d9b;
-    word-break: break-word;
-    font-family: SFMono-Regular,Menlo,Monaco,Consolas,Liberation Mono,Courier New,monospace;
-}
-
 .ndc {
     font-size: 90%;
     color: #2c3e50;
@@ -148,7 +194,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .md-typeset h1 {
     color: #227dc7;
-    font-size: 1.4rem;
+    font-size: 1rem;
     text-transform: uppercase;
     font-weight: 800;  
     margin-bottom: 0rem;
@@ -237,14 +283,3 @@ nav__list>.md-nav__item--active .md-nav--secondary {
     font-size: .65rem !important;
 }
 
-
-/* ADMONITION */
-.md-typeset .admonition.danger, .md-typeset details.danger {
-    border-color: #ff1744;
-    background-color: #ff17441a;
-    color: white;
-}
-
-.md-typeset .danger>.admonition-title, .md-typeset .danger>summary {
-    background-color: #ff17441a;
-}

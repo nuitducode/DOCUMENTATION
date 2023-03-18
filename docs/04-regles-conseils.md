@@ -5,6 +5,9 @@ hide:
 
 # RÈGLES ET CONSEILS
 
+!!! info ""
+    Les informations ci-dessous seront proposées au format PDF dans les prochains jours. Vous pourrez ainsi imprimer les documents et les distribuer aux élèves le jour de la NDC.
+
 ## SCRATCH
 
 Durant l'épreuve de la Nuit du c0de, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour cela, vous devrez utiliser l'un des univers de jeu mis à votre disposition. Ces univers de jeu ne contiennent aucun script, mais possèdent de nombreux lutins, des scènes et des sons.
