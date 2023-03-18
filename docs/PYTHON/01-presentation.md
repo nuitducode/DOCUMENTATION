@@ -4,10 +4,9 @@ Pour la NDC, les élèves développeront leur jeu avec **Pyxel**, un moteur de j
 
 Pour préparer la Nuit du c0de avec les élèves, voici plusieurs ressources qui permettent de mettre en place des séances de découverte / approfondissement de Python / Pyxel encadrées ou en autonomie.
 
-* 2 [tutoriels au format "cahier numérique"](/DOCUMENTATION/SCRATCH/02-cahiers-numeriques-scratch)
-* 18 [tutoriels vidéo](/DOCUMENTATION/SCRATCH/03-videos)
-* 4 [exercices d'entraînement ou de sélection](/DOCUMENTATION/SCRATCH/04-entrainements-selections)
-* Univers de jeu Python / Pyxel [2022](/DOCUMENTATION/SCRATCH/05-univers-scratch-2022)
+* 2 tutoriels au format "cahier numérique" [Premiers pas avec Pyxel - Première](www.cahiernum.net/J682W5) et [Premiers pas avec Pyxel - Terminale](www.cahiernum.net/KV8H5B)
+* [Tutoriels et exercices](/DOCUMENTATION/PYTHON/TUTORIELS)
+* Univers de jeu Python / Pyxel [2022](/DOCUMENTATION/PYTHON/03-univers-python-2022/)
 
 "Grâce à ses spécifications simples inspirées par les consoles rétro, comme le fait que seulement 16 couleurs peuvent être affichées et que seulement 4 sons peuvent être lus en même temps, vous pouvez vous sentir libre de créer des jeux vidéo dans le style pixel art. Les spécifications et les API de Pyxel sont inspirées de PICO-8 et TIC-80. Pyxel est un logiciel libre et open source." 
 
