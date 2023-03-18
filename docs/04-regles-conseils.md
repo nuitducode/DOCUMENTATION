@@ -5,7 +5,7 @@ hide:
 
 # RÈGLES ET CONSEILS
 
-!!! info ""
+!!! note ""
     Les informations ci-dessous seront proposées au format PDF dans les prochains jours. Vous pourrez ainsi imprimer les documents et les distribuer aux élèves le jour de la NDC.
 
 ## SCRATCH

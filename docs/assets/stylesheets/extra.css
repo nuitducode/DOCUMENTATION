@@ -51,6 +51,27 @@ body {
 }
 /* /ADMONITION INFO */
 
+/* ADMONITION NOTE */
+.md-typeset .admonition.note, .md-typeset details.note {
+    border-color: #bdc3c7;
+    background-color: #bdc3c7;
+    color: #2c3e50;
+    padding-top: 5px;
+}
+
+.md-typeset .note>.admonition-title, .md-typeset .note>summary {
+    background-color: #bdc3c7;
+}
+
+.md-typeset .admonition-title, .md-typeset summary {
+    padding-bottom: 0;
+}
+
+.md-typeset .note>.admonition-title:before, .md-typeset .note>summary:before {
+    background-color: white;
+}
+/* /ADMONITION NOTE */
+
 
 /* CODE */
 .md-typeset code {
