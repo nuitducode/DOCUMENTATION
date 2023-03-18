@@ -4,7 +4,7 @@ Pour la NDC, les élèves développeront leur jeu avec **Pyxel**, un moteur de j
 
 Pour préparer la Nuit du c0de avec les élèves, voici plusieurs ressources qui permettent de mettre en place des séances de découverte / approfondissement de Python / Pyxel encadrées ou en autonomie.
 
-* Deux tutoriels au format "cahier numérique": [Premiers pas avec Pyxel - Première](www.cahiernum.net/J682W5) et [Premiers pas avec Pyxel - Terminale](www.cahiernum.net/KV8H5B)
+* Trois tutoriels au format "cahier numérique": [Premiers pas avec Pyxel - Première](www.cahiernum.net/J682W5), [Premiers pas avec Pyxel - Terminale](www.cahiernum.net/KV8H5B) et [Tutoriel détaillé - Terminale](www.cahiernum.net/CGS8UD)
 * [Tutoriels et exercices](/DOCUMENTATION/PYTHON/TUTORIELS)
 * Univers de jeu Python / Pyxel [2022](/DOCUMENTATION/PYTHON/03-univers-python-2022/)
 
