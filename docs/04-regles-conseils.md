@@ -108,6 +108,7 @@ Pour déposer votre jeu sur le site de la Nuit du c0de, un lien vous sera fourni
 Tous les jeux créés dans votre établissement seront testés et évalués. Par catégories, les premiers de chaque établissement participeront à un classement international.
 
 Les critères sont :
+
 * Jouabilité ! **les jeux non jouables ne seront pas évalués !**
 * Originalité / Créativité
 * Richesse / Complexité
