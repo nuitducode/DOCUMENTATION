@@ -9,6 +9,23 @@
     background-color: #fafcfe;
 }
 
+/* ADMONITION */
+.md-typeset .admonition.danger, .md-typeset details.danger {
+    border-color: #e74c3c;
+    background-color: #e74c3c;
+    color: white;
+}
+
+.md-typeset .danger>.admonition-title, .md-typeset .danger>summary {
+    background-color: #e74c3c;
+}
+
+.md-typeset .admonition-title, .md-typeset summary {
+    padding-bottom: 0;
+}
+/* /ADMONITION */
+
+
 img {
     border-radius:5px;
 }
@@ -237,14 +254,3 @@ nav__list>.md-nav__item--active .md-nav--secondary {
     font-size: .65rem !important;
 }
 
-
-/* ADMONITION */
-.md-typeset .admonition.danger, .md-typeset details.danger {
-    border-color: #e74c3c;
-    background-color: #e74c3c;
-    color: white;
-}
-
-.md-typeset .danger>.admonition-title, .md-typeset .danger>summary {
-    background-color: #e74c3c;
-}
