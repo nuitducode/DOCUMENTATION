@@ -9,6 +9,12 @@ hide:
 
 Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">générateur d'affiche</a>.
 
+
+## DIAPORAMA
+
+Ouvrir le <a href="https://nuitducode.github.io/ndc-diaporama-presentation/" target="_blank">diaporama</a>.
+
+
 ## OBJETS 3D
 
 **Porte clé**
