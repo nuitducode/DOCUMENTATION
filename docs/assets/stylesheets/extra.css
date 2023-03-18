@@ -32,14 +32,14 @@
 
 /* ADMONITION INFO */
 .md-typeset .admonition.info, .md-typeset details.info {
-    border-color: #3498db;
-    background-color: #3498db;
+    border-color: #27ae60;
+    background-color: #27ae60;
     color: white;
     padding-top: 5px;
 }
 
 .md-typeset .info>.admonition-title, .md-typeset .info>summary {
-    background-color: #3498db;
+    background-color: #27ae60;
 }
 
 .md-typeset .admonition-title, .md-typeset summary {
