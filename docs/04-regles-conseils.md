@@ -71,7 +71,7 @@ Les critères sont :
 
 ## PYTHON / PYXEL
 
-Durant l'épreuve de la Nuit du c0de, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxel. Pour cela, vous pouvez utiliser les ressources (fichiers `.pyxres`) mises à votre disposition ou partir de zéro.
+Durant l'épreuve de la Nuit du c0de, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxel. Pour cela, vous pouvez utiliser les ressources (fichiers <kbd>.pyxres<kbd>) mises à votre disposition ou partir de zéro.
 
 ### LES RÈGLES
 
