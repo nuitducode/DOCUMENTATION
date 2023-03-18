@@ -237,15 +237,14 @@ nav__list>.md-nav__item--active .md-nav--secondary {
     font-size: .65rem !important;
 }
 
-.md-typeset .admonition, .md-typeset details {
-    background-color: #e74c3c;
-    border: 0 solid #e74c3c;
-    border-radius: 0.2rem;
-    box-shadow: var(--md-shadow-z1);
+
+/* ADMONITION */
+.md-typeset .admonition.danger, .md-typeset details.danger {
+    border-color: #ff1744;
+    background-color: #ff17441a;
     color: white;
-    display: flow-root;
-    font-size: .64rem;
-    margin: 1.5625em 0;
-    padding: 0 0.6rem;
-    page-break-inside: avoid;
+}
+
+.md-typeset .danger>.admonition-title, .md-typeset .danger>summary {
+    background-color: #ff17441a;
 }
