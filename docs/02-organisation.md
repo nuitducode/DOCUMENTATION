@@ -73,7 +73,7 @@ Les jeux qui auront été enregistrés sur le site de la NDC pourront être éva
 
 Critères d'évaluation (chaque critère est noté sur 5) :
 
-* Jouabilité ! **les jeux non jouables ne seront pas évalués !**
+* Jouabilité
 * Originalité / Créativité
 * Richesse / Complexité
 * Respect des consignes / Documentation

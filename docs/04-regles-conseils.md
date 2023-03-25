@@ -61,7 +61,7 @@ Chaque établissement peut proposer deux jeux par catégorie pour participer à 
 
 Critères d'évaluation (chaque critère est noté sur 5) :
 
-* Jouabilité ! **les jeux non jouables ne seront pas évalués !**
+* Jouabilité
 * Originalité / Créativité
 * Richesse / Complexité
 * Respect des consignes / Documentation
@@ -107,7 +107,7 @@ Chaque établissement peut proposer deux jeux par catégorie pour participer à 
 
 Critères d'évaluation (chaque critère est noté sur 5) :
 
-* Jouabilité ! **les jeux non jouables ne seront pas évalués !**
+* Jouabilité
 * Originalité / Créativité
 * Richesse / Complexité
 * Respect des consignes / Documentation
