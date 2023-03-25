@@ -44,7 +44,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 
 ### IMPORTANT: À LA FIN DES 6h
 
-#### Si vous avez créé votre jeu en ligne avec un compte Scratch
+#### Cas 1: si vous avez créé votre jeu en ligne avec un compte Scratch
 
 * **Partagez votre jeu** en cliquant sur le bouton orange « Partager » (« Share » en anglais).
 * **Enregistrez votre jeu** sur le site de la Nuit du c0de.
@@ -57,7 +57,7 @@ Exemple: si l'adresse est https://scratch.mit.edu/projects/6535/, l'identifiant 
     Après avoir déposé votre jeu, vous n'aurez plus le droit de le modifier. Les jeux modifiés après le dépôt ne seront pas évalués.
 
 
-#### Si vous avez créé votre jeux sans connection internet
+#### Cas 2: si vous avez créé votre jeux sans connection internet
 
 Rendre le fichier `.sb3` en suivant les consignes fournies par vos enseignants.
 
