@@ -57,7 +57,7 @@ Exemple: si l'adresse est https://scratch.mit.edu/projects/6535/, l'identifiant 
     Après avoir déposé votre jeu, vous n'aurez plus le droit de le modifier. Les jeux modifiés après le dépôt ne seront pas évalués.
 
 
-#### Cas 2: si vous avez créé votre jeux sans connection internet
+#### Cas 2: si vous avez créé votre jeu sans connexion internet
 
 Rendre le fichier `.sb3` en suivant les consignes fournies par vos enseignants.
 
