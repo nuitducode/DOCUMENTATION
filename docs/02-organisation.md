@@ -65,7 +65,7 @@ La préparation des élèves peut aussi se faire dans le cadre des programmes de
 ## ÉVALUATION DES JEUX
 L'évaluation des jeux n'est obligatoire que si vous souhaitez proposer des jeux pour la sélection internationale. Chaque établissement peut proposer deux jeux par catégorie.
 
-Cette phase d'évaluation est cependant un moment convivial où les élèves découvrent les jeux de leurs camarades et où les enseignants et les encadrant prennent la mesure du travail accompli. Cela permet aussi de clore la NDC avec une cérémonie de remise de diplômes et, éventuellement, de récompenses.
+Cette phase d'évaluation est cependant un moment convivial où les élèves découvrent les jeux de leurs camarades et où les enseignants et les encadrants prennent la mesure du travail accompli. Cela permet aussi de clore la NDC avec une cérémonie de remise de diplômes et, éventuellement, de récompenses.
 
 L'évaluation des jeux et la cérémonie peuvent se faire tout de suite après les 6h ou quelques jours après. Attention cependant à ne pas dépasser la date limite s'il est prévu de proposer des jeux pour la sélection internationale.
 
