@@ -42,9 +42,9 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 * N'oubliez pas de faire des pauses, d'aller voir ce que font les autres, de boire et de manger !
 * Et puis surtout, rappelez-vous: c'est un jeu ! **Amusez-vous !**
 
-### IMPORTANT: AVANT LA FIN DES 6h
+### IMPORTANT: À LA FIN DES 6h
 
-Avant la fin des 6h:
+#### Si vous avez créé votre jeu en ligne avec un compte Scratch
 
 * **Partagez votre jeu** en cliquant sur le bouton orange « Partager » (« Share » en anglais).
 * **Enregistrez votre jeu** sur le site de la Nuit du c0de.
@@ -55,6 +55,11 @@ Exemple: si l'adresse est https://scratch.mit.edu/projects/6535/, l'identifiant 
 
 !!! danger ""
     Après avoir déposé votre jeu, vous n'aurez plus le droit de le modifier. Les jeux modifiés après le dépôt ne seront pas évalués.
+
+
+#### Si vous avez créé votre jeux sans connection internet
+
+Rendre le fichier `.sb3` en suivant les consignes fournies par vos enseignants.
 
 ###  CRITÈRES D'ÉVALUATION
 Chaque établissement peut proposer deux jeux par catégorie pour participer à la sélection internationale.
@@ -95,7 +100,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 * N'oubliez pas de faire des pauses, d'aller voir ce que font les autres, de boire et de manger !
 * Et puis surtout, rappelez-vous: c'est un jeu ! **Amusez-vous !**
 
-### IMPORTANT: AVANT LA FIN DES 6h
+### IMPORTANT: À LA FIN DES 6h
 
 Avant la fin des 6h, déposez votre jeu sur le site de la Nuit du c0de.
 

@@ -78,6 +78,7 @@ Critères d'évaluation (chaque critère est noté sur 5) :
 * Richesse / Complexité
 * Respect des consignes / Documentation
 
+
 ## FEUILLE DE ROUTE & RESSOURCES
 
 Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas de "goodies", pas d'intervenants, pas de récompenses...).
