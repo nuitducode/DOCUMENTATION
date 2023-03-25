@@ -59,14 +59,12 @@ Exemple: si l'adresse est https://scratch.mit.edu/projects/6535/, l'identifiant 
 ###  CRITÈRES D'ÉVALUATION
 Chaque établissement peut proposer deux jeux par catégorie pour participer à la sélection internationale.
 
-Les critères d'évaluation sont:
+Critères d'évaluation (chaque critère est noté sur 5) :
 
 * Jouabilité ! **les jeux non jouables ne seront pas évalués !**
 * Originalité / Créativité
 * Richesse / Complexité
 * Respect des consignes / Documentation
-
-
 
 
 ## PYTHON / PYXEL
@@ -107,7 +105,7 @@ Pour déposer votre jeu sur le site de la Nuit du c0de, un lien vous sera fourni
 
 Chaque établissement peut proposer deux jeux par catégorie pour participer à la sélection internationale.
 
-Les critères d'évaluation sont:
+Critères d'évaluation (chaque critère est noté sur 5) :
 
 * Jouabilité ! **les jeux non jouables ne seront pas évalués !**
 * Originalité / Créativité
