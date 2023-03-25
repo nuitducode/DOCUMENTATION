@@ -228,7 +228,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .md-typeset h1 {
     color: #227dc7;
-    font-size: 1rem;
+    font-size: 1.2rem;
     text-transform: uppercase;
     font-weight: 800;  
     margin-bottom: 0rem;
@@ -237,7 +237,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .md-typeset h2 {
     color: #227dc7;
-    font-size: 0.8rem;
+    font-size: 1rem;
     text-transform: uppercase;
     font-weight: 600;   
     margin-bottom: 0rem;
@@ -245,7 +245,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .md-typeset h3, .h3 {
     color:#4c9ce5;
-    font-size:0.7rem;
+    font-size:0.8rem;
     text-transform: uppercase;
     line-height: 1.2rem;
     font-weight: 600; 
@@ -254,7 +254,7 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
 
 .md-typeset h4, .h4 {
     color:#64aaeb;
-    font-size:0.7rem;
+    font-size:0.8rem;
     line-height: 1.2rem;
     font-weight: 600; 
     margin-bottom: 0rem; 
