@@ -72,6 +72,7 @@ L'évaluation des jeux et la cérémonie peuvent se faire tout de suite après l
 Les jeux qui auront été enregistrés sur le site de la NDC pourront être évalués en ligne. Si les jeux n'ont pas été enregistrés sur le site, les établissements ont la possibilité de s'organiser comme ils le souhaitent pour définir la liste des jeux sélectionnés. Seule contrainte: respecter les critères d'évaluation.
 
 Critères d'évaluation (chaque critère est noté sur 5) :
+
 * Jouabilité ! **les jeux non jouables ne seront pas évalués !**
 * Originalité / Créativité
 * Richesse / Complexité
