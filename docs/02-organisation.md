@@ -62,10 +62,10 @@ La préparation des élèves peut aussi se faire dans le cadre des programmes de
 * **Confirmer la présence du ou des intervenants** (si cela est prévu)
 * **Faire le point avec l'établissement invité** (si cela est prévu)
 
-
 ## ÉVALUATION DES JEUX
-Prévoir un temps pour l'évaluation de tous les jeux créés pendant la **Nuit du c0de**. Chaque établissement doit sélectionner ses équipes championnes. Il est important d'associer les élèves dans cette sélection. Cela peut se faire tout de suite après l'événement, lors d'un autre moment banalisé, à la maison... Cela dépend du nombre d'équipes participantes dans votre établissement. L'évaluation des jeux se fera via le site.
-
+L'évaluation des jeux n'est obligatoire que si vous souhaitez proposer des jeux pour la sélection internationale. Chaque établissement peut proposer deux jeux par catégorie.
+L'évaluation des jeux peut se faire tout de suite après l'événement, lors d'un autre moment banalisé, en classe ou à la maison. Elle peut être faite par les élèves, des enseignants, des encadrants...
+Les jeux qui auront été enregistrés sur le site de la NDC pourront être évalués en ligne avec les curseurs d'évaluations. Si les jeux n'ont pas été enregistrés sur le site, les établissements peuvent s'organiser comme ils le souhaitent pour définir les jeux sélectionnés.
 
 ## FEUILLE DE ROUTE & RESSOURCES
 

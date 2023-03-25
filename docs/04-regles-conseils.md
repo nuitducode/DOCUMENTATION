@@ -57,9 +57,9 @@ Exemple: si l'adresse est https://scratch.mit.edu/projects/6535/, l'identifiant 
     Après avoir déposé votre jeu, vous n'aurez plus le droit de le modifier. Les jeux modifiés après le dépôt ne seront pas évalués.
 
 ###  CRITÈRES D'ÉVALUATION
-Tous les jeux créés dans votre établissement seront testés et évalués. Par catégories, les premiers de chaque établissement participeront à un classement international.
+Chaque établissement peut proposer deux jeux par catégorie pour participer à la sélection internationale.
 
-Les critères sont:
+Les critères d'évaluation sont:
 
 * Jouabilité ! **les jeux non jouables ne seront pas évalués !**
 * Originalité / Créativité
@@ -105,9 +105,9 @@ Pour déposer votre jeu sur le site de la Nuit du c0de, un lien vous sera fourni
 
 ###  CRITÈRES D'ÉVALUATION
 
-Tous les jeux créés dans votre établissement seront testés et évalués. Par catégories, les premiers de chaque établissement participeront à un classement international.
+Chaque établissement peut proposer deux jeux par catégorie pour participer à la sélection internationale.
 
-Les critères sont:
+Les critères d'évaluation sont:
 
 * Jouabilité ! **les jeux non jouables ne seront pas évalués !**
 * Originalité / Créativité
