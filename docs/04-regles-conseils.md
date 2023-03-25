@@ -49,7 +49,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 * **Partagez votre jeu** en cliquant sur le bouton orange « Partager » (« Share » en anglais).
 * **Enregistrez votre jeu** sur le site de la Nuit du c0de.
 
-Pour enregistrer votre jeu sur le site de la Nuit du c0de, un lien vous sera fourni par les enseignants. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie et l'identifiant de votre projet. L'identifiant du projet est la suite de chiffres présente dans son adresse.
+Pour enregistrer votre jeu sur le site de la Nuit du c0de, un lien vous sera fourni. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie et l'identifiant de votre projet. L'identifiant du projet est la suite de chiffres présente dans son adresse.
 
 Exemple: si l'adresse est https://scratch.mit.edu/projects/6535/, l'identifiant est 6535.
 
@@ -104,7 +104,15 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 
 Avant la fin des 6h, déposez votre jeu sur le site de la Nuit du c0de.
 
-Pour déposer votre jeu sur le site de la Nuit du c0de, un lien vous sera fourni par les enseignants. Ce lien vous amènera sur la page de dépôt. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie puis déposer votre fichier <kbd>.py</kbd> et, si s'il existe, le fichier <kbd>.pyxres</kbd>.
+#### Cas 1: si vous avez créé votre jeu en ligne sur le site de la Nuit du c0de
+
+Vous n'avez rien à faire.
+
+#### Cas 2: si vous avez créé votre jeu sans connexion internet
+
+Déposez votre jeu sur le site de la Nuit du c0de en utilisant le lien fourni par vos enseignants. Ce lien vous amènera sur la page de dépôt. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie puis déposer votre fichier <kbd>.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd>.
+
+Si vous n'avez pas la possibilité de deposer vous-meme ces fichiers sur le site de la Nuit du c0de, donnez les à vos enseignants.
 
 ###  CRITÈRES D'ÉVALUATION
 
