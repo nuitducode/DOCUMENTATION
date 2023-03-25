@@ -65,7 +65,7 @@ La préparation des élèves peut aussi se faire dans le cadre des programmes de
 ## ÉVALUATION DES JEUX
 L'évaluation des jeux n'est obligatoire que si vous souhaitez proposer des jeux pour la sélection internationale. Chaque établissement peut proposer deux jeux par catégorie.
 L'évaluation des jeux peut se faire tout de suite après l'événement, lors d'un autre moment banalisé, en classe ou à la maison. Elle peut être faite par les élèves, des enseignants, des encadrants...
-Les jeux qui auront été enregistrés sur le site de la NDC pourront être évalués en ligne avec les curseurs d'évaluations. Si les jeux n'ont pas été enregistrés sur le site, les établissements peuvent s'organiser comme ils le souhaitent pour définir les jeux sélectionnés.
+Les jeux qui auront été enregistrés sur le site de la NDC pourront être évalués en ligne. Si les jeux n'ont pas été enregistrés sur le site, les établissements peuvent s'organiser comme ils le souhaitent pour définir les jeux sélectionnés.
 
 ## FEUILLE DE ROUTE & RESSOURCES
 
