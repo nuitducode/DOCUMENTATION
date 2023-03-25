@@ -59,7 +59,7 @@ Exemple: si l'adresse est https://scratch.mit.edu/projects/6535/, l'identifiant 
 
 #### Cas 2: si vous avez créé votre jeu sans connexion internet
 
-Rendre le fichier `.sb3` en suivant les consignes fournies par vos enseignants.
+Rendre le fichier `.sb3` en suivant les consignes fournies par votre enseignant.
 
 ###  CRITÈRES D'ÉVALUATION
 Chaque établissement peut proposer deux jeux par catégorie pour participer à la sélection internationale.
@@ -110,9 +110,9 @@ Vous n'avez rien à faire.
 
 #### Cas 2: si vous avez créé votre jeu sans connexion internet
 
-Déposez votre jeu sur le site de la Nuit du c0de en utilisant le lien fourni par vos enseignants. Ce lien vous amènera sur la page de dépôt. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie puis déposer votre fichier <kbd>.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd>.
+Déposez votre jeu sur le site de la Nuit du c0de en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page de dépôt. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie puis déposer votre fichier <kbd>.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd>.
 
-Si vous n'avez pas la possibilité de deposer vous-meme ces fichiers sur le site de la Nuit du c0de, donnez les à vos enseignants.
+Si vous n'avez pas la possibilité de déposer vous-même ces fichiers sur le site, donnez-les à votre enseignant.
 
 ###  CRITÈRES D'ÉVALUATION
 
