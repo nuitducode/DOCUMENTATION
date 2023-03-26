@@ -100,8 +100,8 @@ Les jeux qui auront été déposés sur le site de la **NDC** pourront être év
 Critères d'évaluation (chaque critère est noté sur 5) :
 
 * Jouabilité
-* Originalité / Créativité
 * Richesse / Complexité
+* Originalité / Créativité
 * Respect des consignes / Documentation
 
 <center>

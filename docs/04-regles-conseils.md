@@ -64,8 +64,8 @@ Rendre le fichier `.sb3` en suivant les consignes fournies par votre enseignant.
 Chaque critère est noté sur 5:
 
 * Jouabilité
-* Originalité / Créativité
 * Richesse / Complexité
+* Originalité / Créativité
 * Respect des consignes / Documentation
 
 
@@ -116,6 +116,6 @@ Si vous n'avez pas la possibilité de déposer vous-même ces fichiers sur le si
 Chaque critère est noté sur 5:
 
 * Jouabilité
-* Originalité / Créativité
 * Richesse / Complexité
+* Originalité / Créativité
 * Respect des consignes / Documentation
