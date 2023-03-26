@@ -49,9 +49,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 * **Partagez votre jeu** en cliquant sur le bouton orange « Partager » (« Share » en anglais).
 * **Enregistrez votre jeu** sur le site de la Nuit du c0de.
 
-Pour enregistrer votre jeu sur le site de la Nuit du c0de, un lien vous sera fourni. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie et l'identifiant de votre projet. L'identifiant du projet est la suite de chiffres présente dans son adresse.
-
-Exemple: si l'adresse est `https://scratch.mit.edu/projects/6535`, l'identifiant est `6535`.
+Pour enregistrer votre jeu sur le site de la Nuit du c0de, un lien vous sera fourni. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie et l'identifiant de votre projet. L'identifiant du projet est la suite de chiffres présente dans son adresse. Exemple: si l'adresse est `https://scratch.mit.edu/projects/6535`, l'identifiant est `6535`.
 
 !!! danger ""
     Après avoir déposé votre jeu, vous n'aurez plus le droit de le modifier. Les jeux modifiés après le dépôt ne seront pas évalués.
@@ -62,9 +60,8 @@ Exemple: si l'adresse est `https://scratch.mit.edu/projects/6535`, l'identifiant
 Rendre le fichier `.sb3` en suivant les consignes fournies par votre enseignant.
 
 ###  CRITÈRES D'ÉVALUATION
-Chaque établissement peut proposer deux jeux par catégorie pour participer à la sélection internationale.
 
-Critères d'évaluation (chaque critère est noté sur 5) :
+Chaque critère est noté sur 5:
 
 * Jouabilité
 * Originalité / Créativité
@@ -80,7 +77,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 
 !!! danger "IMPORTANT"
     * Les univers de jeu et les liens fournis sont **confidentiels**. Ils ne doivent être partagés avec personne.
-    * Le titre de votre jeu doit être le nom de votre équipe. Les mots suivants ne doivent pas apparaitre dans le titre ni dans les champs « Instructions » ou « Notes et Crédits » de votre jeu (ou des différentes versions de votre jeu): « nuit », « code », « c0de », « 2023 », « NdC », « ndc ».
+    * Le titre de votre jeu doit être le nom de votre équipe.
 
 * La taille de l'écran du jeu doit être de **128x128 pixels** (<kbd>pyxel.init(128, 128, title="Nuit du c0de 2023")</kbd>).
 * Le code de votre jeu doit être dans <u>un seul fichier</u> <kbd>app.py</kbd>. Si vous utilisez des images, elles seront dans un deuxième fichier au format <kbd>.pyxres</kbd>.
@@ -116,9 +113,7 @@ Si vous n'avez pas la possibilité de déposer vous-même ces fichiers sur le si
 
 ###  CRITÈRES D'ÉVALUATION
 
-Chaque établissement peut proposer deux jeux par catégorie pour participer à la sélection internationale.
-
-Critères d'évaluation (chaque critère est noté sur 5) :
+Chaque critère est noté sur 5:
 
 * Jouabilité
 * Originalité / Créativité
