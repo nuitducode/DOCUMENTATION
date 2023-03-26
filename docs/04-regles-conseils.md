@@ -17,7 +17,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 
 !!! danger "IMPORTANT"
     * Les univers de jeu et les liens fournis sont **confidentiels**. Ils ne doivent être partagés avec personne.
-    * Le titre de votre jeu doit être le nom de votre équipe. Les mots suivants ne doivent pas apparaitre dans le titre ni dans les champs « Instructions » ou « Notes et Crédits » de votre jeu (ou des différentes versions de votre jeu): « nuit », « code », « c0de », « 2023 », « NdC », « ndc ».
+    * Le titre de votre jeu doit être le nom de votre équipe. Les mots suivants ne doivent apparaitre ni dans le titre ni dans les champs « Instructions » ou « Notes et Crédits » de votre jeu (ou des différentes versions de votre jeu): « nuit », « code », « c0de », « 2023 », « NdC », « ndc ».
 
 * **Vous devez choisir un univers de jeu parmi ceux proposés**. Prenez le temps de bien étudier les différents univers de jeu (lutins, costumes, décors…) avant d'en choisir un. Une fois votre choix fait, cliquez sur « Remix ». Cet univers « remixé » devient le point de départ de votre jeu.
 * **Vous devez écrire une courte documentation** (ou mode d'emploi) de votre jeu. Cette documentation doit être placée dans le champ « Instructions ». La documentation fait partie de l'évaluation du jeu.
