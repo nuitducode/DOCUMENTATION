@@ -128,8 +128,8 @@ Attention, il s'agit bien d'un exemple, et non pas d'un modèle. Voici les princ
 * Chaque élève sera équipé d'un Chromebook.
 * L'établissement sera décoré par des élèves du primaire et du secondaire (thèmes pixel-art et rétro-gaming).
 * Un buffet (pizzas, snacks variés et boissons) sera proposé durant l'événement.
-* Les jeux réalisés seront testés et évalués par les élèves et des enseignants tout de suite après l'épreuve (nous ferons une pause de 30 minutes avant).
-* Une remise de prix se fera dans la foulée pour les meilleures équipes des différentes catégories.
+* Les jeux réalisés seront testés et évalués par les élèves et des enseignants tout de suite après les 6h (nous ferons une pause de 30 minutes avant).
+* Une remise de récompenses se fera dans la foulée pour les meilleures équipes des différentes catégories.
 
 ## NOUS COMPTONS SUR VOUS !
 Vous l'aurez compris, le bon déroulement de la **Nuit du c0de** dans votre établissement repose en grande partie sur une bonne préparation. Inutile, lors d'une première participation de vouloir trop en faire : des ordinateurs et de quoi grignoter suffiront à passer un très bon moment. Vous pourrez toujours faire plus et mieux les années suivantes !
