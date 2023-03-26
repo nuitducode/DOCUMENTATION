@@ -60,14 +60,11 @@ Si le projet vous intéresse, vous pouvez vous inscrire sur le site [nuitducode.
 Les établissements inscrits auront accès à de nombreuses ressources : tutoriels, vidéos, guides, espace de discussions... Des univers de jeu avec grilles d'évaluation seront aussi disponibles. Ils pourront être utilisés soit pour organiser des séances d'entraînement avec les élèves, soit comme sujets de sélection (si le nombre d'élèves souhaitant participer est supérieur à la capacité d'accueil de l'établissement). Soit les deux.
 
 * <b style="color:#4c9ce5">1er Mai – 27 Mai 2023 : Nuit du c0de</b></br>
-Les établissements inscrits recevront 48h avant la date qu'ils auront fixée pour la **Nuit du c0de**, les univers de jeu qui seront proposés aux élèves. Ces sujets sont confidentiels !
-
-La **Nuit du c0de** demande un minimum de logistique : ordinateurs en nombre suffisant (d'où la possible nécessité d'organiser des sélections), des encadrants, nourriture et boissons pour les personnes présentes.
-
+Les établissements inscrits recevront 48h avant la date qu'ils auront fixée pour la **Nuit du c0de**, les univers de jeu qui seront proposés aux élèves. Ces sujets sont confidentiels !<br />
+La **Nuit du c0de** demande un minimum de logistique : ordinateurs en nombre suffisant (d'où la possible nécessité d'organiser des sélections), des encadrants, nourriture et boissons pour les personnes présentes.<br />
 Si des regroupements d'établissements proches sont possibles, ils sont encouragés.
 
-### Début juin 2023 : annonce de la sélection "Nuit du c0de 2023"
-
+* <b style="color:#4c9ce5">Début juin 2023 : annonce de la sélection "Nuit du c0de 2023"</b></br>
 Huit jeux par catégories seront sélectionnés par un jury d'enseignants. 
 
 <br />
