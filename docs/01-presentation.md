@@ -69,7 +69,7 @@ Huit jeux par catégories seront sélectionnés par un jury d'enseignants.
 
 <br />
 
-Pour toute question et demande de précisions, vous pouvez utiliser l'[espace de discussions](https://github.com/nuitducode/ORGANISATION/discussions) ou prendre contact avec l'équipe organisatrice en écrivant à <u>contact@nuitducode.net</u>.
+Pour toute question et demande de précisions, vous pouvez utiliser l'[espace de discussions](https://github.com/nuitducode/ORGANISATION-2023/discussions) ou prendre contact avec l'équipe organisatrice en écrivant à <u>contact@nuitducode.net</u>.
 
 <br />
 
