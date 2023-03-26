@@ -16,31 +16,24 @@
 
 ## Programmer un jeu vidéo avec Pyxel : 2/5
 
-* sujet [pdf](tuto2/Tutoriel_Pyxel_2.pdf)
-* sujet [docx](tuto2/Tutoriel_Pyxel_2.docx)
-* correction [pdf](tuto2/Tutoriel_Pyxel_2_correction.pdf)
-* correction [docx](tuto2/Tutoriel_Pyxel_2_correction.docx)
+* sujet [pdf](tuto3/Tutoriel_Pyxel_2.pdf)
+* sujet [docx](tuto3/Tutoriel_Pyxel_2.docx)
 
 ## Programmer un jeu vidéo avec Pyxel : 3/5
 
-* sujet [pdf](tuto3/Tutoriel_Pyxel_3.pdf)
-* sujet [docx](tuto3/Tutoriel_Pyxel_3.docx)
-* correction [pdf](tuto3/Tutoriel_Pyxel_3_correction.pdf)
-* correction [docx](tuto3/Tutoriel_Pyxel_3_correction.docx)
+* sujet [pdf](tuto4/Tutoriel_Pyxel_3.pdf)
+* sujet [docx](tuto4/Tutoriel_Pyxel_3.docx)
 
 ## Programmer un jeu vidéo avec Pyxel : 4/5
 
-* sujet [pdf](tuto4/Tutoriel_Pyxel_4.pdf)
-* sujet [docx](tuto4/Tutoriel_Pyxel_4.docx)
-* correction [pdf](tuto4/Tutoriel_Pyxel_4_correction.pdf)
-* correction [docx](tuto4/Tutoriel_Pyxel_4_correction.docx)
+* sujet [docx](tuto5/Tutoriel_Pyxel_4.docx)
 
 ## Programmer un jeu vidéo avec Pyxel : 5/5
 
-* sujet [pdf](tuto5/Tutoriel_Pyxel_5.pdf)
-* sujet [docx](tuto5/Tutoriel_Pyxel_5.docx)
-* correction [pdf](tuto5/Tutoriel_Pyxel_5_correction.pdf)
-* correction [docx](tuto5/Tutoriel_Pyxel_5_correction.docx)
+* sujet [pdf](tuto6/Tutoriel_Pyxel_5.pdf)
+* sujet [docx](tuto6/Tutoriel_Pyxel_5.docx)
+* correction [pdf](tuto6/Tutoriel_Pyxel_5_correction.pdf)
+* correction [docx](tuto6/Tutoriel_Pyxel_5_correction.docx)
 
 ---
 

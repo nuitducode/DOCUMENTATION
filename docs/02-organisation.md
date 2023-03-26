@@ -62,6 +62,28 @@ La préparation des élèves peut aussi se faire dans le cadre des programmes de
 * **Confirmer la présence du ou des intervenants** (si cela est prévu)
 * **Faire le point avec l'établissement invité** (si cela est prévu)
 
+
+## DÉPÔT DES JEUX
+
+Il n'est pas obligatoire de déposer les jeux sur le site de la Nuit du c0de mais cela facilite grandement la phase d'évaluation et de sélection des jeux. En effet, pour l'évaluation, le site propose une interface qui permet d'évaluer facilement tous les jeux et d'ajouter automatiquement les jeux sélectionnés à la liste des jeux qui seront évalués pour la sélection internationale.
+
+Si les jeux n'ont pas pu être déposés sur le site de la Nuit du c0de par les élèves faute de connexion internet, ce dépôt peut être réalisé par les enseignants.
+
+### Pour les jeux Scratch
+
+* Récupérer les fichiers `.sb3`
+* Charger les fichiers `.sb3` sur un compte Scratch
+* Partager les jeux en cliquant sur le bouton orange « Partager » (« Share » en anglais).
+* Se connecter à la console de la NDC (https://www.nuitducode.net/console)
+* Ajouter les identifiant des jeux (si l'adresse est https://scratch.mit.edu/projects/6535/, l'identifiant est 6535) dans la zone de saisie (les identifiant peuvent être ajoutés un par un ou par lots).
+
+### Pour les jeux Python / Pyxel
+
+* Récupérer le fichier `app.py` et, s'il existe, le fichier `.pyxres`
+* Se connecter à la console de la NDC (https://www.nuitducode.net/console)
+* Déposer le ou les fichiers dans la section dédiée.
+
+
 ## ÉVALUATION DES JEUX
 L'évaluation des jeux n'est obligatoire que si vous souhaitez proposer des jeux pour la sélection internationale. Chaque établissement peut proposer deux jeux par catégorie.
 
@@ -69,7 +91,7 @@ Cette phase d'évaluation est cependant un moment convivial où les élèves dé
 
 L'évaluation des jeux et la cérémonie peuvent se faire à la suite ou séparément, tout de suite après les 6h ou quelques jours après. Attention cependant à ne pas dépasser la date limite s'il est prévu de proposer des jeux pour la sélection internationale.
 
-Les jeux qui auront été enregistrés sur le site de la NDC pourront être évalués en ligne. Si les jeux n'ont pas été enregistrés sur le site, les établissements ont la possibilité de s'organiser comme ils le souhaitent pour définir la liste des jeux sélectionnés. Seule contrainte: respecter les critères d'évaluation.
+Les jeux qui auront été déposés sur le site de la NDC pourront être évalués en ligne. Si les jeux n'ont pas été enregistrés sur le site, les établissements ont la possibilité de s'organiser comme ils le souhaitent pour définir la liste des jeux sélectionnés. Seule contrainte: respecter les critères d'évaluation.
 
 Critères d'évaluation (chaque critère est noté sur 5) :
 
@@ -77,6 +99,11 @@ Critères d'évaluation (chaque critère est noté sur 5) :
 * Originalité / Créativité
 * Richesse / Complexité
 * Respect des consignes / Documentation
+
+
+## PARTICIPATION LA SÉLECTION INTERNATIONALE
+* Si la sélection établissement s'est faite en ligne, vous n'avez rien à faire de plus. Les jeux sélectionnés pour l'établissement sont automatiquement ajoutés à la liste des jeux qui seront évalués pour la sélection internationale.
+* Si la sélection établissement s'est faite sans utiliser le site de la Nuit du c0de, les enseignants peuvent déposer les jeux sélectionnés sur le site en utilisant le lien qui leur sera fourni.
 
 
 ## FEUILLE DE ROUTE & RESSOURCES
