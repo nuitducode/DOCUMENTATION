@@ -66,7 +66,7 @@ Il n'est pas obligatoire de déposer les jeux sur le site de la **NDC** mais cel
 
 Si les jeux n'ont pas pu être déposés sur le site de la **NDC** par les élèves faute de connexion internet, ce dépôt peut être réalisé par les enseignants.
 
-### Pour les jeux Scratch
+### Dépôt de jeux Scratch
 
 * Récupérer les fichiers `.sb3`
 * Charger les fichiers `.sb3` sur un compte Scratch
@@ -74,7 +74,7 @@ Si les jeux n'ont pas pu être déposés sur le site de la **NDC** par les élè
 * Se connecter à la console de la NDC ([www.nuitducode.net/console](https://www.nuitducode.net/console))
 * Ajouter les identifiant des jeux (si l'adresse est `https://scratch.mit.edu/projects/6535`, l'identifiant est `6535`) dans la zone de saisie (les identifiant peuvent être ajoutés un par un ou par lots).
 
-### Pour les jeux Python / Pyxel
+### Dépôt de jeux Python / Pyxel
 
 * Récupérer le fichier `app.py` et, s'il existe, le fichier `.pyxres`
 * Se connecter à la console de la NDC ([www.nuitducode.net/console](https://www.nuitducode.net/console))
