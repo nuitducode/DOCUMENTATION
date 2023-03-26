@@ -93,7 +93,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 
 * Avant de vous lancer dans le code, prenez le temps d'imaginer votre jeu. Passez en revue les ressources. Prévoyez de réaliser rapidement une version simple, mais jouable de votre jeu. Puis, si vous en avez le temps, rajoutez au fur et à mesure des éléments de complexité: niveau de difficulté, scores, son, etc.
 * Vous travaillez à deux ou trois: organisez-vous pour être les plus efficaces possible.
-* **Pensez à sauvegarder** ! Et surtout, effectuez régulièrement **des copies incrémentées** (version 1, 2, 3…) de votre jeu à chaque amélioration majeure (qui marche).
+* **Pensez à sauvegarder** ! Et surtout, effectuez régulièrement **des copies incrémentées** (version 1, 2, 3…) de votre jeu à chaque amélioration majeure (qui marche) en téléchargeant le fichier `app.py`.
 * N'oubliez pas de faire des pauses, d'aller voir ce que font les autres, de boire et de manger !
 * Et puis surtout, rappelez-vous: c'est un jeu ! **Amusez-vous !**
 
