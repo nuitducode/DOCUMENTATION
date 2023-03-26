@@ -30,7 +30,7 @@ Tout est fait pour que la charge de travail du ou des organisateurs soit la plus
 
 * <b style="color:#4c9ce5">Penser aux autorisations parentales</b><br />Il peut être nécessaire d'obtenir des autorisations parentales. Notamment si l'événement est programmé en dehors des heures de cours. Cette démarche peut prendre du temps (délais de réponse des familles, relances, corrections...). Une bonne anticipation est donc nécessaire. Des modèles de lettre à envoyer aux familles sont proposés (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)).
 
-* <b style="color:#4c9ce5">Prévoir à manger et à boire</b><br />Nos jeunes codeurs ne tiendront pas 6 heures sans s'alimenter ! De plus, la **NDC** se veut un événement convivial. La ou les pauses nourriture / boissons y contribuent. Prévoir un coin snack et buvette est donc important et fait partie de cette ambiance qui doit être détendue et même festive. Les services de cantine peuvent être sollicités.
+* <b style="color:#4c9ce5">Prévoir à manger et à boire</b><br />Nos jeunes codeurs ne tiendront pas 6 heures sans s'alimenter ! De plus, la **NDC** se veut un événement convivial. La ou les pauses nourriture / boissons y contribuent. Prévoir un coin nourriture et boissons est donc important et fait partie de cette ambiance qui doit être détendue et même festive. Les services de cantine peuvent être sollicités.
 
 ## B. TÂCHES FACULTATIVES
 
