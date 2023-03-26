@@ -51,7 +51,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 
 Pour enregistrer votre jeu sur le site de la Nuit du c0de, un lien vous sera fourni. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie et l'identifiant de votre projet. L'identifiant du projet est la suite de chiffres présente dans son adresse.
 
-Exemple: si l'adresse est https://scratch.mit.edu/projects/6535/, l'identifiant est 6535.
+Exemple: si l'adresse est `https://scratch.mit.edu/projects/6535`, l'identifiant est `6535`.
 
 !!! danger ""
     Après avoir déposé votre jeu, vous n'aurez plus le droit de le modifier. Les jeux modifiés après le dépôt ne seront pas évalués.
