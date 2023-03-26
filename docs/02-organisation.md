@@ -88,7 +88,7 @@ Cette phase d'évaluation est cependant un moment convivial où les élèves dé
 
 L'évaluation des jeux et la cérémonie peuvent se faire à la suite ou séparément, tout de suite après les 6h ou quelques jours après. Attention cependant à ne pas dépasser la date limite s'il est prévu de proposer des jeux pour la sélection internationale.
 
-Les jeux qui auront été déposés sur le site de la **NDC** pourront être évalués en ligne. Si les jeux n'ont pas été enregistrés sur le site, les établissements ont la possibilité de s'organiser comme ils le souhaitent pour définir la liste des jeux sélectionnés. Seule contrainte: respecter les critères d'évaluation.
+Les jeux qui auront été déposés sur le site de la **NDC** pourront être évalués en ligne. Si les jeux n'ont pas été enregistrés sur le site, les établissements peuvent s'organiser comme ils le souhaitent pour définir la liste des jeux sélectionnés. Seule contrainte: respecter les critères d'évaluation.
 
 Critères d'évaluation (chaque critère est noté sur 5) :
 
