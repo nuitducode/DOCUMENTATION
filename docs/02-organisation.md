@@ -64,9 +64,11 @@ Tout est fait pour que la charge de travail du ou des organisateurs soit la plus
 
 Il n'est pas obligatoire de déposer les jeux sur le site de la **NDC** mais cela facilite grandement la phase d'évaluation et de sélection des jeux. En effet, pour l'évaluation, le site propose une interface qui permet d'évaluer facilement tous les jeux et d'ajouter automatiquement les jeux sélectionnés à la liste des jeux qui seront évalués pour la sélection internationale.
 
-Si les jeux n'ont pas pu être déposés sur le site de la **NDC** par les élèves faute de connexion internet, ce dépôt peut être réalisé par les enseignants.
+Si les jeux n'ont pas pu être déposés sur le site de la **NDC** par les élèves à cause d'un problème technique ou faute de connexion internet, ce dépôt peut être réalisé par les enseignants.
 
 ### Dépôt de jeux Scratch
+
+Ce qui suit est à réaliser par un enseignant dans le cas où les élèves n'ont pas pu déposer eux-même leur jeu sur le site (problème technique, pas de connexion internet...).
 
 * Récupérer les fichiers `.sb3`
 * Charger les fichiers `.sb3` sur un compte Scratch
@@ -79,6 +81,8 @@ Si les jeux n'ont pas pu être déposés sur le site de la **NDC** par les élè
 </center>
 
 ### Dépôt de jeux Python / Pyxel
+
+Ce qui suit est à réaliser par un enseignant dans le cas où les élèves n'ont pas pu déposer eux-même leur jeu sur le site (problème technique, pas de connexion internet...).
 
 * Récupérer le fichier `app.py` et, s'il existe, le fichier `.pyxres`
 * Se connecter à la console de la **NDC** ([www.nuitducode.net/console](https://www.nuitducode.net/console))
