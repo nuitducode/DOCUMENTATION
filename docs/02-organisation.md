@@ -99,8 +99,8 @@ Critères d'évaluation (chaque critère est noté sur 5) :
 
 
 ## F. PARTICIPATION LA SÉLECTION INTERNATIONALE
-* Si la sélection établissement s'est faite en ligne, vous n'avez rien à faire de plus. Les jeux sélectionnés pour l'établissement sont automatiquement ajoutés à la liste des jeux qui seront évalués pour la sélection internationale.
-* Si la sélection établissement s'est faite sans utiliser le site de la **NDC**, les enseignants peuvent déposer les jeux sélectionnés sur le site en utilisant le lien qui leur sera fourni.
+* Si la sélection "établissement" s'est faite en ligne, vous n'avez rien à faire de plus. Les jeux sélectionnés pour l'établissement sont automatiquement ajoutés à la liste des jeux qui seront évalués pour la sélection internationale.
+* Si la sélection "établissement" s'est faite sans utiliser le site de la **NDC**, les enseignants peuvent déposer les jeux sélectionnés sur le site en utilisant le lien qui leur sera fourni.
 
 
 ## G. FEUILLE DE ROUTE & RESSOURCES
