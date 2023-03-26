@@ -47,9 +47,6 @@ Tout est fait pour que la charge de travail du ou des organisateurs soit la plus
 * <b style="color:#4c9ce5">Inviter des écoles locales</b><br />Pour les établissements français de l'étranger, inviter des écoles locales peut donner une autre dimension à l'événement. Cela permet de créer des équipes mixtes, de favoriser les échanges entre les équipes (enseignantes et/ou de direction) des différents établissements et de tisser des liens qui peuvent déboucher sur d'autres projets communs.
 
 
-## NUIT DU C0DE et PROGRAMMES
-La préparation des élèves peut aussi se faire dans le cadre des programmes de collège / lycée pour Scratch (en technologie, mathématiques, SNT...) ou de NSI pour Python. Pour faciliter cette intégration dans les programmes, un groupe de travail s'est constitué et plusieurs ressources sont en cours de création. Si vous souhaitez rejoindre le groupe de travail, vous pouvez écrire à <u>contact@nuitducode.net</u>.
-
 ## POUR LE JOUR J
 À quelques jours de la Nuit du c0de, des vérifications s'imposent :
 
