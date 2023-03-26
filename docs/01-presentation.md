@@ -53,13 +53,13 @@ La participation d'un établissement peut être l'occasion de la création d'un 
 * Une sélection mondiale est ensuite établie.
 
 ## CALENDRIER
-### Septembre 2022 - Avril 2023 : Inscriptions
+* <b style="color:#4c9ce5">Septembre 2022 - Avril 2023 : Inscriptions</b></br>
 Si le projet vous intéresse, vous pouvez vous inscrire sur le site [nuitducode.net](https://www.nuitducode.net). Vous aurez alors accès à tous les documents, ressources, tutoriels, supports...  qui vous permettront de préparer et mettre en place la **Nuit du c0de**. Tout est fait pour que la charge de travail des personnes qui organiseront la **Nuit du c0de** dans un établissement soit la plus légère possible.
 
-### Janvier – Mai 2023 : Entraînements / Formation / Sélections
+* <b style="color:#4c9ce5">Janvier – Mai 2023 : Entraînements / Formation / Sélections</b></br>
 Les établissements inscrits auront accès à de nombreuses ressources : tutoriels, vidéos, guides, espace de discussions... Des univers de jeu avec grilles d'évaluation seront aussi disponibles. Ils pourront être utilisés soit pour organiser des séances d'entraînement avec les élèves, soit comme sujets de sélection (si le nombre d'élèves souhaitant participer est supérieur à la capacité d'accueil de l'établissement). Soit les deux.
 
-### 1er Mai – 27 Mai 2023 : Nuit du c0de
+* <b style="color:#4c9ce5">1er Mai – 27 Mai 2023 : Nuit du c0de</b></br>
 Les établissements inscrits recevront 48h avant la date qu'ils auront fixée pour la **Nuit du c0de**, les univers de jeu qui seront proposés aux élèves. Ces sujets sont confidentiels !
 
 La **Nuit du c0de** demande un minimum de logistique : ordinateurs en nombre suffisant (d'où la possible nécessité d'organiser des sélections), des encadrants, nourriture et boissons pour les personnes présentes.
