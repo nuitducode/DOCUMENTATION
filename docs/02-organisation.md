@@ -7,7 +7,7 @@ hide:
 
 Ce document s'adresse aux équipes enseignantes et de direction dont les établissements participeront à la **Nuit du c0de**. Le Lycée Français International de Tokyo, organisateur de l'événement, se charge de l'élaboration et de la diffusion de tous les documents nécessaires à la mise en place de ce marathon de programmation Scratch et Python. L'événement dure 6 heures (ou moins pour élèves de cycle 3). Pour pouvoir l'organiser dans de bonnes conditions, plusieurs éléments sont à prendre en compte.
 
-## TÂCHES PRIORITAIRES
+## A. TÂCHES PRIORITAIRES
 
 <u>Rappel</u><br />
 Tout est fait pour que la charge de travail du ou des organisateurs soit la plus légère possible. Documents, guides, supports, modèles..., tout est fourni (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-communication-et-goodies/) et la suite de ce document).
@@ -32,7 +32,7 @@ Tout est fait pour que la charge de travail du ou des organisateurs soit la plus
 
 * <b style="color:#4c9ce5">Prévoir à manger et à boire</b><br />Nos jeunes codeurs ne tiendront pas 6 heures sans s'alimenter ! De plus, la **Nuit du c0de** se veut un événement convivial. La ou les pauses nourriture / boissons y contribuent. Prévoir un coin snack et buvette est donc important et fait partie de cette ambiance qui doit être détendue et même festive. Les services de cantine peuvent être sollicités.
 
-## TÂCHES FACULTATIVES
+## B. TÂCHES FACULTATIVES
 
 * <b style="color:#4c9ce5">Communiquer</b><br />Des affiches, des modèles d'annonce et de courriels (à l'attention des élèves ou des familles) et un court diaporama de présentation de la **Nuit du c0de** sont proposés (voir ["Ressources"](https://nuitducode.github.io/DOCUMENTATION/03-ressources/)). Vous pouvez ainsi solliciter des collègues pour qu'ils présentent le diaporama au début d'un de leurs cours. Vous pouvez aussi publier des annonces sur le site de l'établissement ou via la lettre d'information. 
 
@@ -47,7 +47,7 @@ Tout est fait pour que la charge de travail du ou des organisateurs soit la plus
 * <b style="color:#4c9ce5">Inviter des écoles locales</b><br />Pour les établissements français de l'étranger, inviter des écoles locales peut donner une autre dimension à l'événement. Cela permet de créer des équipes mixtes, de favoriser les échanges entre les équipes (enseignantes et/ou de direction) des différents établissements et de tisser des liens qui peuvent déboucher sur d'autres projets communs.
 
 
-## POUR LE JOUR J
+## C. POUR LE JOUR J
 À quelques jours de la Nuit du c0de, des vérifications s'imposent :
 
 * **Vérifier les salles**
@@ -60,7 +60,7 @@ Tout est fait pour que la charge de travail du ou des organisateurs soit la plus
 * **Faire le point avec l'établissement invité** (si cela est prévu)
 
 
-## DÉPÔT DES JEUX
+## D. DÉPÔT DES JEUX
 
 Il n'est pas obligatoire de déposer les jeux sur le site de la Nuit du c0de mais cela facilite grandement la phase d'évaluation et de sélection des jeux. En effet, pour l'évaluation, le site propose une interface qui permet d'évaluer facilement tous les jeux et d'ajouter automatiquement les jeux sélectionnés à la liste des jeux qui seront évalués pour la sélection internationale.
 
@@ -81,7 +81,7 @@ Si les jeux n'ont pas pu être déposés sur le site de la Nuit du c0de par les 
 * Déposer le ou les fichiers dans la section dédiée.
 
 
-## ÉVALUATION DES JEUX
+## E. ÉVALUATION DES JEUX
 L'évaluation des jeux n'est obligatoire que si vous souhaitez proposer des jeux pour la sélection internationale. Chaque établissement peut proposer deux jeux par catégorie.
 
 Cette phase d'évaluation est cependant un moment convivial où les élèves découvrent les jeux de leurs camarades et où les enseignants et les encadrants prennent la mesure du travail accompli. Cela permet aussi de clore la NDC avec une cérémonie de remise de diplômes et, éventuellement, de récompenses.
@@ -98,12 +98,12 @@ Critères d'évaluation (chaque critère est noté sur 5) :
 * Respect des consignes / Documentation
 
 
-## PARTICIPATION LA SÉLECTION INTERNATIONALE
+## F. PARTICIPATION LA SÉLECTION INTERNATIONALE
 * Si la sélection établissement s'est faite en ligne, vous n'avez rien à faire de plus. Les jeux sélectionnés pour l'établissement sont automatiquement ajoutés à la liste des jeux qui seront évalués pour la sélection internationale.
 * Si la sélection établissement s'est faite sans utiliser le site de la Nuit du c0de, les enseignants peuvent déposer les jeux sélectionnés sur le site en utilisant le lien qui leur sera fourni.
 
 
-## FEUILLE DE ROUTE & RESSOURCES
+## G. FEUILLE DE ROUTE & RESSOURCES
 
 Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas de "goodies", pas d'intervenants, pas de récompenses...).
 
@@ -120,7 +120,7 @@ Cas d'une organisation minimale (pas de commande de nourriture / boissons, pas d
 | Évaluer les jeux                    | mai 2023                                                              | organisateur(s) / équipes enseignantes / élèves               | [www.nuitducode.net](https://www.nuitducode.net)                                                                        |                                                                                                                                     |                                                                                  |
 | Organiser une remise de diplomes    | à la fin de la Nuit du c0de ou quelques jours plus tard               | organisateur(s) / équipes enseignantes / direction / familles | :octicons-arrow-right-16: modèles de diplomes  <br /><small>disponibles prochainement</small>                                 |
 
-## UN EXEMPLE D'ORGANISATION
+## H. UN EXEMPLE D'ORGANISATION
 Attention, il s'agit bien d'un exemple, et non pas d'un modèle. Voici les principaux points concernant l'organisation de la **Nuit du c0de** au Lycée Français International de Tokyo : 
 
 * Le Lycée Français International de Tokyo accueillera les élèves du Lycée Français International de Kyoto et d'une école japonaise locale. 
