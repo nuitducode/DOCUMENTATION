@@ -104,6 +104,10 @@ Critères d'évaluation (chaque critère est noté sur 5) :
 * Richesse / Complexité
 * Respect des consignes / Documentation
 
+<center>
+![Critères d'évaluation](assets/images/criteres.png)
+</center>
+
 
 ## F. PARTICIPATION LA SÉLECTION INTERNATIONALE
 * Si la sélection s'est faite en ligne, vous n'avez rien à faire de plus. Les jeux sélectionnés pour l'établissement sont automatiquement ajoutés à la liste des jeux qui seront évalués pour la sélection internationale.
