@@ -6,6 +6,10 @@ Les élèves peuvent s'entraîner avec les univers de jeu de l'an dernier à cet
 
 S'il ne vous est pas possible d'utiliser la version en ligne, vous pouvez installer Python/Pyxel sur des machines (postes fixes ou portables). 
 
+!!! danger "Version de Pyxel"
+
+    Pour la NDC 2023, la version de Pyxel sera la 1.9.12.
+
 Pour Windows:
 
 * Télécharger [Edupyter](https://www.edupyter.net/) 38, 39 ou 310 selon votre environnement
