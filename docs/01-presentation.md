@@ -64,7 +64,7 @@ Les établissements inscrits recevront 48h avant la date qu'ils auront fixée po
 La **NDC** demande un minimum de logistique : ordinateurs en nombre suffisant (d'où la possible nécessité d'organiser des sélections), des encadrants, nourriture et boissons pour les personnes présentes.<br />
 Si des regroupements d'établissements proches sont possibles, ils sont encouragés.
 
-* <b style="color:#4c9ce5">Début juin 2023 : annonce de la sélection "Nuit du c0de 2023"</b></br>
+* <b style="color:#4c9ce5">Mi-juin 2023 : annonce de la sélection "Nuit du c0de 2023"</b></br>
 Huit jeux par catégories seront sélectionnés par un jury d'enseignants. 
 
 <br />
