@@ -6,7 +6,7 @@
 > 
 > Les élèves ont ainsi sur une même page la vidéo sur la partie gauche et l'environnement Scratch sur la partie droite. Il leur est alors possible de mettre directement en application ce qu'ils voient sur la vidéo. Ceci permet un entraînement en autonomie. Il suffit de fournir les liens aux élèves.
 > 
-> Si vous souhaitez créer vous même des cahier numériques: <a href="https://www.cahiernum.net" target="_blank">Cahiers Numériques</a>
+> Si vous souhaitez créer vous même des cahiers numériques: <a href="https://www.cahiernum.net" target="_blank">Cahiers Numériques</a>
 >
 > Vidéos créées par <a href="https://www.monclasseurdemaths.fr" target="_blank">Jean-Yve Labouche</a>
 
