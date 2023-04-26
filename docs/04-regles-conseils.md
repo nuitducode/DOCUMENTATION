@@ -84,9 +84,9 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 * **Vous devez écrire une courte documentation** (ou mode d'emploi) de votre jeu. La documentation fait partie de l'évaluation du jeu.
 * La taille de l'écran du jeu doit être de **128x128 pixels** (<kbd>pyxel.init(128, 128, title="Nuit du c0de 2023")</kbd>).
 * Le code de votre jeu doit être dans <u>un seul fichier</u> <kbd>app.py</kbd>. Si vous utilisez des images, elles seront dans un deuxième fichier au format <kbd>.pyxres</kbd>.
-* Il n'est pas autorisé de regarder ou de copier/coller du code trouvé sur internet ou votre ordinateur.
-* Il n'est pas autorisé d'importer des fichiers contenant du code (fichiers <kbd>.py</kbd>) ou des images (fichiers <kbd>.pyxres</kbd>).
-* Il n'est pas autorisé d'aller chercher des tutoriels (vidéos ou autres) durant la NDC: le code doit venir de vous.
+* {==Il n'est pas autorisé==} de regarder ou de copier/coller du code trouvé sur internet ou votre ordinateur.
+* {==Il n'est pas autorisé==} d'importer des fichiers contenant du code (fichiers <kbd>.py</kbd>) ou des images (fichiers <kbd>.pyxres</kbd>).
+* {==Il n'est pas autorisé==} d'aller chercher des tutoriels (vidéos ou autres) durant la NDC: le code doit venir de vous.
 * Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 * Vous avez le droit de demander de l'aide aux professeurs qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer. Soyez patients: lorsque vous avez travaillé pendant plusieurs heures sur un projet, il est très difficile pour quelqu'un qui le découvre de répondre rapidement à une question.
 * Vous avez le droit de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
