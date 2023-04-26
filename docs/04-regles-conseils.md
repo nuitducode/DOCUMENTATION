@@ -30,7 +30,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 * Vous avez le droit de dupliquer des lutins si vous en avez besoin.
 * Les éléments du jeu vous suggèrent peut-être de créer un jeu que vous connaissez déjà, mais vous êtes tout à fait libre de proposer autre chose.
 * Vous avez le droit de demander de l'aide aux professeurs qui encadrent la NDC. Ils ne vous donneront pas un script complet, mais certainement de bons conseils pour avancer.
-* Vous avez le droit de demander de l'aide à vos camarades des autres équipes participantes. La **NDC** est un événement festif et l'entraide est fortement recommandée.
+* Vous avez le droit de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
 * Vous avez le droit de faire des « retouches » graphiques mineures sur les lutins ou les scènes: symétrie, rotation, changer une couleur, déformer, ajout de texte… mais attention à ne pas y passer trop de temps. Il est quand même conseillé d'éviter: il y a suffisamment de lutins (et certains ont beaucoup de costumes) pour trouver ce dont vous avez besoin.
 * Vous avez le droit de créer des lutins qui serviraient de « capteur » lors des déplacements (juste un rectangle ou un cercle) ou des lutins « texte ».
 
@@ -47,9 +47,9 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 #### Cas 1: si vous avez créé votre jeu en ligne avec un compte Scratch
 
 * **Partagez votre jeu** en cliquant sur le bouton orange « Partager » (« Share » en anglais).
-* **Enregistrez votre jeu** sur le site de la **NDC**.
+* **Enregistrez votre jeu** sur le site de la NDC.
 
-Pour enregistrer votre jeu sur le site de la **NDC**, un lien vous sera fourni. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie et l'identifiant de votre projet. L'identifiant du projet est la suite de chiffres présente dans son adresse. Exemple: si l'adresse est `https://scratch.mit.edu/projects/6535`, l'identifiant est `6535`.
+Pour enregistrer votre jeu sur le site de la NDC, un lien vous sera fourni. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie et l'identifiant de votre projet. L'identifiant du projet est la suite de chiffres présente dans son adresse. Exemple: si l'adresse est `https://scratch.mit.edu/projects/6535`, l'identifiant est `6535`.
 
 !!! danger ""
     Après avoir déposé votre jeu, vous n'aurez plus le droit de le modifier. Les jeux modifiés après le dépôt ne seront pas évalués.
@@ -79,15 +79,16 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
     * Les univers de jeu et les liens fournis sont **confidentiels**. Ils ne doivent être partagés avec personne.
     * Le titre de votre jeu doit être le nom de votre équipe.
 
+* **Vous devez choisir un univers de jeu parmi ceux proposés (fichiers <kbd>.pyxres</kbd>) ou respecter un des deux thèmes**. Prenez le temps de bien étudier les différents univers de jeu avant d'en choisir un. Si vous préférez un des deux thèmes, vous pouvez utiliser le fichier <kbd>res.pyxres</kbd> vide ou n'utiliser que des formes géométriques.
+* **Vous devez écrire une courte documentation** (ou mode d'emploi) de votre jeu. La documentation fait partie de l'évaluation du jeu.
 * La taille de l'écran du jeu doit être de **128x128 pixels** (<kbd>pyxel.init(128, 128, title="Nuit du c0de 2023")</kbd>).
 * Le code de votre jeu doit être dans <u>un seul fichier</u> <kbd>app.py</kbd>. Si vous utilisez des images, elles seront dans un deuxième fichier au format <kbd>.pyxres</kbd>.
-* Plusieurs ressources graphiques (fichiers <kbd>.pyxres</kbd>) seront proposées. Cependant, vous n'êtes pas obligés de les utiliser. Vous pouvez créer vos propres images avec l'éditeur Pyxel. Vous pouvez aussi créer un jeu sans images, en utilisant seulement les formes géométriques.
-* Il n'est pas autorisé de regarder ou copier/coller du code trouvé sur internet ou votre ordinateur.
+* Il n'est pas autorisé de regarder ou de copier/coller du code trouvé sur internet ou votre ordinateur.
+* Il n'est pas autorisé d'importer des fichiers contenant du code (fichiers <kbd>.py</kbd>) ou des images (fichiers <kbd>.pyxres</kbd>).
 * Il n'est pas autorisé d'aller chercher des tutoriels (vidéos ou autres) durant la NDC: le code doit venir de vous.
-* **Vous devez écrire une courte documentation** (ou mode d'emploi) de votre jeu. La documentation fait partie de l'évaluation du jeu.
 * Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 * Vous avez le droit de demander de l'aide aux professeurs qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer. Soyez patients: lorsque vous avez travaillé pendant plusieurs heures sur un projet, il est très difficile pour quelqu'un qui le découvre de répondre rapidement à une question.
-* Vous avez le droit de demander de l'aide à vos camarades des autres équipes participantes. La **NDC** est un événement festif et l'entraide est fortement recommandée.
+* Vous avez le droit de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
 
 ### QUELQUES CONSEILS
 
@@ -99,7 +100,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 
 ### IMPORTANT: À LA FIN DES 6h
 
-Avant la fin des 6h, déposez votre jeu sur le site de la **NDC**.
+Avant la fin des 6h, déposez votre jeu sur le site de la NDC.
 
 #### Cas 1: si vous avez créé votre jeu en ligne sur le site de la NDC
 
@@ -107,7 +108,7 @@ Vous n'avez rien à faire.
 
 #### Cas 2: si vous avez créé votre jeu sans connexion internet
 
-Déposez votre jeu sur le site de la **NDC** en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page de dépôt. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie puis déposer votre fichier <kbd>app.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd>.
+Déposez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page de dépôt. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie puis déposer votre fichier <kbd>app.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd>.
 
 Si vous n'avez pas la possibilité de déposer vous-même ces fichiers sur le site, donnez-les à votre enseignant.
 
