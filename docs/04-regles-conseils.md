@@ -108,11 +108,11 @@ Avant la fin des 6h, déposez votre jeu sur le site de la NDC.
 
 #### Cas 1: si vous avez créé votre jeu en ligne sur le site de la NDC
 
-Vous n'avez rien à faire.
+Enregistrez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer votre catégorie et le code de votre jeu.
 
 #### Cas 2: si vous avez créé votre jeu sans connexion internet
 
-Déposez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page de dépôt. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie puis déposer votre fichier <kbd>app.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd>.
+Enregistrez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page de dépôt. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie puis déposer votre fichier <kbd>app.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd>.
 
 Si vous n'avez pas la possibilité de déposer vous-même ces fichiers sur le site, donnez-les à votre enseignant.
 
