@@ -21,7 +21,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
     * Le respect des consignes fait partie de l’évaluation du jeu.
 
 * **Vous devez choisir un univers de jeu parmi ceux proposés**. Prenez le temps de bien étudier les différents univers de jeu (lutins, costumes, décors…) avant d'en choisir un. Une fois votre choix fait, cliquez sur « Remix ». Cet univers « remixé » devient le point de départ de votre jeu.
-* **Vous devez écrire une courte documentation** (ou mode d'emploi) de votre jeu. Cette documentation doit être placée dans le champ « Instructions ». La documentation fait partie de l'évaluation du jeu.
+* **Vous devez écrire une courte documentation (ou mode d'emploi) de votre jeu**. Cette documentation doit être placée dans le champ « Instructions ». La documentation fait partie de l'évaluation du jeu.
 * Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 * Vous ne pouvez créer votre jeu qu'à partir des éléments que vous trouvez dans l'univers de jeu que vous avez choisi sans y ajouter aucun élément extérieur.
 * Il n'est pas autorisé d'importer des lutins, scènes ou sons (de la bibliothèque Scratch ou depuis Internet) dans votre projet. Seuls ceux fournis dans l'univers de jeu « remixé » doivent être utilisés.
@@ -84,7 +84,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
     * Le respect des consignes fait partie de l’évaluation du jeu.    
 
 * **Vous devez choisir un univers de jeu parmi ceux proposés (fichiers <kbd>.pyxres</kbd>) ou respecter un des deux thèmes**. Prenez le temps de bien étudier les différents univers de jeu avant d'en choisir un. Si vous préférez un des deux thèmes, vous pouvez utiliser le fichier <kbd>res.pyxres</kbd> vide ou n'utiliser que des formes géométriques.
-* **Vous devez écrire une courte documentation** (ou mode d'emploi) de votre jeu. La documentation fait partie de l'évaluation du jeu.
+* **Vous devez écrire une courte documentation (ou mode d'emploi) de votre jeu**. La documentation fait partie de l'évaluation du jeu.
 * La taille de l'écran du jeu doit être de **128x128 pixels** (<kbd>pyxel.init(128, 128, title="Nuit du c0de 2023")</kbd>).
 * Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 * Le code de votre jeu doit être dans <u>un seul fichier</u> <kbd>app.py</kbd>. Si vous utilisez des images, elles seront dans un deuxième fichier au format <kbd>.pyxres</kbd>.
