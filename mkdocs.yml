@@ -43,6 +43,11 @@ markdown_extensions:
   - attr_list
   - md_in_html
   - abbr
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde  
  
 extra_css:
   - assets/stylesheets/extra.css 
