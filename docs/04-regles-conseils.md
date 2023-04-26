@@ -73,7 +73,7 @@ Chaque critère est noté sur 5:
 
 ## PYTHON / PYXEL
 
-Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxel. Pour cela, vous pouvez utiliser les ressources (fichiers <kbd>.pyxres</kbd>) mises à votre disposition ou partir d'un fichier <kbd>.pyxres</kbd> vide en respectant un des deux thèmes.
+Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxel. Pour cela, vous pouvez utiliser les ressources (fichiers <kbd>.pyxres</kbd>) mises à votre disposition ou respecter un deux thèmes en partant d'un fichier <kbd>.pyxres</kbd> vide ou en n'utilisant que des formes géometriques.
 
 ### LES RÈGLES
 
