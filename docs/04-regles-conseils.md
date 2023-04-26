@@ -27,6 +27,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 * {==Il n'est pas autorisé==} de regarder ou de copier/coller des scripts d'autres projets de la plateforme Scratch ou de votre ordinateur.</span>
 * {==Il n'est pas autorisé==} d'importer des ressources extérieures.
 * {==Il n'est pas autorisé==} d'aller chercher des tutoriels (vidéos ou autres) durant la NDC.
+* {==Il n'est pas autorisé==} d'utiliser des notes personnelles ou de la documentation papier.
 * Vous n'êtes absolument pas obligé d'utiliser tous les lutins, scènes ou sons de l'univers de jeu.
 * Vous avez le droit de dupliquer des lutins si vous en avez besoin.
 * Les éléments du jeu vous suggèrent peut-être de créer un jeu que vous connaissez déjà, mais vous êtes tout à fait libre de proposer autre chose.
@@ -87,6 +88,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 * {==Il n'est pas autorisé==} de regarder ou de copier/coller du code trouvé sur internet ou votre ordinateur.
 * {==Il n'est pas autorisé==} d'importer des fichiers contenant du code (fichiers <kbd>.py</kbd>) ou des images (fichiers <kbd>.pyxres</kbd>).
 * {==Il n'est pas autorisé==} d'aller chercher des tutoriels (vidéos ou autres) durant la NDC.
+* {==Il n'est pas autorisé==} d'utiliser des notes personnelles ou de la documentation papier auter que celle fournie.
 * Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 * Vous avez le droit de demander de l'aide aux professeurs qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer. Soyez patients: lorsque vous avez travaillé pendant plusieurs heures sur un projet, il est très difficile pour quelqu'un qui le découvre de répondre rapidement à une question.
 * Vous avez le droit de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
