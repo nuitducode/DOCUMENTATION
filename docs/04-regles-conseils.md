@@ -74,7 +74,7 @@ Chaque critère est noté sur 5:
 
 ## PYTHON / PYXEL
 
-Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxel. Pour cela, vous pouvez utiliser les ressources (fichiers <kbd>.pyxres</kbd>) mises à votre disposition ou respecter un deux thèmes en partant d'un fichier <kbd>.pyxres</kbd> vide ou en n'utilisant que des formes géometriques.
+Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxel. Pour cela, vous pouvez utiliser les ressources (fichiers <kbd>.pyxres</kbd>) mises à votre disposition ou respecter un deux thèmes en partant d'un fichier <kbd>.pyxres</kbd> vide ou en n'utilisant que des formes géométriques.
 
 ### LES RÈGLES
 
@@ -91,9 +91,9 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 * {==Il n'est pas autorisé==} de regarder ou de copier/coller du code trouvé sur internet ou sur votre ordinateur.
 * {==Il n'est pas autorisé==} d'importer des fichiers contenant du code (fichiers <kbd>.py</kbd>) ou des images (fichiers <kbd>.pyxres</kbd>).
 * {==Il n'est pas autorisé==} de modifier les fichiers <kbd>.pyxres</kbd> fournis.
-* {==Il n'est pas autorisé==} d'aller chercher des tutoriels sur internet ou sur votre l'ordinateur.
+* {==Il n'est pas autorisé==} d'aller chercher des tutoriels sur internet ou sur votre ordinateur.
 * {==Il n'est pas autorisé==} d'utiliser des notes personnelles ou de la documentation papier autre que celle fournie.
-* Vous avez le droit de demander de l'aide aux professeurs qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer. Soyez patients: lorsque vous avez travaillé pendant plusieurs heures sur un projet, il est très difficile pour quelqu'un qui le découvre de répondre rapidement à une question.
+* Vous avez le droit de demander de l'aide aux professeurs qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer.
 * Vous avez le droit de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
 
 ### QUELQUES CONSEILS
