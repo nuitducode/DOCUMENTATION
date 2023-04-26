@@ -104,8 +104,6 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 
 ### IMPORTANT: À LA FIN DES 6h
 
-Avant la fin des 6h, déposez votre jeu sur le site de la NDC.
-
 #### Cas 1: si vous avez créé votre jeu en ligne sur le site de la NDC
 
 Enregistrez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer votre catégorie et le code de votre jeu.
