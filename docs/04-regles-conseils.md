@@ -16,7 +16,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 ### LES RÈGLES
 
 !!! danger "IMPORTANT"
-    * Les univers de jeu et les liens fournis sont **confidentiels**. Ils ne doivent être partagés avec personne.
+    * Les univers de jeu et les liens fournis sont **confidentiels**. Ils ne doivent être partagés avec personne pendant ou après la NDC.
     * Le titre de votre jeu doit être le nom de votre équipe. Les mots suivants ne doivent apparaître ni dans le titre ni dans les champs « Instructions » ou « Notes et Crédits » de votre jeu (ou des différentes versions de votre jeu): « nuit », « code », « c0de », « 2023 », « NdC », « ndc ».
     * Le respect des consignes fait partie de l’évaluation du jeu.
 
@@ -39,7 +39,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 
 
 ### QUELQUES CONSEILS
-* Avant de vous lancer dans le code, prenez le temps d'imaginer votre jeu. Passez en revue tous les lutins, tous leurs costumes (qui sont parfois nombreux) et tous les sons. Prévoyez de réaliser rapidement une version simple, mais jouable de votre jeu. Puis, si vous en avez le temps, rajoutez au fur et à mesure des éléments de complexité: niveau de difficulté, scores, son, etc.
+* Avant de vous lancer dans le code, prenez le temps d'imaginer votre jeu. Passez en revue tous les lutins et tous leurs costumes (qui sont parfois nombreux). Prévoyez de réaliser rapidement une version simple, mais jouable de votre jeu. Puis, si vous en avez le temps, rajoutez au fur et à mesure des éléments de complexité: niveau de difficulté, scores, son, etc.
 * Vous travaillez à deux ou trois: organisez-vous pour être les plus efficaces possible.
 * **Pensez à sauvegarder** ! Et surtout, effectuez régulièrement des **copies incrémentées** (version 1, 2, 3…) de votre jeu à chaque amélioration majeure (qui marche). Scratch ne permet pas d'annuler des modifications…
 * N'oubliez pas de faire des pauses, d'aller voir ce que font les autres, de boire et de manger !
@@ -79,8 +79,9 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 ### LES RÈGLES
 
 !!! danger "IMPORTANT"
-    * Les univers de jeu et les liens fournis sont **confidentiels**. Ils ne doivent être partagés avec personne.
+    * Les univers de jeu et les liens fournis sont **confidentiels**. Ils ne doivent être partagés avec personne pendant ou après la NDC.
     * Le titre de votre jeu doit être le nom de votre équipe.
+    * Le respect des consignes fait partie de l’évaluation du jeu.    
 
 * **Vous devez choisir un univers de jeu parmi ceux proposés (fichiers <kbd>.pyxres</kbd>) ou respecter un des deux thèmes**. Prenez le temps de bien étudier les différents univers de jeu avant d'en choisir un. Si vous préférez un des deux thèmes, vous pouvez utiliser le fichier <kbd>res.pyxres</kbd> vide ou n'utiliser que des formes géométriques.
 * **Vous devez écrire une courte documentation** (ou mode d'emploi) de votre jeu. La documentation fait partie de l'évaluation du jeu.
