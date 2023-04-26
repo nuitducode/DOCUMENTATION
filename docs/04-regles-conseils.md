@@ -26,7 +26,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 * Il n'est pas autorisé d'importer des lutins, scènes ou sons (de la bibliothèque Scratch ou depuis Internet) dans votre projet. Seuls ceux fournis dans l'univers de jeu « remixé » doivent être utilisés.
 * {==Il n'est pas autorisé==} de regarder ou de copier/coller des scripts d'autres projets de la plateforme Scratch ou de votre ordinateur.</span>
 * {==Il n'est pas autorisé==} d'importer des ressources extérieures.
-* {==Il n'est pas autorisé==} d'aller chercher des tutoriels (vidéos ou autres) durant la NDC.
+* {==Il n'est pas autorisé==} d'aller chercher des tutoriels sur internet ou sur l'ordinateur.
 * {==Il n'est pas autorisé==} d'utiliser des notes personnelles ou de la documentation papier.
 * Vous n'êtes absolument pas obligé d'utiliser tous les lutins, scènes ou sons de l'univers de jeu.
 * Vous avez le droit de dupliquer des lutins si vous en avez besoin.
@@ -87,8 +87,8 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 * Le code de votre jeu doit être dans <u>un seul fichier</u> <kbd>app.py</kbd>. Si vous utilisez des images, elles seront dans un deuxième fichier au format <kbd>.pyxres</kbd>.
 * {==Il n'est pas autorisé==} de regarder ou de copier/coller du code trouvé sur internet ou votre ordinateur.
 * {==Il n'est pas autorisé==} d'importer des fichiers contenant du code (fichiers <kbd>.py</kbd>) ou des images (fichiers <kbd>.pyxres</kbd>).
-* {==Il n'est pas autorisé==} d'aller chercher des tutoriels (vidéos ou autres) durant la NDC.
-* {==Il n'est pas autorisé==} d'utiliser des notes personnelles ou de la documentation papier auter que celle fournie.
+* {==Il n'est pas autorisé==} d'aller chercher des tutoriels sur internet ou sur l'ordinateur.
+* {==Il n'est pas autorisé==} d'utiliser des notes personnelles ou de la documentation papier autre que celle fournie.
 * Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 * Vous avez le droit de demander de l'aide aux professeurs qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer. Soyez patients: lorsque vous avez travaillé pendant plusieurs heures sur un projet, il est très difficile pour quelqu'un qui le découvre de répondre rapidement à une question.
 * Vous avez le droit de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
