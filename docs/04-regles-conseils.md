@@ -81,13 +81,15 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 
 !!! danger "IMPORTANT"
     * Les univers de jeu et les liens fournis sont **confidentiels**. Ils ne doivent être partagés avec personne pendant ou après la NDC.
-    * Le titre de votre jeu doit être le nom de votre équipe.
     * Le respect des consignes fait partie de l’évaluation du jeu.    
 
-* **Vous devez choisir un univers de jeu parmi ceux proposés (fichiers <kbd>.pyxres</kbd>) ou respecter un des deux thèmes**. Prenez le temps de bien étudier les différents univers de jeu avant d'en choisir un. Si vous préférez un des deux thèmes, vous pouvez utiliser le fichier <kbd>res.pyxres</kbd> vide ou n'utiliser que des formes géométriques.
-* **Vous devez écrire une courte documentation (ou mode d'emploi) de votre jeu**. La documentation fait partie de l'évaluation du jeu.
-* La taille de l'écran du jeu doit être de **128x128 pixels** (<kbd>pyxel.init(128, 128, title="Nuit du c0de 2023")</kbd>).
-* Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
+* <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> choisir un univers de jeu parmi ceux proposés (fichiers <kbd>.pyxres</kbd>) ou respecter un des deux thèmes</span>. Prenez le temps de bien étudier les différents univers de jeu avant d'en choisir un. Si vous préférez un des deux thèmes, vous pouvez utiliser le fichier <kbd>res.pyxres</kbd> vide ou n'utiliser que des formes géométriques.
+* <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> écrire une courte documentation (ou mode d'emploi) de votre jeu</span>. La documentation fait partie de l'évaluation du jeu.
+
+
+
+* <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> fixer la taille de l’écran à 128x128 pixels</span> (<kbd>pyxel.init(128, 128, title="NDC 2023")</kbd>).
+* <span style="font-weight:bold"><span style="background-color:#ffde59">Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 * Le code de votre jeu doit être dans <u>un seul fichier</u> <kbd>app.py</kbd>. Si vous utilisez des images, elles seront dans un deuxième fichier au format <kbd>.pyxres</kbd>.
 * {==Il n'est pas autorisé==} de regarder ou de copier/coller du code trouvé sur internet ou sur votre ordinateur.
 * {==Il n'est pas autorisé==} d'importer des fichiers contenant du code (fichiers <kbd>.py</kbd>) ou des images (fichiers <kbd>.pyxres</kbd>).
