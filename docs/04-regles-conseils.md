@@ -85,19 +85,16 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 
 * <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> choisir un univers de jeu parmi ceux proposés (fichiers <kbd>.pyxres</kbd>) ou respecter un des deux thèmes</span>. Prenez le temps de bien étudier les différents univers de jeu avant d'en choisir un. Si vous préférez un des deux thèmes, vous pouvez utiliser le fichier <kbd>res.pyxres</kbd> vide ou n'utiliser que des formes géométriques.
 * <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> écrire une courte documentation (ou mode d'emploi) de votre jeu</span>. La documentation fait partie de l'évaluation du jeu.
-
-
-
 * <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> fixer la taille de l’écran à 128x128 pixels</span> (<kbd>pyxel.init(128, 128, title="NDC 2023")</kbd>).
-
 * <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> mettre le code de votre jeu dans <u>un seul fichier</u> <kbd>app.py</kbd></span>. Si vous utilisez des images, elles seront dans un deuxième fichier au format <kbd>.pyxres</kbd>.
-* {==Il n'est pas autorisé==} de regarder ou de copier/coller du code trouvé sur internet ou sur votre ordinateur.
-* {==Il n'est pas autorisé==} d'importer des fichiers contenant du code (fichiers <kbd>.py</kbd>) ou des images (fichiers <kbd>.pyxres</kbd>).
-* {==Il n'est pas autorisé==} de modifier les fichiers <kbd>.pyxres</kbd> fournis.
-* {==Il n'est pas autorisé==} d'aller chercher des tutoriels sur internet ou sur votre ordinateur.
-* {==Il n'est pas autorisé==} d'utiliser des notes personnelles ou de la documentation papier autre que celle fournie.
-* Vous avez le droit de demander de l'aide aux professeurs qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer.
-* Vous avez le droit de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
+* <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> de regarder ou de copier/coller du code trouvé sur internet ou sur votre ordinateur.
+* <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> d'importer des fichiers contenant du code (fichiers <kbd>.py</kbd>) ou des images (fichiers <kbd>.pyxres</kbd>).
+* <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> de modifier les fichiers <kbd>.pyxres</kbd> fournis.
+* <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> d'aller chercher des tutoriels sur internet ou sur votre ordinateur.
+* <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> d'utiliser des notes personnelles ou de la documentation papier autre que celle fournie.
+* <span style="font-weight:bold;background-color:#bbe33d">Il est autorisé</span>, et même conseillé, de demander de l'aide aux enseignants qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer.
+* <span style="font-weight:bold;background-color:#bbe33d">Il est autorisé</span>, et même conseillé, de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
+* Vous n'êtes pas obligé d'utiliser tous les éléments graphiques du fichier <kbd>.pyxres</kbd>.
 * Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 
 ### QUELQUES CONSEILS
