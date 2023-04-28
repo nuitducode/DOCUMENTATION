@@ -7,9 +7,9 @@ hide:
 
 !!! note ""
     Documents au format PDF
-    
-    * Règles et conseils Scratch: <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/documents-a-distribuer/regles-et-conseils-scratch-2023.pdf" download>base</a>
-    * Règles et conseils Python: <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/documents-a-distribuer/regles-et-conseils-python-2023.pdf" download>base</a>
+
+    * Règles et conseils <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/documents-a-distribuer/regles-et-conseils-scratch-2023.pdf" download>Scratch</a>
+    * Règles et conseils <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/documents-a-distribuer/regles-et-conseils-python-2023.pdf" download>Python</a>
 
 ## SCRATCH
 
