@@ -36,7 +36,6 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 * Vous avez le droit de faire des « retouches » graphiques mineures sur les lutins ou les scènes: symétrie, rotation, changer une couleur, déformer, ajout de texte… mais attention à ne pas y passer trop de temps. Il est quand même conseillé d'éviter: il y a suffisamment de lutins (et certains ont beaucoup de costumes) pour trouver ce dont vous avez besoin.
 * Vous avez le droit de créer des lutins qui serviraient de « capteur » lors des déplacements (juste un rectangle ou un cercle) ou des lutins « texte ».
 * Vous n'êtes pas obligé d'utiliser tous les lutins, scènes ou sons de l'univers de jeu.
-* Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 
 
 ### QUELQUES CONSEILS
@@ -95,7 +94,6 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 * <span style="font-weight:bold;background-color:#bbe33d">Il est autorisé</span>, et même conseillé, de demander de l'aide aux enseignants qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer.
 * <span style="font-weight:bold;background-color:#bbe33d">Il est autorisé</span>, et même conseillé, de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
 * Vous n'êtes pas obligé d'utiliser tous les éléments graphiques du fichier <kbd>.pyxres</kbd>.
-* Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 
 ### QUELQUES CONSEILS
 
