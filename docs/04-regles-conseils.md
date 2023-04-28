@@ -23,11 +23,9 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
     * Le titre de votre jeu doit être le nom de votre équipe. Les mots suivants ne doivent apparaître ni dans le titre ni dans les champs « Instructions » ou « Notes et Crédits » de votre jeu (ou des différentes versions de votre jeu): « nuit », « code », « c0de », « 2023 », « NdC », « ndc ».
     * Le respect des consignes fait partie de l’évaluation du jeu.
 
-* <span style="font-weight:bold">Vous devez choisir un univers de jeu parmi ceux proposés</span>. Prenez le temps de bien étudier les différents univers de jeu (lutins, costumes, décors…) avant d'en choisir un. Une fois votre choix fait, cliquez sur « Remix ». Cet univers « remixé » devient le point de départ de votre jeu.
+* <span style="font-weight:bold">Vous devez choisir un univers de jeu parmi ceux proposés</span>. Prenez le temps de bien étudier les différents univers de jeu (lutins, costumes, décors…) avant d'en choisir un. Une fois votre choix fait, cliquez sur « Remix ». Cet univers « remixé » devient le point de départ de votre jeu. Vous ne pouvez créer votre jeu qu'à partir des éléments que vous trouvez dans l'univers de jeu que vous avez choisi sans y ajouter aucun élément extérieur.
 * **Vous devez écrire une courte documentation (ou mode d'emploi) de votre jeu**. Cette documentation doit être placée dans le champ « Instructions ». La documentation fait partie de l'évaluation du jeu.
-* Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
-* Vous ne pouvez créer votre jeu qu'à partir des éléments que vous trouvez dans l'univers de jeu que vous avez choisi sans y ajouter aucun élément extérieur.
-* Il n'est pas autorisé d'importer des lutins, scènes ou sons (de la bibliothèque Scratch ou depuis Internet) dans votre projet. Seuls ceux fournis dans l'univers de jeu « remixé » doivent être utilisés.
+* {==Il n'est pas autorisé==} d'importer des lutins, scènes ou sons (de la bibliothèque Scratch ou depuis Internet) dans votre projet. Seuls ceux fournis dans l'univers de jeu « remixé » doivent être utilisés.
 * {==Il n'est pas autorisé==} de regarder ou de copier/coller des scripts d'autres projets trouvés sur la plateforme Scratch ou sur votre ordinateur.</span>
 * {==Il n'est pas autorisé==} d'importer des ressources extérieures.
 * {==Il n'est pas autorisé==} d'aller chercher des tutoriels sur internet ou sur votre ordinateur.
@@ -39,6 +37,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 * Vous avez le droit de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
 * Vous avez le droit de faire des « retouches » graphiques mineures sur les lutins ou les scènes: symétrie, rotation, changer une couleur, déformer, ajout de texte… mais attention à ne pas y passer trop de temps. Il est quand même conseillé d'éviter: il y a suffisamment de lutins (et certains ont beaucoup de costumes) pour trouver ce dont vous avez besoin.
 * Vous avez le droit de créer des lutins qui serviraient de « capteur » lors des déplacements (juste un rectangle ou un cercle) ou des lutins « texte ».
+* Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 
 
 ### QUELQUES CONSEILS
