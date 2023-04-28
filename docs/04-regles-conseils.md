@@ -103,17 +103,18 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 * Vous travaillez à deux ou trois: organisez-vous pour être les plus efficaces possible.
 * **Pensez à sauvegarder** ! Et surtout, effectuez régulièrement **des copies incrémentées** (version 1, 2, 3…) de votre jeu à chaque amélioration majeure (qui marche) en téléchargeant le fichier `app.py`.
 * N'oubliez pas de faire des pauses, d'aller voir ce que font les autres, de boire et de manger !
-* Et puis surtout, rappelez-vous: c'est un jeu ! **Amusez-vous !**
+* <span style="font-weight:bold;color:#5eb91e">Et surtout, rappelez-vous: c'est un jeu ! Amusez-vous !</span>
 
 ### IMPORTANT: À LA FIN DES 6h
 
 #### Cas 1: si vous avez créé votre jeu en ligne sur le site de la NDC
 
-Enregistrez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer votre catégorie et le code de votre jeu.
+Enregistrez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, sélectionner votre catégorie et saisir le code de votre jeu.
 
 #### Cas 2: si vous avez créé votre jeu sans connexion internet
 
-Enregistrez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page de dépôt. Sur cette page, vous devrez indiquer le nom de votre équipe, votre catégorie puis déposer votre fichier <kbd>app.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd>.
+Enregistrez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, sélectionner votre catégorie, déposer votre fichier <kbd>app.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd> et copier-coller la
+documentation / mode d'emploi du jeu.
 
 Si vous n'avez pas la possibilité de déposer vous-même ces fichiers sur le site, donnez-les à votre enseignant.
 
@@ -121,7 +122,7 @@ Si vous n'avez pas la possibilité de déposer vous-même ces fichiers sur le si
 
 Chaque critère est noté sur 5:
 
-* Jouabilité
+* Jouabilité  `~ un jeu qui ne marche pas ne sera pas évalué ~`
 * Richesse / Complexité
 * Originalité / Créativité
 * Respect des consignes / Documentation
