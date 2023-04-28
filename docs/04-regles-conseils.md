@@ -44,7 +44,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 * Vous travaillez à deux ou trois: organisez-vous pour être les plus efficaces possible.
 * **Pensez à sauvegarder** ! Et surtout, effectuez régulièrement des **copies incrémentées** (version 1, 2, 3…) de votre jeu à chaque amélioration majeure (qui marche). Scratch ne permet pas d'annuler des modifications…
 * N'oubliez pas de faire des pauses, d'aller voir ce que font les autres, de boire et de manger !
-* Et puis surtout, rappelez-vous: c'est un jeu ! **Amusez-vous !**
+* <span style="font-weight:bold;color:#5eb91e">Et surtout, rappelez-vous: c'est un jeu ! Amusez-vous !</span>
 
 ### IMPORTANT: À LA FIN DES 6h
 
