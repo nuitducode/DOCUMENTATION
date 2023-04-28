@@ -89,8 +89,8 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 
 
 * <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> fixer la taille de l’écran à 128x128 pixels</span> (<kbd>pyxel.init(128, 128, title="NDC 2023")</kbd>).
-* <span style="font-weight:bold"><span style="background-color:#ffde59">Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
-* Le code de votre jeu doit être dans <u>un seul fichier</u> <kbd>app.py</kbd>. Si vous utilisez des images, elles seront dans un deuxième fichier au format <kbd>.pyxres</kbd>.
+
+* <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> mettre le code de votre jeu dans <u>un seul fichier</u> <kbd>app.py</kbd></span>. Si vous utilisez des images, elles seront dans un deuxième fichier au format <kbd>.pyxres</kbd>.
 * {==Il n'est pas autorisé==} de regarder ou de copier/coller du code trouvé sur internet ou sur votre ordinateur.
 * {==Il n'est pas autorisé==} d'importer des fichiers contenant du code (fichiers <kbd>.py</kbd>) ou des images (fichiers <kbd>.pyxres</kbd>).
 * {==Il n'est pas autorisé==} de modifier les fichiers <kbd>.pyxres</kbd> fournis.
@@ -98,6 +98,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 * {==Il n'est pas autorisé==} d'utiliser des notes personnelles ou de la documentation papier autre que celle fournie.
 * Vous avez le droit de demander de l'aide aux professeurs qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer.
 * Vous avez le droit de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
+* Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 
 ### QUELQUES CONSEILS
 
