@@ -67,7 +67,7 @@ Rendre le fichier `.sb3` en suivant les consignes fournies par votre enseignant.
 
 Chaque critère est noté sur 5:
 
-* Jouabilité
+* Jouabilité  `~ un jeu qui ne marche pas ne sera pas évalué ~`
 * Richesse / Complexité
 * Originalité / Créativité
 * Respect des consignes / Documentation
