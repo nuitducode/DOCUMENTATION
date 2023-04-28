@@ -27,7 +27,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 * <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> écrire une courte documentation (ou mode d'emploi) de votre jeu</span>. Cette documentation doit être placée dans le champ « Instructions ». La documentation fait partie de l'évaluation du jeu.
 * <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> d'importer des lutins, scènes ou sons (de la bibliothèque Scratch, depuis Internet ou votre ordinateur) dans votre projet. Seuls ceux fournis dans l'univers de jeu « remixé » doivent être utilisés.
 * <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> de regarder ou de copier/coller des scripts d'autres projets trouvés sur la plateforme Scratch ou sur votre ordinateur.</span>
-* <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> d'aller chercher des tutoriels sur internet ou sur votre ordinateur.
+* <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> d'aller chercher des informations ou de l'aide sur internet ou sur votre ordinateur.
 * <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> d'utiliser des notes personnelles ou de la documentation papier.
 * <span style="font-weight:bold;background-color:#bbe33d">Il est autorisé</span>, et même conseillé, de demander de l'aide aux enseignants qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer.
 * <span style="font-weight:bold;background-color:#bbe33d">Il est autorisé</span>, et même conseillé, de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
@@ -89,7 +89,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 * <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> de regarder ou de copier/coller du code trouvé sur internet ou sur votre ordinateur.
 * <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> d'importer des fichiers contenant du code (fichiers <kbd>.py</kbd>) ou des images (fichiers <kbd>.pyxres</kbd>).
 * <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> de modifier les fichiers <kbd>.pyxres</kbd> fournis.
-* <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> d'aller chercher des tutoriels sur internet ou sur votre ordinateur.
+* <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> d'aller chercher des informations ou de l'aide sur internet ou sur votre ordinateur.
 * <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> d'utiliser des notes personnelles ou de la documentation papier autre que celle fournie.
 * <span style="font-weight:bold;background-color:#bbe33d">Il est autorisé</span>, et même conseillé, de demander de l'aide aux enseignants qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer.
 * <span style="font-weight:bold;background-color:#bbe33d">Il est autorisé</span>, et même conseillé, de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
