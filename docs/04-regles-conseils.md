@@ -30,14 +30,12 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Scratch. Pour
 * <span style="background-color:#e6e905">Il n'est pas autorisé</span> d'aller chercher des tutoriels sur internet ou sur votre ordinateur.
 * <span style="background-color:#e6e905">Il n'est pas autorisé</span> d'utiliser des notes personnelles ou de la documentation papier.
 * <span style="background-color:#bbe33d">Il est autorisé</span>, et même conseillé, de demander de l'aide aux enseignants qui encadrent la NDC. Ils ne vous donneront pas un code complet, mais certainement de bons conseils pour avancer.
-• <span style="background-color:#bbe33d">Il est autorisé</span>, et même conseillé, de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
-* Vous n'êtes absolument pas obligé d'utiliser tous les lutins, scènes ou sons de l'univers de jeu.
+* <span style="background-color:#bbe33d">Il est autorisé</span>, et même conseillé, de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
 * Vous avez le droit de dupliquer des lutins si vous en avez besoin.
 * Les éléments du jeu vous suggèrent peut-être de créer un jeu que vous connaissez déjà, mais vous êtes tout à fait libre de proposer autre chose.
-* Vous avez le droit de demander de l'aide aux professeurs qui encadrent la NDC. Ils ne vous donneront pas un script complet, mais certainement de bons conseils pour avancer.
-* Vous avez le droit de demander de l'aide à vos camarades des autres équipes participantes. La NDC est un événement festif et l'entraide est fortement recommandée.
 * Vous avez le droit de faire des « retouches » graphiques mineures sur les lutins ou les scènes: symétrie, rotation, changer une couleur, déformer, ajout de texte… mais attention à ne pas y passer trop de temps. Il est quand même conseillé d'éviter: il y a suffisamment de lutins (et certains ont beaucoup de costumes) pour trouver ce dont vous avez besoin.
 * Vous avez le droit de créer des lutins qui serviraient de « capteur » lors des déplacements (juste un rectangle ou un cercle) ou des lutins « texte ».
+* Vous n'êtes pas obligé d'utiliser tous les lutins, scènes ou sons de l'univers de jeu.
 * Vous êtes totalement libre de créer le jeu que vous voulez. Soyez créatif !
 
 
