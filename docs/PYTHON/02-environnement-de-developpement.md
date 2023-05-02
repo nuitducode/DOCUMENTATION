@@ -1,6 +1,6 @@
 # ENVIRONNEMENT DE DÉVELOPPEMENT
 
-Le développement des jeux se fera en ligne sur le site de la NDC. 
+Le développement des jeux peut se faire en ligne sur le site de la NDC ou avec l'environnement de développement de votre choix. 
 
 Les élèves peuvent s'entraîner avec les univers de jeu de l'an dernier à cette adresse : [www.nuitducode.net/pyxel](https://www.nuitducode.net/pyxel).
 
