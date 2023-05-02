@@ -85,7 +85,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 * <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> choisir un univers de jeu parmi ceux proposés (fichiers <kbd>.pyxres</kbd>) ou respecter un des deux thèmes</span>. Prenez le temps de bien étudier les différents univers de jeu avant d'en choisir un. Si vous préférez un des deux thèmes, vous pouvez utiliser le fichier <kbd>res.pyxres</kbd> vide ou n'utiliser que des formes géométriques.
 * <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> écrire une courte documentation (ou mode d'emploi) de votre jeu</span>. La documentation fait partie de l'évaluation du jeu.
 * <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> fixer la taille de l’écran à 128x128 pixels</span> (<kbd>pyxel.init(128, 128, title="NDC 2023")</kbd>).
-* <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> mettre le code de votre jeu dans <u>un seul fichier</u> <kbd>app.py</kbd></span>. Si vous utilisez des images, elles seront dans un deuxième fichier au format <kbd>.pyxres</kbd>.
+* <span style="font-weight:bold"><span style="background-color:#ffde59">Vous devez</span> mettre le code de votre jeu dans <u>un seul fichier</u> <kbd>ndc.py</kbd></span>. Si vous utilisez des images, elles seront dans un deuxième fichier au format <kbd>.pyxres</kbd>.
 * <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> de regarder ou de copier/coller du code trouvé sur internet ou sur votre ordinateur.
 * <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> d'importer des fichiers contenant du code (fichiers <kbd>.py</kbd>) ou des images (fichiers <kbd>.pyxres</kbd>).
 * <span style="font-weight:bold;background-color:#e6e905">Il n'est pas autorisé</span> de modifier les fichiers <kbd>.pyxres</kbd> fournis.
@@ -99,7 +99,7 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 
 * Avant de vous lancer dans le code, prenez le temps d'imaginer votre jeu. Passez en revue les ressources. Prévoyez de réaliser rapidement une version simple, mais jouable de votre jeu. Puis, si vous en avez le temps, rajoutez au fur et à mesure des éléments de complexité: niveau de difficulté, scores, son, etc.
 * Vous travaillez à deux ou trois: organisez-vous pour être les plus efficaces possible.
-* **Pensez à sauvegarder** ! Et surtout, effectuez régulièrement **des copies incrémentées** (version 1, 2, 3…) de votre jeu à chaque amélioration majeure (qui marche) en téléchargeant le fichier `app.py`.
+* **Pensez à sauvegarder** ! Et surtout, effectuez régulièrement **des copies incrémentées** (version 1, 2, 3…) de votre jeu à chaque amélioration majeure (qui marche) en téléchargeant le fichier `ndc.py`.
 * N'oubliez pas de faire des pauses, d'aller voir ce que font les autres, de boire et de manger !
 * <span style="font-weight:bold;color:#5eb91e">Et surtout, rappelez-vous: c'est un jeu ! Amusez-vous !</span>
 
@@ -107,11 +107,11 @@ Durant la NDC, vous disposerez de 6 heures pour créer un jeu avec Python / Pyxe
 
 #### Cas 1: si vous avez créé votre jeu en ligne sur le site de la NDC
 
-Téléchargez sur votre machine le fichier <kbd>app.py</kbd> et le fichier <kbd>.pyxres</kbd> si vous en avez utilisé un. Ensuite, enregistrez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, sélectionner votre catégorie, déposer votre fichier <kbd>app.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd> et enfin copier-coller la documentation / mode d'emploi du jeu.
+Téléchargez sur votre machine le fichier <kbd>ndc.py</kbd> et le fichier <kbd>.pyxres</kbd> si vous en avez utilisé un. Ensuite, enregistrez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, sélectionner votre catégorie, déposer votre fichier <kbd>ndc.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd> et enfin copier-coller la documentation / mode d'emploi du jeu.
 
 #### Cas 2: si vous avez créé votre jeu sans connexion internet
 
-Enregistrez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, sélectionner votre catégorie, déposer votre fichier <kbd>app.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd> et enfin copier-coller la documentation / mode d'emploi du jeu.
+Enregistrez votre jeu sur le site de la NDC en utilisant le lien fourni par votre enseignant. Ce lien vous amènera sur la page d'enregistrement. Sur cette page, vous devrez indiquer le nom de votre équipe, sélectionner votre catégorie, déposer votre fichier <kbd>ndc.py</kbd> et, s'il existe, le fichier <kbd>.pyxres</kbd> et enfin copier-coller la documentation / mode d'emploi du jeu.
 
 Si vous n'avez pas la possibilité de déposer vous-même ces fichiers sur le site, donnez-les à votre enseignant.
 
