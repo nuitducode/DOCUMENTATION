@@ -11,8 +11,8 @@ Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">
 
 ## CERTIFICATS DE PARTICIPATION
 
-* Certificat de participation <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/certificats-de-participation/certificat_paticipation_NDC2023_scratch.pdf" download>Scratch</a>
-* Certificat de participation <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/certificats-de-participation/certificat_paticipation_NDC2023_python.pdf" download>Python</a>
+* Certificat de participation <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/certificats-de-participation/certificat_participation_NDC2023_scratch.pdf" download>Scratch</a>
+* Certificat de participation <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/certificats-de-participation/certificat_participation_NDC2023_python.pdf" download>Python</a>
 
 
 ## DIAPORAMA
