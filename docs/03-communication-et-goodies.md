@@ -7,6 +7,11 @@ hide:
 
 ## AFFICHES
 
+* certificat de participation <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/certificats-de-participation/certificat_paticipation_NDC2023_scratch.pdf" download>Scratch</a>.
+* certificat de participation <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/certificats-de-participation/certificat_paticipation_NDC2023_python.pdf" download>Python</a>.
+
+## CERTIFICATS DE PARTICIPATION
+
 Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">générateur d'affiche</a>.
 
 
