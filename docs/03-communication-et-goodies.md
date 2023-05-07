@@ -84,3 +84,24 @@ Pour la communication ou pour créer des autocollants, des badges, des t-shirts,
 </table>   
 
 
+## AIR PYXEL
+
+<table>
+  <tr>
+    <td>
+      Station de jeu interactive à installer dans un établissement.<br />
+      Matériel necessaire:
+      <ul>
+        <li>ordinateur (station, portable, raspberry pi...)</li>
+        <li>écran ou vidéoprojecteur</li>
+        <li>webcam</li>
+      </ul>
+    </td>
+    <td>
+      <video width="320" autoplay muted>
+        <source src="assets/videos/air-pyxel-demo.mp4" type="video/mp4">
+      </video>
+    </td>
+  </tr>
+</table>   
+
