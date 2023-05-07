@@ -159,7 +159,7 @@ img {
     border: 0rem solid var(--md-typeset-table-color);
     border-radius: 0.1rem;
     display: inline-block;
-    font-size: 1rem;
+    font-size: 100%;
     max-width: 100%;
     overflow: auto;
     touch-action: auto;
