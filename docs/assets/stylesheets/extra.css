@@ -171,6 +171,11 @@ img {
     vertical-align: top;
 }
 
+.md-typeset table:not([class]) tbody tr:hover {
+    background-color: transparent;
+    box-shadow: 0 0.05rem 0 transparent inset;
+}
+
 .md-banner__inner {
     font-size: .7rem;
     margin: 0rem auto;
