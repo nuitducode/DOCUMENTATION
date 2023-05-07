@@ -97,10 +97,9 @@ Pour la communication ou pour créer des autocollants, des badges, des t-shirts,
         <li>écran ou vidéoprojecteur</li>
         <li>webcam</li>
       </ul>
-      <div>Lien: <a href="https://nuitducode.github.io/air-pyxel-demo/" target="_blank">nuitducode.github.io/air-pyxel-demo</a></div>
-      <div>Code & présentation: <a href="https://github.com/nuitducode/air-pyxel-demo" target="_blank">air-pyxel-demo</a>
-      <br />
-      <br />
+      <div style="margin-bottom:10px">Lien: <a href="https://nuitducode.github.io/air-pyxel-demo/" target="_blank">nuitducode.github.io/air-pyxel-demo</a></div>
+      <div style="margin-bottom:10px">Il suffit de brancher la webcam et d'ouvrir le lien.</div>
+      <div style="margin-bottom:20px">Code & présentation: <a href="https://github.com/nuitducode/air-pyxel-demo" target="_blank">air-pyxel-demo</a></div>
       <div>Optionnel: présenter des posters sur l'intelligence artificielle.</div>
     </td>
     <td>
