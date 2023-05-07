@@ -99,7 +99,7 @@ Pour la communication ou pour créer des autocollants, des badges, des t-shirts,
     </td>
     <td>
       <video width="320" autoplay muted>
-        <source src="assets/videos/air-pyxel-demo.mp4" type="video/mp4">
+        <source src="https://github.com/nuitducode/DOCUMENTATION/raw/main/docs/assets/videos/air-pyxel-demo.mp4" type="video/mp4">
       </video>
     </td>
   </tr>
