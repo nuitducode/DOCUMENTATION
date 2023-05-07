@@ -86,10 +86,11 @@ Pour la communication ou pour créer des autocollants, des badges, des t-shirts,
 
 ## AIR PYXEL
 
+**Station de jeu interactive à installer dans un établissement.**
+
 <table>
   <tr>
     <td>
-      <div>Station de jeu interactive à installer dans un établissement.</div>
       <div>Matériel nécessaire:</div>
       <ul>
         <li>ordinateur (station, portable, raspberry pi...)</li>
