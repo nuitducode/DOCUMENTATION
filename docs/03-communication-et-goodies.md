@@ -98,7 +98,7 @@ Pour la communication ou pour créer des autocollants, des badges, des t-shirts,
         <li>webcam</li>
       </ul>
       <div>Lien: <a href="https://nuitducode.github.io/air-pyxel-demo/" target="_blank">nuitducode.github.io/air-pyxel-demo</a></div>
-      <div>Code & présentation: <a href="https://github.com/nuitducode/air-pyxel-demo" target="_blank">github.com/nuitducode/air-pyxel-demo</a>
+      <div>Code & présentation: <a href="https://github.com/nuitducode/air-pyxel-demo" target="_blank">air-pyxel-demo</a>
       <br />
       <div>Optionnel: présenter des posters sur l'intelligence artificielle.</div>
     </td>
