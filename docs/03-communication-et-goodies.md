@@ -20,6 +20,37 @@ Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">
 Ouvrir le <a href="https://nuitducode.github.io/ndc-diaporama-presentation/" target="_blank">diaporama</a>.
 
 
+## VISUELS
+
+Pour la communication ou pour créer des autocollants, des badges, des t-shirts, des tasses...
+
+<table>
+  <tr>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC.png" style="height:180px;" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-07.png" style="height:180px;" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-Scratch-Python.png" style="height:180px;" /></td>
+  </tr>
+  <tr>
+    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC.svg" download>svg</a></td>
+    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-07.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-07.svg" download>svg</a></td>
+    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-Scratch-Python.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-Scratch-Python.svg" download>svg</a></td>
+  </tr>  
+</table>
+
+<table>
+  <tr>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Python.png" style="height:180px;" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch.png" style="height:180px;" /></td>
+    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch-Python.png" style="height:180px;" /></td>
+  </tr>
+  <tr>
+    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Python.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Python.svg" download>svg</a></td>
+    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch.svg" download>svg</a></td>
+    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch-Python.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch-Python.svg" download>svg</a></td>
+  </tr>  
+</table>
+
+
 ## OBJETS 3D
 
 **Porte clé**
@@ -52,32 +83,4 @@ Ouvrir le <a href="https://nuitducode.github.io/ndc-diaporama-presentation/" tar
   </tr>
 </table>   
 
-## VISUELS
 
-Pour la communication ou pour créer des autocollants, des badges, des t-shirts, des tasses...
-
-<table>
-  <tr>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC.png" style="height:180px;" /></td>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-07.png" style="height:180px;" /></td>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-Scratch-Python.png" style="height:180px;" /></td>
-  </tr>
-  <tr>
-    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC.svg" download>svg</a></td>
-    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-07.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-07.svg" download>svg</a></td>
-    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-Scratch-Python.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-NDC-Scratch-Python.svg" download>svg</a></td>
-  </tr>  
-</table>
-
-<table>
-  <tr>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Python.png" style="height:180px;" /></td>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch.png" style="height:180px;" /></td>
-    <td><img src="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch-Python.png" style="height:180px;" /></td>
-  </tr>
-  <tr>
-    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Python.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Python.svg" download>svg</a></td>
-    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch.svg" download>svg</a></td>
-    <td style='text-align:center'><a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch-Python.png" download>png</a> - <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/visuels/2023-Scratch-Python.svg" download>svg</a></td>
-  </tr>  
-</table>
