@@ -89,14 +89,16 @@ Pour la communication ou pour créer des autocollants, des badges, des t-shirts,
 <table>
   <tr>
     <td>
-      Station de jeu interactive à installer dans un établissement.<br />
-      Matériel nécessaire:
+      <div>Station de jeu interactive à installer dans un établissement.</div>
+      <div>Matériel nécessaire:</div>
       <ul>
         <li>ordinateur (station, portable, raspberry pi...)</li>
         <li>écran ou vidéoprojecteur</li>
         <li>webcam</li>
+        <li>lien: https://nuitducode.github.io/air-pyxel-demo/</li>
       </ul>
-      Optionnel: présenter des posters sur l'intelligence artificielle.
+      <div>lien: https://nuitducode.github.io/air-pyxel-demo/</div>
+      <div>Optionnel: présenter des posters sur l'intelligence artificielle.</div>
     </td>
     <td>
       <video width="480" autoplay muted>
