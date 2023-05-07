@@ -103,7 +103,7 @@ Pour la communication ou pour créer des autocollants, des badges, des t-shirts,
       <div>Optionnel: présenter des posters sur l'intelligence artificielle.</div>
     </td>
     <td>
-      <video width="600" height="275" autoplay muted>
+      <video width="600" height="220" autoplay muted>
         <source src="https://github.com/nuitducode/DOCUMENTATION/raw/main/docs/assets/videos/air-pyxel-demo.mp4" type="video/mp4">
       </video>
     </td>
