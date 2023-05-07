@@ -96,9 +96,8 @@ Pour la communication ou pour créer des autocollants, des badges, des t-shirts,
         <li>ordinateur (station, portable, raspberry pi...)</li>
         <li>écran ou vidéoprojecteur</li>
         <li>webcam</li>
-        <li>lien: https://nuitducode.github.io/air-pyxel-demo/</li>
       </ul>
-      <div>lien: https://nuitducode.github.io/air-pyxel-demo/</div>
+      <div>Lien: https://nuitducode.github.io/air-pyxel-demo/</div>
       <div>Optionnel: présenter des posters sur l'intelligence artificielle.</div>
     </td>
     <td>
