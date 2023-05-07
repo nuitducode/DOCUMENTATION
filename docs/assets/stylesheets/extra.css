@@ -104,6 +104,10 @@ img {
     border-radius:5px;
 }
 
+video {
+    border-radius:5px;
+}
+
 .gallerie {
     height:280px !important;
 }
