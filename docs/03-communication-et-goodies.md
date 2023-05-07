@@ -97,11 +97,13 @@ Pour la communication ou pour créer des autocollants, des badges, des t-shirts,
         <li>écran ou vidéoprojecteur</li>
         <li>webcam</li>
       </ul>
-      <div>Lien: https://nuitducode.github.io/air-pyxel-demo/</div>
+      <div>Lien: [nuitducode.github.io/air-pyxel-demo/](https://nuitducode.github.io/air-pyxel-demo/)</div>
+      <div>Code & présentation: [github.com/nuitducode/air-pyxel-demo](https://github.com/nuitducode/air-pyxel-demo)</div>
+      <br />
       <div>Optionnel: présenter des posters sur l'intelligence artificielle.</div>
     </td>
     <td>
-      <video width="480" autoplay muted>
+      <video width="480" height="220" autoplay muted>
         <source src="https://github.com/nuitducode/DOCUMENTATION/raw/main/docs/assets/videos/air-pyxel-demo.mp4" type="video/mp4">
       </video>
     </td>
