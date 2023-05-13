@@ -15,6 +15,11 @@ Voir le <a href="https://www.nuitducode.net/affiche-generateur" target="_blank">
 * Certificat de participation <a href="https://github.com/nuitducode/ORGANISATION-2023/raw/main/certificats-de-participation/certificat_participation_NDC2023_python.pdf" download>Python</a>
 
 
+## COMPTE À REBOURS
+
+<a href="https://www.nuitducode.net/compte-a-rebours" target="_blank">Compte à rebours</a> à lancer en début de NDC.
+
+
 ## DIAPORAMA
 
 Ouvrir le <a href="https://nuitducode.github.io/ndc-diaporama-presentation/" target="_blank">diaporama</a>.
