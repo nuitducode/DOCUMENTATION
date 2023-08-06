@@ -18,6 +18,7 @@ La **NDC** est un marathon de programmation Scratch et Python (avec le moteur de
 Par équipes de deux ou trois réparties en six catégories, les élèves ont six heures (ou moins pour les élèves de cycle 3) pour programmer entièrement un jeu avec Scratch ou Python à partir d'un univers de jeu fourni.
 
 Les six catégories :
+
 * Scratch: CM1-6e, 5e-3e et Lycée
 * Python: NSI Première, NSI Terminale et post-bac
 
