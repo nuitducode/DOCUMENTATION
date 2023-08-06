@@ -13,9 +13,13 @@ hide:
 
 ## PRÉSENTATION GÉNÉRALE
 
-La **NDC** est un marathon de programmation Scratch et Python (avec le moteur de jeu Pyxel) organisé par le Lycée Français International de Tokyo. Il s'adresse à tous les établissements scolaires français (cours moyen / collège / lycée) de l'étranger et de France.
+La **NDC** est un marathon de programmation Scratch et Python (avec le moteur de jeu Pyxel) organisé par le Lycée Français International de Tokyo. Il s'adresse à tous les établissements scolaires français (cours moyen / collège / lycée / post-bac) de l'étranger et de France.
 
-Par équipes de deux ou trois réparties en plusieurs catégories (cycle 3, cycle 4 et lycée), les élèves ont six heures (ou moins pour les élèves de cycle 3) pour programmer entièrement un jeu avec Scratch ou Python à partir d'un univers de jeu fourni.
+Par équipes de deux ou trois réparties en six catégories, les élèves ont six heures (ou moins pour les élèves de cycle 3) pour programmer entièrement un jeu avec Scratch ou Python à partir d'un univers de jeu fourni.
+
+Les six catégories :
+* Scratch: CM1-6e, 5e-3e et Lycée
+* Python: NSI Première, NSI Terminale et post-bac
 
 Édition 2022 : <kbd>159</kbd> établissements inscrits, <kbd>4556</kbd> élèves, <kbd>141</kbd> villes, <kbd>38</kbd> pays.
 
