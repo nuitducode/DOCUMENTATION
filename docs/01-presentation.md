@@ -6,9 +6,9 @@ hide:
 # PRÉSENTATION
 
 <center>
-![NDC2023](assets/images/ndc2023.png){ width="400" }
+![NDC2023](assets/images/ndc2024.png){ width="400" }
 <br />
-<span class="ndc">La <b>Nuit du c0de</b> : créez un <b>jeu</b> avec<br /><b>Scratch</b> ou <b>Python</b> en <b>6h</b>!</span>
+<span class="ndc">La <b>Nuit du Code</b> : créez un <b>jeu</b> avec<br /><b>Scratch</b> ou <b>Python</b> en <b>6h</b>!</span>
 </center>
 
 ## PRÉSENTATION GÉNÉRALE
@@ -18,6 +18,8 @@ La **NDC** est un marathon de programmation Scratch et Python (avec le moteur de
 Par équipes de deux ou trois réparties en plusieurs catégories (cycle 3, cycle 4 et lycée), les élèves ont six heures (ou moins pour les élèves de cycle 3) pour programmer entièrement un jeu avec Scratch ou Python à partir d'un univers de jeu fourni.
 
 Édition 2022 : <kbd>159</kbd> établissements inscrits, <kbd>4556</kbd> élèves, <kbd>141</kbd> villes, <kbd>38</kbd> pays.
+
+Édition 2023 : <kbd>371</kbd> établissements inscrits, <kbd>8648</kbd> élèves, <kbd>307</kbd> villes, <kbd>49</kbd> pays.
 
 Chaque année, plusieurs univers de jeu sont proposés. Ces univers de jeux sont mis à dispositions des organisateurs 48h avant la date choisie par l'établissement pour organiser la **NDC**. Les élèves découvrent ces univers de jeu au début de la **NDC** et les équipes doivent en choisir un. Un univers de jeu contient tous les éléments, sons et arrière-plans nécessaires pour créer le jeu.
 
@@ -53,23 +55,23 @@ La participation d'un établissement peut être l'occasion de la création d'un 
 * Une sélection mondiale est ensuite établie.
 
 ## CALENDRIER
-* <b style="color:#4c9ce5">Septembre 2022 - Avril 2023 : Inscriptions</b></br>
+* <b style="color:#4c9ce5">Septembre 2023 - Avril 2024 : Inscriptions</b></br>
 Si le projet vous intéresse, vous pouvez vous inscrire sur le site [nuitducode.net](https://www.nuitducode.net). Vous aurez alors accès à tous les documents, ressources, tutoriels, supports...  qui vous permettront de préparer et mettre en place la **NDC**. Tout est fait pour que la charge de travail des personnes qui organiseront la **NDC** dans un établissement soit la plus légère possible.
 
-* <b style="color:#4c9ce5">Janvier – Mai 2023 : Entraînements / Formation / Sélections</b></br>
+* <b style="color:#4c9ce5">Janvier – Mai 2024 : Entraînements / Formation / Sélections</b></br>
 Les établissements inscrits auront accès à de nombreuses ressources : tutoriels, vidéos, guides, espace de discussions... Des univers de jeu avec grilles d'évaluation seront aussi disponibles. Ils pourront être utilisés soit pour organiser des séances d'entraînement avec les élèves, soit comme sujets de sélection (si le nombre d'élèves souhaitant participer est supérieur à la capacité d'accueil de l'établissement). Soit les deux.
 
-* <b style="color:#4c9ce5">1er Mai – 27 Mai 2023 : Nuit du c0de</b></br>
-Les établissements inscrits recevront 48h avant la date qu'ils auront fixée pour la **NDC**, les univers de jeu qui seront proposés aux élèves. Ces sujets sont confidentiels !<br />
+* <b style="color:#4c9ce5">29 avril – 1er juin 2024 : Nuit du c0de</b></br>
+Les établissements inscrits recevront 48h avant la date qu'ils auront fixée pour la **NDC**, les univers de jeu qui seront proposés aux élèves. Ces sujets sont confidentiels !. Les établissements qui ne prévoient pas de proposer des jeux pour la sélection internationale peuvent organiser la **NDC** jusqu'au 29 juin.<br />
 La **NDC** demande un minimum de logistique : ordinateurs en nombre suffisant (d'où la possible nécessité d'organiser des sélections), des encadrants, nourriture et boissons pour les personnes présentes.<br />
 Si des regroupements d'établissements proches sont possibles, ils sont encouragés.
 
-* <b style="color:#4c9ce5">Mi-juin 2023 : annonce de la sélection "Nuit du c0de 2023"</b></br>
+* <b style="color:#4c9ce5">Mi-juin 2024 : annonce de la sélection "Nuit du Code 2024"</b></br>
 Huit jeux par catégories seront sélectionnés par un jury d'enseignants. 
 
 <br />
 
-Pour toute question et demande de précisions, vous pouvez utiliser l'[espace de discussions](https://github.com/nuitducode/ORGANISATION-2023/discussions) ou prendre contact avec l'équipe organisatrice en écrivant à <u>contact@nuitducode.net</u>.
+Pour toute question et demande de précisions, vous pouvez utiliser l'[espace de discussions](https://github.com/nuitducode/ORGANISATION-2024/discussions) ou prendre contact avec l'équipe organisatrice en écrivant à <u>contact@nuitducode.net</u>.
 
 <br />
 
